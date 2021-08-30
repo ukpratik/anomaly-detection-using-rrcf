@@ -1,0 +1,642 @@
+1621862883012,0,192.168.2.143,364,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1621863653005,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621865153150,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621865153150,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1621866084144,0,192.168.2.143,210,-0.0,1,{'daisy.ubuntu.com': 1}
+1621866084144,0,192.168.2.143,239,1.0,2,{'daisy.ubuntu.com': 1, 'ubuntu.com': 1}
+1621866653075,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621866953492,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621872958358,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621872958358,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1621874453115,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621874758407,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621874758407,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1621875053283,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621875353926,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621875653607,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621877457025,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621877485816,0,192.168.2.143,210,-0.0,1,{'daisy.ubuntu.com': 1}
+1621878355817,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1621878957815,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621916478664,0,192.168.2.143,245,1.0,2,{'_http._tcp.security.ubuntu.com': 1, 'ubuntu.com': 1}
+1621916478664,0,192.168.2.143,249,1.0,2,{'_http._tcp.in.archive.ubuntu.com': 1, 'ubuntu.com': 1}
+1621916478664,0,192.168.2.143,252,-0.0,1,{'api.snapcraft.io': 1}
+1621916478665,0,192.168.2.143,208,-0.0,1,{'ppa.launchpad.net': 1}
+1621916478665,4,192.168.2.143,240,1.0,2,{'_http._tcp.linux.teamviewer.com': 1, 'teamviewer.com': 1}
+1621916478666,0,192.168.2.143,216,-0.0,1,{'security.ubuntu.com': 1}
+1621916478666,0,192.168.2.143,268,1.0,2,{'in.archive.ubuntu.com': 1, 'ubuntu-archive.mirrors.estointernet.in': 1}
+1621916478666,1,192.168.2.143,312,1.584962500721156,3,{'packages.microsoft.com': 1, 'apt-geofence-parent.trafficmanager.net': 1, 'csd-apt-eas-d-3.eastasia.cloudapp.azure.com': 1}
+1621916478669,0,192.168.2.143,292,1.0,2,{'linux.teamviewer.com': 1, 'dnhddvnqvvd1g.cloudfront.net': 1}
+1621916492335,0,192.168.2.143,238,-0.0,1,{'ntp.ubuntu.com': 1}
+1621916526376,0,192.168.2.143,288,1.0,2,{'skypedataprdcoleus05.cloudapp.net': 1, 'cloudapp.net': 1}
+1621916526376,0,192.168.2.143,317,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcoleus05.cloudapp.net': 1}
+1621916526376,0,192.168.2.143,364,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1621917069231,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621917496669,569050,192.168.2.143,2702,3.3219280948873613,10,{'_ipps._tcp.local': 1, '_ipp._tcp.local': 1, '_ftp._tcp.local': 1, '_nfs._tcp.local': 1, '_afpovertcp._tcp.local': 1, '_smb._tcp.local': 1, '_sftp-ssh._tcp.local': 1, '_webdavs._tcp.local': 1, '_webdav._tcp.local': 1, '_pgpkey-hkp._tcp.local': 1}
+1621918025159,0,192.168.2.143,288,1.0,2,{'skypedataprdcoluks05.cloudapp.net': 1, 'cloudapp.net': 1}
+1621918324254,0,192.168.2.143,288,1.0,2,{'skypedataprdcoljpw03.cloudapp.net': 1, 'cloudapp.net': 1}
+1621918504314,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcoluks02.cloudapp.net': 1}
+1621918504314,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1621918504315,0,192.168.2.143,288,1.0,2,{'skypedataprdcolcus00.cloudapp.net': 1, 'cloudapp.net': 1}
+1621919613185,0,192.168.2.143,428,-0.0,1,{'d2nxq2uap88usk.cloudfront.net': 1}
+1621919642558,1,192.168.2.143,241,1.0,2,{'lh5.googleusercontent.com': 1, 'googlehosted.l.googleusercontent.com': 1}
+1621919642558,1,192.168.2.143,253,1.0,2,{'lh5.googleusercontent.com': 1, 'googlehosted.l.googleusercontent.com': 1}
+1621919663735,0,192.168.2.143,232,1.0,2,{'fonts.gstatic.com': 1, 'gstaticadssl.l.google.com': 1}
+1621919665440,535,192.168.2.143,246,1.0,2,{'adservice.google.co.in': 1, 'pagead46.l.doubleclick.net': 1}
+1621919670746,1230,192.168.2.143,219,1.0,2,{'www.ece.ualberta.ca': 1, 'www3.ece.ualberta.ca': 1}
+1621919671975,1,192.168.2.143,241,1.0,2,{'www3.ece.ualberta.ca': 1, 'ece.ualberta.ca': 1}
+1621919671977,1,192.168.2.143,202,-0.0,1,{'www3.ece.ualberta.ca': 1}
+1621919676409,0,192.168.2.143,190,-0.0,1,{'www.google.com': 1}
+1621919678849,654,192.168.2.143,223,1.0,2,{'www.blogger.com': 1, 'blogger.l.google.com': 1}
+1621919678849,654,192.168.2.143,241,1.0,2,{'3.bp.blogspot.com': 1, 'photos-ugc.l.googleusercontent.com': 1}
+1621919678849,654,192.168.2.143,253,1.0,2,{'2.bp.blogspot.com': 1, 'photos-ugc.l.googleusercontent.com': 1}
+1621919678849,655,192.168.2.143,241,1.0,2,{'2.bp.blogspot.com': 1, 'photos-ugc.l.googleusercontent.com': 1}
+1621919679503,1,192.168.2.143,249,1.0,2,{'resources.blogblog.com': 1, 'blogger.l.google.com': 1}
+1621919680587,0,192.168.2.143,232,-0.0,1,{'pagead2.googlesyndication.com': 1}
+1621919693078,0,192.168.2.143,284,1.584962500721156,3,{'assets.adobedtm.com': 1, 'cn-assets.adobedtm.com.edgekey.net': 1, 'e7808.dscg.akamaiedge.net': 1}
+1621919694039,0,192.168.2.143,206,-0.0,1,{'melangmuly.tistory.com': 1}
+1621919694040,0,192.168.2.143,364,2.0,4,{'dpm.demdex.net': 1, 'gslb-2.demdex.net': 1, 'edge-ind1.demdex.net': 1, 'ap-south-1.elb.amazonaws.com': 1}
+1621919694040,0,192.168.2.143,414,2.0,4,{'dpm.demdex.net': 1, 'gslb-2.demdex.net': 1, 'edge-ind1.demdex.net': 1, 'dcs-edge-ind1-1562177235.ap-south-1.elb.amazonaws.com': 1}
+1621919694041,0,192.168.2.143,261,1.0,2,{'f4.shared.global.fastly.net': 1, 'fastly.net': 1}
+1621919694041,0,192.168.2.143,287,1.0,2,{'js-agent.newrelic.com': 1, 'fastly.net': 1}
+1621919694042,556,192.168.2.143,250,1.0,2,{'cs9.wac.phicdn.net': 1, 'wac.phicdn.net': 1}
+1621919694600,0,192.168.2.143,278,1.0,2,{'tls12.newrelic.com.cdn.cloudflare.net': 1, 'cloudflare.net': 1}
+1621919696886,0,192.168.2.143,303,1.0,2,{'tistory4.daumcdn.net': 1, 't1.int.daumcdn.net': 1}
+1621919696886,0,192.168.2.143,338,2.0,4,{'t1.daumcdn.net': 1, 't1-wg2vgaja.kgslb.com': 1, 't1.daumcdn.net.edgesuite.net': 1, 'a1988.dscw39.akamai.net': 1}
+1621919696886,2,192.168.2.143,263,1.0,2,{'tistory4.daumcdn.net': 1, 'int.daumcdn.net': 1}
+1621919696887,0,192.168.2.143,253,1.0,2,{'4.bp.blogspot.com': 1, 'photos-ugc.l.googleusercontent.com': 1}
+1621919696887,1,192.168.2.143,244,1.0,2,{'developers.gl.kakao.com': 1, 'gl.kakao.com': 1}
+1621919696888,0,192.168.2.143,239,1.0,2,{'search1.daumcdn.net': 1, 'search-xi6mgp35.kgslb.com': 1}
+1621919696888,0,192.168.2.143,251,1.0,2,{'search1.daumcdn.net': 1, 'search-xi6mgp35.kgslb.com': 1}
+1621919697369,597,192.168.2.143,270,1.0,2,{'cm.everesttech.net': 1, 'cm.everesttech.net.akadns.net': 1}
+1621919697369,597,192.168.2.143,288,1.0,2,{'cm.everesttech.net': 1, 'akadns.net': 1}
+1621919697966,783,192.168.2.143,270,1.0,2,{'cm.everesttech.net.akadns.net': 1, 'akadns.net': 1}
+1621919698751,0,192.168.2.143,291,-0.0,1,{'d18dtii85prvml.cloudfront.net': 1}
+1621919698751,0,192.168.2.143,300,1.0,2,{'cdn.pendo.io': 1, 'd18dtii85prvml.cloudfront.net': 1}
+1621919698998,0,192.168.2.143,262,-0.0,1,{'ocsp.sca1b.amazontrust.com': 1}
+1621919701697,260,192.168.2.143,344,2.0,4,{'img1.daumcdn.net': 1, 'img-8dyziabp.kgslb.com': 1, 'img.daumcdn.net.edgesuite.net': 1, 'a1792.dscw39.akamai.net': 1}
+1621919702479,0,192.168.2.143,212,-0.0,1,{'tpc.googlesyndication.com': 1}
+1621919702482,0,192.168.2.143,202,-0.0,1,{'adservice.google.com': 1}
+1621919702483,883,192.168.2.143,260,1.0,2,{'partnerad.l.doubleclick.net': 1, 'l.doubleclick.net': 1}
+1621919703368,570,192.168.2.143,266,-0.0,1,{'pendo-static-5661679399600128.storage.googleapis.com': 1}
+1621919703938,1,192.168.2.143,235,1.0,2,{'ocsp.pki.goog': 1, 'pki-goog.l.google.com': 1}
+1621919703939,1,192.168.2.143,202,-0.0,1,{'fonts.googleapis.com': 1}
+1621919703940,1,192.168.2.143,214,-0.0,1,{'fonts.googleapis.com': 1}
+1621919706143,0,192.168.2.143,214,-0.0,1,{'encrypted-tbn2.gstatic.com': 1}
+1621919706787,0,192.168.2.143,241,1.0,2,{'stat.tiara.tistory.com': 1, 'stat.tiara.g.daum.net': 1}
+1621919734012,0,192.168.2.143,279,1.0,2,{'services.prod.mozaws.net': 1, 'prod.mozaws.net': 1}
+1621919734012,0,192.168.2.143,320,1.0,2,{'services.addons.mozilla.org': 1, 'prod.mozaws.net': 1}
+1621919734012,0,192.168.2.143,334,1.0,2,{'services.addons.mozilla.org': 1, 'services.prod.mozaws.net': 1}
+1621919734756,0,192.168.2.143,311,1.0,2,{'prod.balrog.prod.cloudops.mozgcp.net': 1, 'balrog.prod.cloudops.mozgcp.net': 1}
+1621919734756,0,192.168.2.143,370,1.584962500721156,3,{'aus5.mozilla.org': 1, 'balrog-aus5.r53-2.services.mozilla.com': 1, 'balrog.prod.cloudops.mozgcp.net': 1}
+1621919763381,0,192.168.2.143,258,1.0,2,{'adservice.google.co.in': 1, 'pagead46.l.doubleclick.net': 1}
+1621919763384,957,192.168.2.143,212,-0.0,1,{'www.googletagservices.com': 1}
+1621919763384,957,192.168.2.143,226,-0.0,1,{'encrypted-tbn3.gstatic.com': 1}
+1621919778241,0,192.168.2.143,468,1.584962500721156,3,{'incoming.telemetry.mozilla.org': 1, 'telemetry-incoming.r53-2.services.mozilla.com': 1, 'pipeline-incoming-prod-elb-149169523.us-west-2.elb.amazonaws.com': 1}
+1621919778242,0,192.168.2.143,412,1.584962500721156,3,{'incoming.telemetry.mozilla.org': 1, 'telemetry-incoming.r53-2.services.mozilla.com': 1, 'data-ingestion.prod.dataops.mozgcp.net': 1}
+1621919778242,2,192.168.2.143,325,1.0,2,{'prod.data-ingestion.prod.dataops.mozgcp.net': 1, 'data-ingestion.prod.dataops.mozgcp.net': 1}
+1621919778245,0,192.168.2.143,298,1.0,2,{'snippets.cdn.mozilla.net': 1, 'd228z91au11ukj.cloudfront.net': 1}
+1621919778246,0,192.168.2.143,285,-0.0,1,{'d228z91au11ukj.cloudfront.net': 1}
+1621919778246,0,192.168.2.143,315,1.0,2,{'snippets.cdn.mozilla.net': 1, 'd228z91au11ukj.cloudfront.net': 1}
+1621919781695,0,192.168.2.143,258,1.584962500721156,3,{'teams.office.com': 1, 'teams-office-com.s-0005.s-msedge.net': 1, 's-0005.s-msedge.net': 1}
+1621919781695,0,192.168.2.143,464,3.169925001442312,9,{'outlook.office.com': 1, 'substrate.office.com': 1, 'substrate.ha.office.com': 1, 'substrate.ms-acdc.office.com': 1, 'afd-k.office.com': 1, 'outlook-office-com.k-0002.k-msedge.net': 1, 'outlook.ha.office365.com': 1, 'outlook.ms-acdc.office.com': 1, 'PNQ-efz.ms-acdc.office.com': 1}
+1621919781695,0,192.168.2.143,500,3.169925001442312,9,{'outlook.office.com': 1, 'substrate.office.com': 1, 'substrate.ha.office.com': 1, 'substrate.ms-acdc.office.com': 1, 'afd-k.office.com': 1, 'outlook-office-com.k-0002.k-msedge.net': 1, 'outlook.ha.office365.com': 1, 'outlook.ms-acdc.office.com': 1, 'PNQ-efz.ms-acdc.office.com': 1}
+1621919781696,0,192.168.2.143,226,1.584962500721156,3,{'www.kernel.org': 1, 'git.kernel.org': 1, 'sin.git.kernel.org': 1}
+1621919781696,0,192.168.2.143,238,1.584962500721156,3,{'www.kernel.org': 1, 'git.kernel.org': 1, 'sin.git.kernel.org': 1}
+1621919781696,0,192.168.2.143,250,-0.0,1,{'github.com': 1}
+1621919781696,0,192.168.2.143,304,-0.0,1,{'youtube-ui.l.google.com': 1}
+1621919781696,2,192.168.2.143,212,-0.0,1,{'en.cppreference.com': 1}
+1621919781697,0,192.168.2.143,253,1.0,2,{'e29503.a.akamaiedge.net': 1, 'a.akamaiedge.net': 1}
+1621919781697,0,192.168.2.143,254,1.0,2,{'support.mozilla.org': 1, 'prod-tp.sumo.mozit.cloud': 1}
+1621919781697,0,192.168.2.143,289,1.584962500721156,3,{'www.cricbuzz.com': 1, 'www.cricbuzz.com-v1.edgekey.net': 1, 'e29503.a.akamaiedge.net': 1}
+1621919781697,0,192.168.2.143,304,1.0,2,{'support.mozilla.org': 1, 'sumo.mozit.cloud': 1}
+1621919781697,0,192.168.2.143,315,1.584962500721156,3,{'www.cricbuzz.com': 1, 'www.cricbuzz.com-v1.edgekey.net': 1, 'a.akamaiedge.net': 1}
+1621919781697,1,192.168.2.143,329,1.584962500721156,3,{'hrcloud.myadrenalin.com': 1, 'myhris.adrenalin.in.edgekey.net': 1, 'a.akamaiedge.net': 1}
+1621919781698,0,192.168.2.143,204,-0.0,1,{'www.gstatic.com': 1}
+1621919781698,0,192.168.2.143,226,-0.0,1,{'encrypted-tbn0.gstatic.com': 1}
+1621919781699,0,192.168.2.143,208,-0.0,1,{'plus.l.google.com': 1}
+1621919781700,0,192.168.2.143,214,-0.0,1,{'adservice.google.com': 1}
+1621919781700,0,192.168.2.143,228,-0.0,1,{'googleads.g.doubleclick.net': 1}
+1621919794694,0,192.168.2.143,186,-0.0,1,{'kb.ettus.com': 1}
+1621919794696,0,192.168.2.143,273,1.584962500721156,3,{'r3.o.lencr.org': 1, 'o.lencr.edgesuite.net': 1, 'a1887.dscq.akamai.net': 1}
+1621919796402,0,192.168.2.143,274,1.0,2,{'www.ettus.com': 1, 'www.ettus.com.cdn.cloudflare.net': 1}
+1621919797743,0,192.168.2.143,218,-0.0,1,{'cdnjs.cloudflare.com': 1}
+1621919797743,0,192.168.2.143,242,-0.0,1,{'cdnjs.cloudflare.com': 1}
+1621919800275,0,192.168.2.143,278,1.0,2,{'stats.g.doubleclick.net': 1, 'stats.l.doubleclick.net': 1}
+1621919800275,0,192.168.2.143,326,1.0,2,{'stats.g.doubleclick.net': 1, 'stats.l.doubleclick.net': 1}
+1621919844381,0,192.168.2.143,228,-0.0,1,{'encrypted-vtbn1.gstatic.com': 1}
+1621919908346,0,192.168.2.143,364,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1621919942953,0,192.168.2.143,190,-0.0,1,{'www.google.com': 1}
+1621919942953,190,192.168.2.143,192,-0.0,1,{'www.gstatic.com': 1}
+1621919943143,0,192.168.2.143,244,1.0,2,{'fonts.gstatic.com': 1, 'gstaticadssl.l.google.com': 1}
+1621920011989,0,192.168.2.143,418,1.584962500721156,3,{'incoming.telemetry.mozilla.org': 1, 'telemetry-incoming.r53-2.services.mozilla.com': 1, 'us-west-2.elb.amazonaws.com': 1}
+1621920011989,251,192.168.2.143,352,1.0,2,{'pipeline-incoming-prod-elb-149169523.us-west-2.elb.amazonaws.com': 1, 'us-west-2.elb.amazonaws.com': 1}
+1621920014190,1,192.168.2.143,182,-0.0,1,{'github.com': 1}
+1621920014190,1,192.168.2.143,270,1.584962500721156,3,{'teams.office.com': 1, 'teams-office-com.s-0005.s-msedge.net': 1, 's-0005.s-msedge.net': 1}
+1621920014190,1,192.168.2.143,500,3.169925001442312,9,{'outlook.office.com': 1, 'substrate.office.com': 1, 'substrate.ha.office.com': 1, 'substrate.ms-acdc.office.com': 1, 'afd-k.office.com': 1, 'outlook-office-com.k-0002.k-msedge.net': 1, 'outlook.ha.office365.com': 1, 'outlook.ms-acdc.office.com': 1, 'PNQ-efz.ms-acdc.office.com': 1}
+1621920014192,234,192.168.2.143,226,1.584962500721156,3,{'www.kernel.org': 1, 'git.kernel.org': 1, 'sin.git.kernel.org': 1}
+1621920014192,234,192.168.2.143,253,1.0,2,{'e10111.a.akamaiedge.net': 1, 'a.akamaiedge.net': 1}
+1621920014192,235,192.168.2.143,208,-0.0,1,{'e10111.a.akamaiedge.net': 1}
+1621920014192,235,192.168.2.143,238,1.584962500721156,3,{'www.kernel.org': 1, 'git.kernel.org': 1, 'sin.git.kernel.org': 1}
+1621920014192,236,192.168.2.143,448,-0.0,1,{'youtube-ui.l.google.com': 1}
+1621920014427,0,192.168.2.143,227,1.0,2,{'kb.ettus.com': 1, 'ettus.com': 1}
+1621920014427,0,192.168.2.143,254,1.0,2,{'support.mozilla.org': 1, 'prod-tp.sumo.mozit.cloud': 1}
+1621920014427,0,192.168.2.143,289,1.584962500721156,3,{'www.cricbuzz.com': 1, 'www.cricbuzz.com-v1.edgekey.net': 1, 'e29503.a.akamaiedge.net': 1}
+1621920014427,0,192.168.2.143,304,1.0,2,{'support.mozilla.org': 1, 'sumo.mozit.cloud': 1}
+1621920062126,0,192.168.2.143,412,1.584962500721156,3,{'incoming.telemetry.mozilla.org': 1, 'telemetry-incoming.r53-2.services.mozilla.com': 1, 'data-ingestion.prod.dataops.mozgcp.net': 1}
+1621920066161,1208,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621920183597,0,192.168.2.143,352,1.0,2,{'pipeline-incoming-prod-elb-149169523.us-west-2.elb.amazonaws.com': 1, 'us-west-2.elb.amazonaws.com': 1}
+1621920183597,0,192.168.2.143,468,1.584962500721156,3,{'incoming.telemetry.mozilla.org': 1, 'telemetry-incoming.r53-2.services.mozilla.com': 1, 'pipeline-incoming-prod-elb-149169523.us-west-2.elb.amazonaws.com': 1}
+1621920183600,0,192.168.2.143,285,-0.0,1,{'d228z91au11ukj.cloudfront.net': 1}
+1621920183600,0,192.168.2.143,298,1.0,2,{'snippets.cdn.mozilla.net': 1, 'd228z91au11ukj.cloudfront.net': 1}
+1621920183600,0,192.168.2.143,315,1.0,2,{'snippets.cdn.mozilla.net': 1, 'd228z91au11ukj.cloudfront.net': 1}
+1621920185345,0,192.168.2.143,182,-0.0,1,{'github.com': 1}
+1621920185345,0,192.168.2.143,258,1.584962500721156,3,{'teams.office.com': 1, 'teams-office-com.s-0005.s-msedge.net': 1, 's-0005.s-msedge.net': 1}
+1621920185345,0,192.168.2.143,270,1.584962500721156,3,{'teams.office.com': 1, 'teams-office-com.s-0005.s-msedge.net': 1, 's-0005.s-msedge.net': 1}
+1621920185346,0,192.168.2.143,204,-0.0,1,{'www.gstatic.com': 1}
+1621920185346,0,192.168.2.143,214,-0.0,1,{'encrypted-tbn0.gstatic.com': 1}
+1621920185346,0,192.168.2.143,329,1.584962500721156,3,{'hrcloud.myadrenalin.com': 1, 'myhris.adrenalin.in.edgekey.net': 1, 'a.akamaiedge.net': 1}
+1621920186180,1,192.168.2.143,208,-0.0,1,{'plus.l.google.com': 1}
+1621920186182,0,192.168.2.143,208,-0.0,1,{'www3.l.google.com': 1}
+1621920186182,0,192.168.2.143,214,-0.0,1,{'adservice.google.com': 1}
+1621920186659,0,192.168.2.143,246,1.0,2,{'adservice.google.co.in': 1, 'pagead46.l.doubleclick.net': 1}
+1621920186660,1,192.168.2.143,258,1.0,2,{'adservice.google.co.in': 1, 'pagead46.l.doubleclick.net': 1}
+1621920202413,0,192.168.2.143,228,-0.0,1,{'encrypted-vtbn2.gstatic.com': 1}
+1621920219277,0,192.168.2.143,280,1.0,2,{'camo.githubusercontent.com': 1, 'githubusercontent.com': 1}
+1621920219277,0,192.168.2.143,341,1.0,2,{'collector.githubapp.com': 1, 'us-east-1.elb.amazonaws.com': 1}
+1621920220053,0,192.168.2.143,216,-0.0,1,{'safebrowsing.googleapis.com': 1}
+1621920220053,0,192.168.2.143,228,-0.0,1,{'safebrowsing.googleapis.com': 1}
+1621920220964,0,192.168.2.143,190,-0.0,1,{'api.github.com': 1}
+1621920287785,0,192.168.2.143,352,1.0,2,{'pipeline-incoming-prod-elb-149169523.us-west-2.elb.amazonaws.com': 1, 'us-west-2.elb.amazonaws.com': 1}
+1621920287785,0,192.168.2.143,418,1.584962500721156,3,{'incoming.telemetry.mozilla.org': 1, 'telemetry-incoming.r53-2.services.mozilla.com': 1, 'us-west-2.elb.amazonaws.com': 1}
+1621920287785,0,192.168.2.143,468,1.584962500721156,3,{'incoming.telemetry.mozilla.org': 1, 'telemetry-incoming.r53-2.services.mozilla.com': 1, 'pipeline-incoming-prod-elb-149169523.us-west-2.elb.amazonaws.com': 1}
+1621920304170,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1621920304171,0,192.168.2.143,288,1.0,2,{'skypedataprdcolweu05.cloudapp.net': 1, 'cloudapp.net': 1}
+1621921568080,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621921711613,0,192.168.2.143,186,-0.0,1,{'kb.ettus.com': 1}
+1621921711613,0,192.168.2.143,242,-0.0,1,{'cdnjs.cloudflare.com': 1}
+1621921712834,1,192.168.2.143,228,-0.0,1,{'www-google-analytics.l.google.com': 1}
+1621921797869,0,192.168.2.143,285,-0.0,1,{'d228z91au11ukj.cloudfront.net': 1}
+1621921799653,0,192.168.2.143,190,-0.0,1,{'www.google.com': 1}
+1621921799653,0,192.168.2.143,192,-0.0,1,{'www.gstatic.com': 1}
+1621921799653,0,192.168.2.143,202,-0.0,1,{'www.google.com': 1}
+1621921799654,0,192.168.2.143,214,-0.0,1,{'encrypted-tbn0.gstatic.com': 1}
+1621921799654,0,192.168.2.143,226,-0.0,1,{'encrypted-tbn0.gstatic.com': 1}
+1621921799655,895,192.168.2.143,325,1.0,2,{'prod.data-ingestion.prod.dataops.mozgcp.net': 1, 'data-ingestion.prod.dataops.mozgcp.net': 1}
+1621921799655,895,192.168.2.143,464,3.169925001442312,9,{'outlook.office.com': 1, 'substrate.office.com': 1, 'substrate.ha.office.com': 1, 'substrate.ms-acdc.office.com': 1, 'afd-k.office.com': 1, 'outlook-office-com.k-0002.k-msedge.net': 1, 'outlook.ha.office365.com': 1, 'outlook.ms-acdc.office.com': 1, 'PNQ-efz.ms-acdc.office.com': 1}
+1621921800551,1,192.168.2.143,232,1.0,2,{'fonts.gstatic.com': 1, 'gstaticadssl.l.google.com': 1}
+1621921800551,1,192.168.2.143,244,1.0,2,{'fonts.gstatic.com': 1, 'gstaticadssl.l.google.com': 1}
+1621921800551,2,192.168.2.143,304,-0.0,1,{'youtube-ui.l.google.com': 1}
+1621921800551,4,192.168.2.143,212,-0.0,1,{'en.cppreference.com': 1}
+1621921800552,0,192.168.2.143,329,1.584962500721156,3,{'hrcloud.myadrenalin.com': 1, 'myhris.adrenalin.in.edgekey.net': 1, 'a.akamaiedge.net': 1}
+1621921800553,0,192.168.2.143,254,1.0,2,{'support.mozilla.org': 1, 'prod-tp.sumo.mozit.cloud': 1}
+1621921801105,1,192.168.2.143,196,-0.0,1,{'plus.l.google.com': 1}
+1621921802929,0,192.168.2.143,246,1.0,2,{'adservice.google.co.in': 1, 'pagead46.l.doubleclick.net': 1}
+1621921802929,0,192.168.2.143,258,1.0,2,{'adservice.google.co.in': 1, 'pagead46.l.doubleclick.net': 1}
+1621921802930,0,192.168.2.143,216,-0.0,1,{'googleads.g.doubleclick.net': 1}
+1621921804846,0,192.168.2.143,280,1.0,2,{'camo.githubusercontent.com': 1, 'githubusercontent.com': 1}
+1621921805755,0,192.168.2.143,286,1.0,2,{'avatars.githubusercontent.com': 1, 'githubusercontent.com': 1}
+1621921805761,0,192.168.2.143,340,1.0,2,{'analytics-collector-28944298.us-east-1.elb.amazonaws.com': 1, 'us-east-1.elb.amazonaws.com': 1}
+1621921866636,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621921925502,0,192.168.2.143,317,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolweu06.cloudapp.net': 1}
+1621921925502,0,192.168.2.143,364,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1621922105285,0,192.168.2.143,288,1.0,2,{'skypedataprdcolwus08.cloudapp.net': 1, 'cloudapp.net': 1}
+1621922105285,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1621922166289,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621922466788,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1621922473124,0,192.168.2.143,228,-0.0,1,{'safebrowsing.googleapis.com': 1}
+1621922521788,0,192.168.2.143,325,1.0,2,{'prod.data-ingestion.prod.dataops.mozgcp.net': 1, 'data-ingestion.prod.dataops.mozgcp.net': 1}
+1621922521788,0,192.168.2.143,412,1.584962500721156,3,{'incoming.telemetry.mozilla.org': 1, 'telemetry-incoming.r53-2.services.mozilla.com': 1, 'data-ingestion.prod.dataops.mozgcp.net': 1}
+1621922521788,0,192.168.2.143,468,1.584962500721156,3,{'incoming.telemetry.mozilla.org': 1, 'telemetry-incoming.r53-2.services.mozilla.com': 1, 'pipeline-incoming-prod-elb-149169523.us-west-2.elb.amazonaws.com': 1}
+1621923904308,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolwus04.cloudapp.net': 1}
+1621923904309,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1621923997705,0,192.168.2.143,210,-0.0,1,{'daisy.ubuntu.com': 1}
+1621923997705,0,192.168.2.143,239,1.0,2,{'daisy.ubuntu.com': 1, 'ubuntu.com': 1}
+1621924268738,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621925167433,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1621925524385,0,192.168.2.143,288,1.0,2,{'skypedataprdcoluks00.cloudapp.net': 1, 'cloudapp.net': 1}
+1621925524385,0,192.168.2.143,317,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolwus01.cloudapp.net': 1}
+1621925704092,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolwus08.cloudapp.net': 1}
+1621925704092,0,192.168.2.143,288,1.0,2,{'skypedataprdcolwus06.cloudapp.net': 1, 'cloudapp.net': 1}
+1621925704092,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1621926072066,0,192.168.2.143,216,-0.0,1,{'safebrowsing.googleapis.com': 1}
+1621926072067,0,192.168.2.143,228,-0.0,1,{'safebrowsing.googleapis.com': 1}
+1621929069235,0,192.168.2.143,210,-0.0,1,{'daisy.ubuntu.com': 1}
+1621929124380,0,192.168.2.143,288,1.0,2,{'skypedataprdcoleus02.cloudapp.net': 1, 'cloudapp.net': 1}
+1621929124380,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1621929304118,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolweu05.cloudapp.net': 1}
+1621929366169,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621929661924,0,192.168.2.143,228,-0.0,1,{'safebrowsing.googleapis.com': 1}
+1621931104796,0,192.168.2.143,288,1.0,2,{'skypedataprdcoleus01.cloudapp.net': 1, 'cloudapp.net': 1}
+1621931449784,0,192.168.2.143,216,-0.0,1,{'safebrowsing.googleapis.com': 1}
+1621931766469,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621931798004,0,192.168.2.143,210,-0.0,1,{'daisy.ubuntu.com': 1}
+1621932066464,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1621932725734,0,192.168.2.143,288,1.0,2,{'skypedataprdcoljpe04.cloudapp.net': 1, 'cloudapp.net': 1}
+1621932725734,0,192.168.2.143,364,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1621932905488,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolwus04.cloudapp.net': 1}
+1621932905488,0,192.168.2.143,288,1.0,2,{'skypedataprdcolwus04.cloudapp.net': 1, 'cloudapp.net': 1}
+1621932905488,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1621933586842,0,192.168.2.143,343,1.0,2,{'firefox-settings-attachments.cdn.mozilla.net': 1, 'fennec-catalog-cdn.prod.mozaws.net': 1}
+1621933866369,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621933866369,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1621935966658,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621936324189,0,192.168.2.143,288,1.0,2,{'skypedataprdcoluks00.cloudapp.net': 1, 'cloudapp.net': 1}
+1621936504403,0,192.168.2.143,288,1.0,2,{'skypedataprdcolneu01.cloudapp.net': 1, 'cloudapp.net': 1}
+1621936832435,0,192.168.2.143,216,-0.0,1,{'safebrowsing.googleapis.com': 1}
+1621938124223,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1621938304630,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolcus04.cloudapp.net': 1}
+1621938304630,0,192.168.2.143,288,1.0,2,{'skypedataprdcolneu05.cloudapp.net': 1, 'cloudapp.net': 1}
+1621938304630,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1621938366833,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621938694463,0,192.168.2.143,252,-0.0,1,{'api.snapcraft.io': 1}
+1621938697825,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621938697826,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1621938697827,0,192.168.2.143,210,-0.0,1,{'daisy.ubuntu.com': 1}
+1621938697827,0,192.168.2.143,222,-0.0,1,{'relay-1dcabc5f.net.anydesk.com': 1}
+1621938697827,0,192.168.2.143,239,1.0,2,{'daisy.ubuntu.com': 1, 'ubuntu.com': 1}
+1621938711803,0,192.168.2.143,230,-0.0,1,{'ntp.ubuntu.com': 1}
+1621938711803,0,192.168.2.143,238,-0.0,1,{'ntp.ubuntu.com': 1}
+1621938722058,0,192.168.2.143,317,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolwus14.cloudapp.net': 1}
+1621938725036,0,192.168.2.143,291,2.0,4,{'teams.microsoft.com': 1, 'teams.office.com': 1, 'teams-office-com.s-0005.s-msedge.net': 1, 's-0005.s-msedge.net': 1}
+1621938816314,0,192.168.2.143,288,1.0,2,{'skypedataprdcolcus13.cloudapp.net': 1, 'cloudapp.net': 1}
+1621940187160,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1621940487013,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621941086904,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621941988037,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621942888595,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621943187168,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1621943488018,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1621944986965,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621944986965,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1621945886881,1,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621950989589,0,192.168.2.143,242,1.0,2,{'api.snapcraft.io': 1, 'snapcraft.io': 1}
+1621952188563,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1621952789106,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621953418776,0,192.168.2.143,210,-0.0,1,{'daisy.ubuntu.com': 1}
+1621953687786,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621954287405,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621957325166,0,192.168.2.143,210,-0.0,1,{'daisy.ubuntu.com': 1}
+1621957589943,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621957889422,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621958189457,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622093381590,507966,192.168.2.143,1983,3.0,8,{'_ipps._tcp.local': 1, '_ipp._tcp.local': 1, 'c.5.7.7.9.f.e.3.8.e.3.7.6.4.8.2.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa': 1, 'Sourin.local': 1, '_nmea-0183._tcp.local': 1, '143.2.168.192.in-addr.arpa': 1, '_scanner._tcp.local': 1, '_sane-port._tcp.local': 1}
+1622093381593,0,192.168.2.143,249,1.0,2,{'_http._tcp.in.archive.ubuntu.com': 1, 'ubuntu.com': 1}
+1622093381593,1,192.168.2.143,234,1.0,2,{'_https._tcp.download.ni.com': 1, 'ni.com': 1}
+1622093381593,1,192.168.2.143,266,1.0,2,{'_https._tcp.packages.microsoft.com': 1, 'microsoft.com': 1}
+1622093381594,0,192.168.2.143,244,1.0,2,{'_http._tcp.ppa.launchpad.net': 1, 'launchpad.net': 1}
+1622093381594,1,192.168.2.143,245,1.0,2,{'_http._tcp.security.ubuntu.com': 1, 'ubuntu.com': 1}
+1622093381594,617,192.168.2.143,234,1.0,2,{'in.archive.ubuntu.com': 1, 'ubuntu-archive.mirrors.estointernet.in': 1}
+1622093381594,619,192.168.2.143,290,1.584962500721156,3,{'packages.microsoft.com': 1, 'apt-geofence-parent.trafficmanager.net': 1, 'csd-apt-eas-d-2.eastasia.cloudapp.azure.com': 1}
+1622093381594,619,192.168.2.143,337,1.584962500721156,3,{'packages.microsoft.com': 1, 'apt-geofence-parent.trafficmanager.net': 1, 'eastasia.cloudapp.azure.com': 1}
+1622093381594,626,192.168.2.143,240,1.0,2,{'_http._tcp.linux.teamviewer.com': 1, 'teamviewer.com': 1}
+1622093381595,617,192.168.2.143,174,-0.0,1,{'ppa.launchpad.net': 1}
+1622093381595,617,192.168.2.143,186,-0.0,1,{'ppa.launchpad.net': 1}
+1622093381595,617,192.168.2.143,194,-0.0,1,{'security.ubuntu.com': 1}
+1622093382211,1,192.168.2.143,258,1.0,2,{'download.ni.com': 1, 'download.ni.com.cdn.cloudflare.net': 1}
+1622093382214,3,192.168.2.143,286,1.0,2,{'csd-apt-eas-d-2.eastasia.cloudapp.azure.com': 1, 'eastasia.cloudapp.azure.com': 1}
+1622093382220,559,192.168.2.143,430,1.0,2,{'linux.teamviewer.com': 1, 'dnhddvnqvvd1g.cloudfront.net': 1}
+1622093383580,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622093383582,1,192.168.2.143,239,1.0,2,{'daisy.ubuntu.com': 1, 'ubuntu.com': 1}
+1622093383583,1,192.168.2.143,252,-0.0,1,{'api.snapcraft.io': 1}
+1622093433845,0,192.168.2.143,228,-0.0,1,{'skypedataprdcolweu06.cloudapp.net': 1}
+1622093433845,0,192.168.2.143,291,2.0,4,{'teams.microsoft.com': 1, 'teams.office.com': 1, 'teams-office-com.s-0005.s-msedge.net': 1, 's-0005.s-msedge.net': 1}
+1622093525308,0,192.168.2.143,288,1.0,2,{'skypedataprdcoleus01.cloudapp.net': 1, 'cloudapp.net': 1}
+1622093548421,0,192.168.2.143,228,-0.0,1,{'skypedataprdcoleus01.cloudapp.net': 1}
+1622093557628,0,192.168.2.143,288,1.0,2,{'skypedataprdcolwus13.cloudapp.net': 1, 'cloudapp.net': 1}
+1622093972810,2,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622096373080,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622097272941,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622097872771,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622097876565,0,192.168.2.143,210,-0.0,1,{'daisy.ubuntu.com': 1}
+1622099973595,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622100084507,1220,192.168.2.143,1610,1.0,2,{'Canon iR C3020._ipp._tcp.local': 1, 'Canon3ac8da.local': 1}
+1622100274005,0,192.168.2.143,274,-0.0,1,{'api.snapcraft.io': 1}
+1622100572691,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622101472664,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622101774963,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622102073993,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622104773985,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622105103723,0,192.168.2.143,210,-0.0,1,{'daisy.ubuntu.com': 1}
+1622105103723,0,192.168.2.143,239,1.0,2,{'daisy.ubuntu.com': 1, 'ubuntu.com': 1}
+1622107472895,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622108073116,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622108266481,7379,192.168.2.143,188,1.0,2,{'_ipp._tcp.local': 1, '_ipps._tcp.local': 1}
+1622109273104,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622109273104,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622111074239,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622111672672,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622111672672,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622116175236,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622118873039,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622119472843,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622120972954,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622121275328,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622123073652,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622123374440,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622125777014,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622127876869,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622127876869,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622128176264,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622131183673,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622134478047,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622134478047,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622134772838,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622136573529,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622136875494,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622137181639,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622138674180,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622139885068,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622141094010,0,192.168.2.143,242,1.0,2,{'api.snapcraft.io': 1, 'snapcraft.io': 1}
+1622141094011,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622141688510,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622141981496,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622142277302,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622142875871,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622143176617,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622143476789,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622144701579,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622145893334,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622147384884,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622148891806,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622150094920,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622150681936,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622151284280,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622151879381,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622152197487,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622154882106,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622154882106,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622156084119,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622156395191,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622158187942,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622161791641,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622162082945,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622162987241,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622163882508,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622164496977,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622166894789,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622167196548,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622167482499,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622167482499,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622167792928,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622168090826,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622168689554,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622168992671,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622169281820,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622172289958,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622173177359,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622174377150,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622175279091,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622178418641,4,192.168.2.143,2846,1.584962500721156,3,{'HP LaserJet Pro M329 PCL 6 (V3)._ipp._tcp.local': 1, 'HP LaserJet Pro M329 PCL 6 (V3)._ipps._tcp.local': 1, 'HPE8D8D1DF2B51.local': 1}
+1622178572632,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622178872943,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622179774536,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622179774537,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622180973825,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622184272632,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622184573038,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622186072692,1,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622186986222,487610,192.168.2.143,359,1.0,2,{'_ipp._tcp.local': 1, '_ipps._tcp.local': 1}
+1622187872705,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622188472727,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622188773176,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622189672937,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622189972993,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622191075340,793379,192.168.2.143,8942,3.700439718141092,13,{'_ipps._tcp.local': 1, 'Sourin.local': 1, '143.2.168.192.in-addr.arpa': 1, 'c.5.7.7.9.f.e.3.8.e.3.7.6.4.8.2.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa': 1, '_ipp._tcp.local': 1, 'HP LaserJet Pro M329 PCL 6 (V3)._ipp._tcp.local': 1, 'HP LaserJet Pro M329 PCL 6 (V3)._ipps._tcp.local': 1, 'HPE8D8D1DF2B51.local': 1, 'Canon iR C3020._ipp._tcp.local': 1, 'Canon3ac8da.local': 1, '_scanner._tcp.local': 1, '_sane-port._tcp.local': 1, '_nmea-0183._tcp.local': 1}
+1622191173611,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622191173612,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622191360617,0,192.168.2.143,222,-0.0,1,{'relay-1379aa09.net.anydesk.com': 1}
+1622191360617,0,192.168.2.143,504,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622191360618,0,192.168.2.143,239,1.0,2,{'daisy.ubuntu.com': 1, 'ubuntu.com': 1}
+1622191366974,0,192.168.2.143,198,-0.0,1,{'248.2.168.192.in-addr.arpa': 1}
+1622191366975,0,192.168.2.143,198,-0.0,1,{'248.2.168.192.in-addr.arpa': 1}
+1622191452527,0,192.168.2.143,288,1.0,2,{'skypedataprdcoleus14.cloudapp.net': 1, 'cloudapp.net': 1}
+1622191452527,0,192.168.2.143,364,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622191455210,0,192.168.2.143,288,1.0,2,{'skypedataprdcoleus13.cloudapp.net': 1, 'cloudapp.net': 1}
+1622191544423,0,192.168.2.143,288,1.0,2,{'skypedataprdcolcus03.cloudapp.net': 1, 'cloudapp.net': 1}
+1622191570456,0,192.168.2.143,288,1.0,2,{'skypedataprdcolwus13.cloudapp.net': 1, 'cloudapp.net': 1}
+1622191675401,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolweu06.cloudapp.net': 1}
+1622191675401,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622195232484,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcoleus03.cloudapp.net': 1}
+1622195232485,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622195852221,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622196152694,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622196452969,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622196852078,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622197032027,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolweu00.cloudapp.net': 1}
+1622197032027,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622197094166,117944,192.168.2.143,279,-0.0,1,{'_ipp._tcp.local': 1}
+1622197953087,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622198552975,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622198652124,0,192.168.2.143,317,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolneu00.cloudapp.net': 1}
+1622198652124,0,192.168.2.143,364,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622198852210,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622200352544,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622200632377,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622200952533,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622201852194,350,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622201855344,0,192.168.2.143,210,-0.0,1,{'daisy.ubuntu.com': 1}
+1622202254025,0,192.168.2.143,317,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcoluks05.cloudapp.net': 1}
+1622202254026,0,192.168.2.143,288,1.0,2,{'skypedataprdcoleus01.cloudapp.net': 1, 'cloudapp.net': 1}
+1622202432311,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolcus02.cloudapp.net': 1}
+1622202432311,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622202587710,74700,192.168.2.143,3103,2.321928094887362,5,{'HP LaserJet Pro M329 PCL 6 (V3)._ipp._tcp.local': 1, 'HP LaserJet Pro M329 PCL 6 (V3)._ipps._tcp.local': 1, 'HPE8D8D1DF2B51.local': 1, '_ipps._tcp.local': 1, '_ipp._tcp.local': 1}
+1622203075961,204914,192.168.2.143,2977,2.0,4,{'_ipp._tcp.local': 1, 'HP LaserJet Pro M329 PCL 6 (V3)._ipp._tcp.local': 1, 'HP LaserJet Pro M329 PCL 6 (V3)._ipps._tcp.local': 1, 'HPE8D8D1DF2B51.local': 1}
+1622203754195,0,192.168.2.143,288,1.0,2,{'skypedataprdcoleus06.cloudapp.net': 1, 'cloudapp.net': 1}
+1622204053524,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcoljpe01.cloudapp.net': 1}
+1622204053524,0,192.168.2.143,288,1.0,2,{'skypedataprdcolcus13.cloudapp.net': 1, 'cloudapp.net': 1}
+1622204232428,0,192.168.2.143,288,1.0,2,{'skypedataprdcoleus01.cloudapp.net': 1, 'cloudapp.net': 1}
+1622205852082,0,192.168.2.143,288,1.0,2,{'skypedataprdcolwus01.cloudapp.net': 1, 'cloudapp.net': 1}
+1622206032226,0,192.168.2.143,288,1.0,2,{'skypedataprdcolweu01.cloudapp.net': 1, 'cloudapp.net': 1}
+1622206032226,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622206704218,35894,192.168.2.143,500,-0.0,1,{'_ipp._tcp.local': 1}
+1622206952263,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622207252191,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622207652715,0,192.168.2.143,288,1.0,2,{'skypedataprdcoluks01.cloudapp.net': 1, 'cloudapp.net': 1}
+1622207833211,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolcus00.cloudapp.net': 1}
+1622207833212,0,192.168.2.143,288,1.0,2,{'skypedataprdcolwus00.cloudapp.net': 1, 'cloudapp.net': 1}
+1622208152338,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622208752844,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622208758806,0,192.168.2.143,242,1.0,2,{'api.snapcraft.io': 1, 'snapcraft.io': 1}
+1622209052400,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622209354139,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622209633644,0,192.168.2.143,288,1.0,2,{'skypedataprdcolneu03.cloudapp.net': 1, 'cloudapp.net': 1}
+1622209633644,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622209952625,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622210552704,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622211254130,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolaus00.cloudapp.net': 1}
+1622211254131,0,192.168.2.143,288,1.0,2,{'skypedataprdcoluks04.cloudapp.net': 1, 'cloudapp.net': 1}
+1622211433134,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcoleus14.cloudapp.net': 1}
+1622211433134,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622211452901,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622212354564,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622212952929,1,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622213055063,0,192.168.2.143,288,1.0,2,{'skypedataprdcoleus12.cloudapp.net': 1, 'cloudapp.net': 1}
+1622213055063,0,192.168.2.143,317,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolneu05.cloudapp.net': 1}
+1622213055063,0,192.168.2.143,364,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622213235592,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolneu04.cloudapp.net': 1}
+1622213235593,0,192.168.2.143,288,1.0,2,{'skypedataprdcolwus13.cloudapp.net': 1, 'cloudapp.net': 1}
+1622213252436,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622213853344,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622214552694,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622215053745,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622215086382,0,192.168.2.143,239,1.0,2,{'daisy.ubuntu.com': 1, 'ubuntu.com': 1}
+1622215355509,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622215952943,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622216653424,0,192.168.2.143,317,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolweu03.cloudapp.net': 1}
+1622216653424,0,192.168.2.143,364,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622216833504,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolcus14.cloudapp.net': 1}
+1622216853147,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622217153753,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622217452435,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622218454128,0,192.168.2.143,288,1.0,2,{'skypedataprdcoljpe02.cloudapp.net': 1, 'cloudapp.net': 1}
+1622218454128,0,192.168.2.143,317,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcoljpe04.cloudapp.net': 1}
+1622218633681,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolwus00.cloudapp.net': 1}
+1622220432247,0,192.168.2.143,288,1.0,2,{'skypedataprdcolwus12.cloudapp.net': 1, 'cloudapp.net': 1}
+1622220456320,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622220756932,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622221652293,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622221955936,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622222232400,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolwus14.cloudapp.net': 1}
+1622222232400,0,192.168.2.143,288,1.0,2,{'skypedataprdcolcus01.cloudapp.net': 1, 'cloudapp.net': 1}
+1622224037022,0,192.168.2.143,288,1.0,2,{'skypedataprdcolcus01.cloudapp.net': 1, 'cloudapp.net': 1}
+1622224037022,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622224057527,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622224653637,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622225256319,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622225354823,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcoleus12.cloudapp.net': 1}
+1622225354823,0,192.168.2.143,288,1.0,2,{'skypedataprdcolwus04.cloudapp.net': 1, 'cloudapp.net': 1}
+1622225557923,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622227452876,0,192.168.2.143,364,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622227637899,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolwus09.cloudapp.net': 1}
+1622227637899,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622227653159,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622227954257,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622229185934,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622229253955,0,192.168.2.143,317,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcoluks00.cloudapp.net': 1}
+1622230661435,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622234655290,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolwus06.cloudapp.net': 1}
+1622234655290,0,192.168.2.143,288,1.0,2,{'skypedataprdcolwus06.cloudapp.net': 1, 'cloudapp.net': 1}
+1622234853951,0,192.168.2.143,288,1.0,2,{'skypedataprdcolwus05.cloudapp.net': 1, 'cloudapp.net': 1}
+1622234853951,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622234853956,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622237852665,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622238338051,0,192.168.2.143,232,-0.0,1,{'motd.ubuntu.com': 1}
+1622238455058,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolwus13.cloudapp.net': 1}
+1622240245888,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622240269539,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622241456737,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622242045311,0,192.168.2.143,288,1.0,2,{'skypedataprdcoleus12.cloudapp.net': 1, 'cloudapp.net': 1}
+1622242045311,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622242058764,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622243833671,0,192.168.2.143,288,1.0,2,{'skypedataprdcolcus05.cloudapp.net': 1, 'cloudapp.net': 1}
+1622245380310,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622245406523,0,192.168.2.143,239,1.0,2,{'daisy.ubuntu.com': 1, 'ubuntu.com': 1}
+1622245677599,0,192.168.2.143,210,-0.0,1,{'daisy.ubuntu.com': 1}
+1622245961841,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622246952567,1,192.168.2.143,317,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolneu05.cloudapp.net': 1}
+1622246952569,193,192.168.2.143,288,1.0,2,{'skypedataprdcolneu05.cloudapp.net': 1, 'cloudapp.net': 1}
+1622247254238,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622247254239,0,192.168.2.143,288,1.0,2,{'skypedataprdcoljpe01.cloudapp.net': 1, 'cloudapp.net': 1}
+1622248360335,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622248411931,0,192.168.2.143,210,-0.0,1,{'daisy.ubuntu.com': 1}
+1622248411931,0,192.168.2.143,239,1.0,2,{'daisy.ubuntu.com': 1, 'ubuntu.com': 1}
+1622249246740,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolcus02.cloudapp.net': 1}
+1622249277334,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622249554269,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622252655730,0,192.168.2.143,288,1.0,2,{'skypedataprdcolwus01.cloudapp.net': 1, 'cloudapp.net': 1}
+1622252655730,0,192.168.2.143,317,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcoluks01.cloudapp.net': 1}
+1622254075047,0,192.168.2.143,210,-0.0,1,{'daisy.ubuntu.com': 1}
+1622254075047,0,192.168.2.143,239,1.0,2,{'daisy.ubuntu.com': 1, 'ubuntu.com': 1}
+1622254963319,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622255284216,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622256278450,0,192.168.2.143,288,1.0,2,{'skypedataprdcolneu06.cloudapp.net': 1, 'cloudapp.net': 1}
+1622256278450,0,192.168.2.143,317,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolneu06.cloudapp.net': 1}
+1622256278450,0,192.168.2.143,364,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622256468594,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622256468595,0,192.168.2.143,288,1.0,2,{'skypedataprdcoluks01.cloudapp.net': 1, 'cloudapp.net': 1}
+1622256468599,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622257054149,17,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622258059267,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolwus13.cloudapp.net': 1}
+1622258059267,0,192.168.2.143,288,1.0,2,{'skypedataprdcolwus01.cloudapp.net': 1, 'cloudapp.net': 1}
+1622258261752,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622260033820,0,192.168.2.143,288,1.0,2,{'skypedataprdcolweu06.cloudapp.net': 1, 'cloudapp.net': 1}
+1622260076170,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622260654745,119162,192.168.2.143,1764,1.584962500721156,3,{'Canon iR C3020._ipp._tcp.local': 1, 'Canon3ac8da.local': 1, '_ipp._tcp.local': 1}
+1622260654753,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622261652839,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolcus01.cloudapp.net': 1}
+1622261652839,0,192.168.2.143,288,1.0,2,{'skypedataprdcolcus01.cloudapp.net': 1, 'cloudapp.net': 1}
+1622261840031,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcoleus02.cloudapp.net': 1}
+1622261840031,0,192.168.2.143,288,1.0,2,{'skypedataprdcoleus06.cloudapp.net': 1, 'cloudapp.net': 1}
+1622261840031,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622261861776,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622262460611,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622262754201,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622262754201,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622263060015,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622263352415,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622265155395,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622265253901,0,192.168.2.143,288,1.0,2,{'skypedataprdcoleus04.cloudapp.net': 1, 'cloudapp.net': 1}
+1622265373405,408314,192.168.2.143,375,-0.0,1,{'_ipp._tcp.local': 1}
+1622265437925,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcoluks03.cloudapp.net': 1}
+1622265453319,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622266055525,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622270572965,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622270667191,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolcus04.cloudapp.net': 1}
+1622270667192,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622270844233,0,192.168.2.143,288,1.0,2,{'skypedataprdcolwus14.cloudapp.net': 1, 'cloudapp.net': 1}
+1622270844233,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622271168167,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622271455856,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622272954993,223766,192.168.2.143,250,-0.0,1,{'_ipp._tcp.local': 1}
+1622273252697,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622273275873,0,192.168.2.143,239,1.0,2,{'daisy.ubuntu.com': 1, 'ubuntu.com': 1}
+1622274175214,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622274760273,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622274760273,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622275659829,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622275659829,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622276233715,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622276233716,0,192.168.2.143,288,1.0,2,{'skypedataprdcoleus03.cloudapp.net': 1, 'cloudapp.net': 1}
+1622276255683,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622277189544,0,192.168.2.143,210,-0.0,1,{'daisy.ubuntu.com': 1}
+1622277476273,0,192.168.2.143,210,-0.0,1,{'daisy.ubuntu.com': 1}
+1622277763762,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622277763762,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622277893738,0,192.168.2.143,288,1.0,2,{'skypedataprdcolcus04.cloudapp.net': 1, 'cloudapp.net': 1}
+1622277893738,0,192.168.2.143,317,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolcus04.cloudapp.net': 1}
+1622278676839,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622279689024,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcoleus14.cloudapp.net': 1}
+1622279689025,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622280473785,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622281354339,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622281654426,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcoleus00.cloudapp.net': 1}
+1622281654426,0,192.168.2.143,288,1.0,2,{'skypedataprdcolcus03.cloudapp.net': 1, 'cloudapp.net': 1}
+1622281654426,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622281867157,257528,192.168.2.143,251,1.0,2,{'_ipps._tcp.local': 1, '_ipp._tcp.local': 1}
+1622282852384,1,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622282906714,37770,192.168.2.143,500,-0.0,1,{'_ipp._tcp.local': 1}
+1622283209171,0,192.168.2.143,210,-0.0,1,{'daisy.ubuntu.com': 1}
+1622283261317,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcoluks05.cloudapp.net': 1}
+1622283261317,0,192.168.2.143,288,1.0,2,{'skypedataprdcoluks05.cloudapp.net': 1, 'cloudapp.net': 1}
+1622284675710,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622284675710,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622285236350,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcoleus03.cloudapp.net': 1}
+1622285236351,0,192.168.2.143,288,1.0,2,{'skypedataprdcoleus01.cloudapp.net': 1, 'cloudapp.net': 1}
+1622285236351,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622286177806,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622286855774,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolweu04.cloudapp.net': 1}
+1622286855774,0,192.168.2.143,288,1.0,2,{'skypedataprdcolcus02.cloudapp.net': 1, 'cloudapp.net': 1}
+1622287053477,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolwus13.cloudapp.net': 1}
+1622287053481,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622287954848,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622288560601,0,192.168.2.143,242,1.0,2,{'api.snapcraft.io': 1, 'snapcraft.io': 1}
+1622288652534,0,192.168.2.143,288,1.0,2,{'skypedataprdcolcus14.cloudapp.net': 1, 'cloudapp.net': 1}
+1622288652534,0,192.168.2.143,317,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolcus14.cloudapp.net': 1}
+1622288652534,0,192.168.2.143,364,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622288877512,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1622290165901,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622290466266,0,192.168.2.143,280,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcoluks04.cloudapp.net': 1}
+1622290466266,0,192.168.2.143,340,1.0,2,{'mobile.events.data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622291560988,0,192.168.2.143,252,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1622292452619,0,192.168.2.143,265,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}

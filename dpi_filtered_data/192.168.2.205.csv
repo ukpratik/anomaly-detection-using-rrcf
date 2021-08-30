@@ -1,0 +1,259 @@
+1622538009067,2483721,192.168.2.205,20477,4.906890595608519,30,{'_apple-mobdev._tcp.local': 1, '91540811._sub._apple-mobdev2._tcp.local': 1, '_apple-pairable._tcp.local': 1, '_airport._tcp.local': 1, '_companion-link._tcp.local': 1, '_rdlink._tcp.local': 1, '_sleep-proxy._udp.local': 1, '_ipp._tcp.local': 1, '_ipps._tcp.local': 1, '_uscan._tcp.local': 1, '_pdl-datastream._tcp.local': 1, '_ippusb._tcp.local': 1, '_printer._tcp.local': 1, '_uscans._tcp.local': 1, '_scanner._tcp.local': 1, '_ptp._tcp.local': 1, 'Canon iR C3020._printer._tcp.local': 1, 'HP LaserJet Pro M329 PCL 6 (V3)._printer._tcp.local': 1, '_afpovertcp._tcp.local': 1, '_smb._tcp.local': 1, '_rfb._tcp.local': 1, '_adisk._tcp.local': 1, 'AKASH-PRECISION-TOWER-3620._device-info._tcp.local': 1, "akash's remote desktop on akash-Precision-Tower-3620._device-info._tcp.local": 1, 'HP LaserJet Pro M329 PCL 6 (V3)._uscan._tcp.local': 1, 'HP LaserJet Pro M329 PCL 6 (V3)._pdl-datastream._tcp.local': 1, 'HP LaserJet Pro M329 PCL 6 (V3)._ipp._tcp.local': 1, 'HP LaserJet Pro M329 PCL 6 (V3)._uscans._tcp.local': 1, 'HP LaserJet Pro M329 PCL 6 (V3)._scanner._tcp.local': 1, '_googlecast._tcp.local': 1}
+1622538009068,0,192.168.2.205,302,2.0,4,{'captive.apple.com': 1, 'captive-cidr.origin-apple.com.akadns.net': 1, 'captive-cdn.origin-apple.com.akadns.net': 1, 'captive.g.aaplimg.com': 1}
+1622538009068,0,192.168.2.205,324,2.0,4,{'captive.apple.com': 1, 'captive-cidr.origin-apple.com.akadns.net': 1, 'captive-cdn.origin-apple.com.akadns.net': 1, 'g.aaplimg.com': 1}
+1622538009073,0,192.168.2.205,176,-0.0,1,{'205.2.168.192.in-addr.arpa': 1}
+1622538009073,0,192.168.2.205,204,-0.0,1,{'lb._dns-sd._udp.0.2.168.192.in-addr.arpa': 1}
+1622538009074,1,192.168.2.205,345,1.0,2,{'api.apple-cloudkit.com': 1, 'api.apple-cloudkit.fe.apple-dns.net': 1}
+1622538009074,218964,192.168.2.205,344,1.0,2,{'time.apple.com': 1, 'time-osx.g.aaplimg.com': 1}
+1622538009074,3,192.168.2.205,300,2.0,4,{'www.apple.com': 1, 'www.apple.com.edgekey.net': 1, 'www.apple.com.edgekey.net.globalredir.akadns.net': 1, 'e6858.dscx.akamaiedge.net': 1}
+1622538009074,350,192.168.2.205,296,1.584962500721156,3,{'1-courier.push.apple.com': 1, '1.courier-push-apple.com.akadns.net': 1, 'apac-in-courier-4.push-apple.com.akadns.net': 1}
+1622538009074,350,192.168.2.205,308,1.584962500721156,3,{'1-courier.sandbox.push.apple.com': 1, '1.courier-sandbox-push-apple.com.akadns.net': 1, 'us-sandbox-courier-e4.push-apple.com.akadns.net': 1}
+1622538009075,1,192.168.2.205,326,1.0,2,{'gateway.icloud.com': 1, 'gateway.fe.apple-dns.net': 1}
+1622538009075,10,192.168.2.205,317,2.321928094887362,5,{'mesu.apple.com': 1, 'mesu-cdn.apple.com.akadns.net': 1, 'mesu-cdn.origin-apple.com.akadns.net': 1, 'mesu.apple.com.edgekey.net': 1, 'e1329.g.akamaiedge.net': 1}
+1622538009075,10,192.168.2.205,359,2.321928094887362,5,{'mesu.apple.com': 1, 'mesu-cdn.apple.com.akadns.net': 1, 'mesu-cdn.origin-apple.com.akadns.net': 1, 'mesu.apple.com.edgekey.net': 1, 'g.akamaiedge.net': 1}
+1622538009075,4,192.168.2.205,341,2.321928094887362,5,{'valid.apple.com': 1, 'valid.origin-apple.com.akadns.net': 1, 'valid-apple.g.aaplimg.com': 1, 'valid.apple.com.edgesuite.net': 1, 'a1860.dscd.akamai.net': 1}
+1622538009075,9,192.168.2.205,256,1.0,2,{'gsa.apple.com': 1, 'akadns.net': 1}
+1622538009076,1,192.168.2.205,296,1.584962500721156,3,{'init.ess.apple.com': 1, 'init.ess.apple.com.edgesuite.net': 1, 'gi3.akamai.net': 1}
+1622538009076,345,192.168.2.205,207,1.0,2,{'gdmf.apple.com': 1, 'gdmf.apple.com.akadns.net': 1}
+1622538009076,4,192.168.2.205,281,1.584962500721156,3,{'valid-apple.g.aaplimg.com': 1, 'valid.apple.com.edgesuite.net': 1, 'a1860.dscd.akamai.net': 1}
+1622538009077,0,192.168.2.205,309,1.584962500721156,3,{'pds-init.ess.apple.com': 1, 'pds-init.ess.apple.com.edgesuite.net': 1, 'gi3.akamai.net': 1}
+1622538009077,2,192.168.2.205,284,1.584962500721156,3,{'init.ess.apple.com': 1, 'init.ess.apple.com.edgesuite.net': 1, 'a239.gi3.akamai.net': 1}
+1622538009077,345,192.168.2.205,323,2.0,4,{'init-p01md.apple.com': 1, 'init-p01md-lb.push-apple.com.akadns.net': 1, 'init-p01md.apple.com.edgesuite.net': 1, 'a1051.b.akamai.net': 1}
+1622538009078,1,192.168.2.205,225,1.0,2,{'a239.gi3.akamai.net': 1, 'gi3.akamai.net': 1}
+1622538009078,3,192.168.2.205,210,-0.0,1,{'a239.gi3.akamai.net': 1}
+1622538009078,5,192.168.2.205,196,-0.0,1,{'a1864.gi3.akamai.net': 1}
+1622538009081,2,192.168.2.205,180,-0.0,1,{'albert.v.aaplimg.com': 1}
+1622538009083,341,192.168.2.205,240,1.0,2,{'gdmf.apple.com.akadns.net': 1, 'akadns.net': 1}
+1622538009085,339,192.168.2.205,198,-0.0,1,{'gsa.idms-apple.com.akadns.net': 1}
+1622538011191,0,192.168.2.205,228,1.0,2,{'cs9.wac.phicdn.net': 1, 'wac.phicdn.net': 1}
+1622538011191,0,192.168.2.205,255,1.0,2,{'ocsp.digicert.com': 1, 'wac.phicdn.net': 1}
+1622538011191,3,192.168.2.205,257,1.584962500721156,3,{'ocsp.apple.com': 1, 'ocsp-lb.apple.com.akadns.net': 1, 'ocsp-a.g.aaplimg.com': 1}
+1622538011194,0,192.168.2.205,196,-0.0,1,{'ocsp-a.g.aaplimg.com': 1}
+1622538011194,0,192.168.2.205,224,1.0,2,{'ocsp-a.g.aaplimg.com': 1, 'g.aaplimg.com': 1}
+1622538012770,105017,192.168.2.205,574,2.584962500721156,6,{'init.push.apple.com': 1, 'init.push-apple.com.akadns.net': 1, 'help.apple.com': 1, 'help.origin-apple.com.akadns.net': 1, 'help-ar.apple.com.edgekey.net': 1, 'e11408.d.akamaiedge.net': 1}
+1622538014614,0,192.168.2.205,241,1.0,2,{'e5977.dsce9.akamaiedge.net': 1, 'dsce9.akamaiedge.net': 1}
+1622538014615,0,192.168.2.205,192,-0.0,1,{'e17437.dscb.akamaiedge.net': 1}
+1622538014615,0,192.168.2.205,240,1.0,2,{'e17437.dscb.akamaiedge.net': 1, 'dscb.akamaiedge.net': 1}
+1622538022886,0,192.168.2.205,220,-0.0,1,{'lcdn-locator-usms11.apple.com.akadns.net': 1}
+1622538022886,0,192.168.2.205,312,1.584962500721156,3,{'lcdn-locator.apple.com': 1, 'lcdn-locator.apple.com.akadns.net': 1, 'akadns.net': 1}
+1622538025328,0,192.168.2.205,239,1.0,2,{'e673.dsce9.akamaiedge.net': 1, 'dsce9.akamaiedge.net': 1}
+1622538025718,1571,192.168.2.205,299,1.584962500721156,3,{'13-courier.push.apple.com': 1, '13.courier-push-apple.com.akadns.net': 1, 'apac-in-courier-4.push-apple.com.akadns.net': 1}
+1622538043846,502,192.168.2.205,207,1.0,2,{'tbsc.apple.com': 1, 'tbsc.apple.com.akadns.net': 1}
+1622538072228,0,192.168.2.205,204,-0.0,1,{'lb._dns-sd._udp.0.2.168.192.in-addr.arpa': 1}
+1622538110746,0,192.168.2.205,176,-0.0,1,{'205.2.168.192.in-addr.arpa': 1}
+1622538112747,46804,192.168.2.205,335,1.584962500721156,3,{'e6858.dscx.akamaiedge.net': 1, 'a2047.dscb.akamai.net': 1, 'dscb.akamai.net': 1}
+1622538112748,0,192.168.2.205,221,1.0,2,{'appleid.apple.com': 1, 'appleid.idms-apple.com.akadns.net': 1}
+1622538114276,1,192.168.2.205,234,-0.0,1,{'us-sandbox-courier-e4.push-apple.com.akadns.net': 1}
+1622538114276,2,192.168.2.205,269,1.0,2,{'1.courier-push-apple.com.akadns.net': 1, 'apac-in-courier-4.push-apple.com.akadns.net': 1}
+1622538114276,4,192.168.2.205,305,1.0,2,{'13.courier-push-apple.com.akadns.net': 1, 'akadns.net': 1}
+1622538114277,0,192.168.2.205,194,-0.0,1,{'a239.gi3.akamai.net': 1}
+1622538114278,2,192.168.2.205,327,1.584962500721156,3,{'mesu-cdn.origin-apple.com.akadns.net': 1, 'mesu.apple.com.edgekey.net': 1, 'g.akamaiedge.net': 1}
+1622538114280,1481,192.168.2.205,279,-0.0,1,{'e673.dsce9.akamaiedge.net': 1}
+1622538115764,1231,192.168.2.205,316,2.0,4,{'configuration.apple.com': 1, 'configuration.apple.com.akadns.net': 1, 'configuration.apple.com.edgekey.net': 1, 'e673.dsce9.akamaiedge.net': 1}
+1622538116994,0,192.168.2.205,345,2.0,4,{'itunes.apple.com': 1, 'itunes-cdn.itunes-apple.com.akadns.net': 1, 'itunes.apple.com.edgekey.net': 1, 'dsce9.akamaiedge.net': 1}
+1622538116996,1,192.168.2.205,262,-0.0,1,{'cdn.apple.com.c.footprint.net': 1}
+1622538150139,187,192.168.2.205,184,-0.0,1,{'e1329.g.akamaiedge.net': 1}
+1622538154057,1,192.168.2.205,194,-0.0,1,{'a239.gi3.akamai.net': 1}
+1622538160138,2,192.168.2.205,192,-0.0,1,{'e5977.dsce9.akamaiedge.net': 1}
+1622538171278,4,192.168.2.205,202,-0.0,1,{'a1943.dscgi3.akamai.net': 1}
+1622538210651,2,192.168.2.205,202,-0.0,1,{'b._dns-sd._udp.0.2.168.192.in-addr.arpa': 1}
+1622538210843,0,192.168.2.205,296,2.0,4,{'www.bing.com': 1, 'a-0001.a-afdentry.net.trafficmanager.net': 1, 'www-bing-com.dual-a-0001.a-msedge.net': 1, 'dual-a-0001.a-msedge.net': 1}
+1622538210843,194,192.168.2.205,232,1.0,2,{'dual-a-0001.a-msedge.net': 1, 'a-msedge.net': 1}
+1622538211040,2,192.168.2.205,239,1.0,2,{'smoot-api-glb.v.aaplimg.com': 1, 'v.aaplimg.com': 1}
+1622538219630,1,192.168.2.205,241,1.0,2,{'tls13.taboola.map.fastly.net': 1, 'fastly.net': 1}
+1622538223732,0,192.168.2.205,240,1.0,2,{'e11566.dsca.akamaiedge.net': 1, 'dsca.akamaiedge.net': 1}
+1622538230869,175,192.168.2.205,235,1.0,2,{'safebrowsing.googleapis.com': 1, 'googleapis.com': 1}
+1622538239668,3,192.168.2.205,202,1.0,2,{'www.google.com': 1, 'google.com': 1}
+1622540071001,1,192.168.2.205,355,2.0,4,{'weather-data.apple.com': 1, 'weather-data.apple.com.akadns.net': 1, 'weather-data.apple.com.akamaized.net': 1, 'dscb.akamai.net': 1}
+1622540071002,0,192.168.2.205,310,-0.0,1,{'a2047.dscb.akamai.net': 1}
+1622540157794,1,192.168.2.205,274,1.0,2,{'ocsp-lb.apple.com.akadns.net': 1, 'g.aaplimg.com': 1}
+1622540157795,0,192.168.2.205,196,-0.0,1,{'ocsp-a.g.aaplimg.com': 1}
+1622540194099,0,192.168.2.205,196,-0.0,1,{'ocsp-a.g.aaplimg.com': 1}
+1622540194101,0,192.168.2.205,267,1.0,2,{'api.apple-cloudkit.fe.apple-dns.net': 1, 'fe.apple-dns.net': 1}
+1622540194101,0,192.168.2.205,322,-0.0,1,{'api.apple-cloudkit.fe.apple-dns.net': 1}
+1622540198489,1,192.168.2.205,283,1.0,2,{'nexus.officeapps.live.com': 1, 'akadns.net': 1}
+1622540198490,0,192.168.2.205,236,1.0,2,{'nexus.officeapps.live.com': 1, 'prod-w.nexus.live.com.akadns.net': 1}
+1622540198490,0,192.168.2.205,254,1.0,2,{'prod-w.nexus.live.com.akadns.net': 1, 'akadns.net': 1}
+1622540221934,1821,192.168.2.205,298,1.0,2,{'enrichment.osi.office.net': 1, 'akadns.net': 1}
+1622540221935,1821,192.168.2.205,332,1.0,2,{'addinsinstallation.store.office.com': 1, 'akadns.net': 1}
+1622540223756,1,192.168.2.205,312,1.0,2,{'prod-addinsinstallation.omexexternallfb.office.net.akadns.net': 1, 'akadns.net': 1}
+1622540223760,0,192.168.2.205,276,1.0,2,{'psg4-arr.officeapps.live.com': 1, 'live.com': 1}
+1622540223760,0,192.168.2.205,314,2.0,4,{'visio.officeapps.live.com': 1, 'visio.wac.trafficmanager.net.b-0016.b-msedge.net': 1, 'visio.wac.trafficmanager.net': 1, 'psg4-arr.officeapps.live.com': 1}
+1622540223760,0,192.168.2.205,394,2.0,4,{'visio.officeapps.live.com': 1, 'visio.wac.trafficmanager.net.b-0016.b-msedge.net': 1, 'visio.wac.trafficmanager.net': 1, 'live.com': 1}
+1622540225334,0,192.168.2.205,228,1.0,2,{'cs9.wac.phicdn.net': 1, 'wac.phicdn.net': 1}
+1622540246432,1370,192.168.2.205,271,1.0,2,{'prod.odcsm1.live.com.akadns.net': 1, 'akadns.net': 1}
+1622540247800,3,192.168.2.205,252,1.0,2,{'asia.odcsm1.live.com.akadns.net': 1, 'akadns.net': 1}
+1622540255430,0,192.168.2.205,235,1.0,2,{'safebrowsing.googleapis.com': 1, 'googleapis.com': 1}
+1622540255430,0,192.168.2.205,310,1.584962500721156,3,{'www.microsoft.com-c-3.edgekey.net': 1, 'www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net': 1, 'e13678.dscb.akamaiedge.net': 1}
+1622540294126,1,192.168.2.205,283,1.0,2,{'nexus.officeapps.live.com': 1, 'akadns.net': 1}
+1622540305826,0,192.168.2.205,239,1.0,2,{'e673.dsce9.akamaiedge.net': 1, 'dsce9.akamaiedge.net': 1}
+1622540315311,0,192.168.2.205,282,1.0,2,{'api-glb-aps1b.smoot.apple.com': 1, 'v.aaplimg.com': 1}
+1622540315312,0,192.168.2.205,253,1.0,2,{'smoot-searchv2-aps1b.v.aaplimg.com': 1, 'v.aaplimg.com': 1}
+1622540428538,0,192.168.2.205,190,-0.0,1,{'e673.dsce9.akamaiedge.net': 1}
+1622540450410,1,192.168.2.205,176,-0.0,1,{'dns.google': 1}
+1622540584746,0,192.168.2.205,267,1.0,2,{'api.apple-cloudkit.fe.apple-dns.net': 1, 'fe.apple-dns.net': 1}
+1622540584747,0,192.168.2.205,322,-0.0,1,{'api.apple-cloudkit.fe.apple-dns.net': 1}
+1622546736739,0,192.168.2.205,198,-0.0,1,{'captive.g.aaplimg.com': 1}
+1622546736739,0,192.168.2.205,324,2.0,4,{'captive.apple.com': 1, 'captive-cidr.origin-apple.com.akadns.net': 1, 'captive-cdn.origin-apple.com.akadns.net': 1, 'g.aaplimg.com': 1}
+1622546738232,3,192.168.2.205,308,1.584962500721156,3,{'1-courier.sandbox.push.apple.com': 1, '1.courier-sandbox-push-apple.com.akadns.net': 1, 'us-sandbox-courier-e4.push-apple.com.akadns.net': 1}
+1622546738233,1,192.168.2.205,317,2.321928094887362,5,{'mesu.apple.com': 1, 'mesu-cdn.apple.com.akadns.net': 1, 'mesu-cdn.origin-apple.com.akadns.net': 1, 'mesu.apple.com.edgekey.net': 1, 'e1329.g.akamaiedge.net': 1}
+1622546738233,1,192.168.2.205,359,2.321928094887362,5,{'mesu.apple.com': 1, 'mesu-cdn.apple.com.akadns.net': 1, 'mesu-cdn.origin-apple.com.akadns.net': 1, 'mesu.apple.com.edgekey.net': 1, 'g.akamaiedge.net': 1}
+1622546738234,0,192.168.2.205,184,-0.0,1,{'e1329.g.akamaiedge.net': 1}
+1622546738234,0,192.168.2.205,229,1.0,2,{'e1329.g.akamaiedge.net': 1, 'g.akamaiedge.net': 1}
+1622546742802,0,192.168.2.205,307,1.584962500721156,3,{'gspe1-ssl.ls.apple.com': 1, 'gspe1-ssl.ls.apple.com.edgekey.net': 1, 'a.akamaiedge.net': 1}
+1622546742803,0,192.168.2.205,184,-0.0,1,{'e6987.a.akamaiedge.net': 1}
+1622546742803,0,192.168.2.205,229,1.0,2,{'e6987.a.akamaiedge.net': 1, 'a.akamaiedge.net': 1}
+1622546808729,849,192.168.2.205,288,1.584962500721156,3,{'gs-loc.apple.com': 1, 'gs-loc-new.ls-apple.com.akadns.net': 1, 'akadns.net': 1}
+1622546855902,0,192.168.2.205,229,-0.0,1,{'DESKTOP-0Q3I59P': 1}
+1622546855904,184,192.168.2.205,184,-0.0,1,{'e6987.a.akamaiedge.net': 1}
+1622546855904,184,192.168.2.205,296,1.0,2,{'gspe35-ssl.ls.apple.com.edgekey.net': 1, 'dsce9.akamaiedge.net': 1}
+1622546856088,2,192.168.2.205,192,-0.0,1,{'e6987.dsce9.akamaiedge.net': 1}
+1622546856088,2,192.168.2.205,194,-0.0,1,{'e10499.dsce9.akamaiedge.net': 1}
+1622546856278,189,192.168.2.205,317,2.0,4,{'gspe21-ssl.ls.apple.com': 1, 'gspe21-ssl.ls-apple.com.akadns.net': 1, 'gspe21-ssl.ls.apple.com.edgekey.net': 1, 'e6987.dsce9.akamaiedge.net': 1}
+1622546861590,1848,192.168.2.205,678,2.0,4,{'gsp-ssl.ls.apple.com': 1, 'gsp-ssl.ls-apple.com.akadns.net': 1, 'gsp-ssl-geomap.ls-apple.com.akadns.net': 1, 'akadns.net': 1}
+1622547913958,245829,192.168.2.205,548,1.584962500721156,3,{'prod-autodetect.outlookmobile.com': 1, 'prod-autodetect.outlookmobile.com.trafficmanager.net': 1, 'prod3-autodetect.outlookmobile.com': 1}
+1622548144137,0,192.168.2.205,238,1.0,2,{'e6858.dscx.akamaiedge.net': 1, 'dscx.akamaiedge.net': 1}
+1622548145571,0,192.168.2.205,333,1.584962500721156,3,{'smp-device-content.apple.com': 1, 'smp-device-content.apple.com.edgekey.net': 1, 'dsce9.akamaiedge.net': 1}
+1622548145572,0,192.168.2.205,192,-0.0,1,{'e9959.dsce9.akamaiedge.net': 1}
+1622548145572,0,192.168.2.205,241,1.0,2,{'e9959.dsce9.akamaiedge.net': 1, 'dsce9.akamaiedge.net': 1}
+1622548155224,0,192.168.2.205,176,-0.0,1,{'205.2.168.192.in-addr.arpa': 1}
+1622548155857,0,192.168.2.205,318,2.321928094887362,5,{'www.outlook.com': 1, 'outlook.office365.com': 1, 'outlook.ha.office365.com': 1, 'outlook.ms-acdc.office.com': 1, 'PNQ-efz.ms-acdc.office.com': 1}
+1622548155857,590,192.168.2.205,330,1.584962500721156,3,{'12-courier.push.apple.com': 1, '12.courier-push-apple.com.akadns.net': 1, 'akadns.net': 1}
+1622548155857,591,192.168.2.205,296,1.584962500721156,3,{'1-courier.push.apple.com': 1, '1.courier-push-apple.com.akadns.net': 1, 'apac-in-courier-4.push-apple.com.akadns.net': 1}
+1622548156448,530,192.168.2.205,276,1.0,2,{'apac-in-courier-4.push-apple.com.akadns.net': 1, 'akadns.net': 1}
+1622548160792,1,192.168.2.205,307,1.584962500721156,3,{'gspe1-ssl.ls.apple.com': 1, 'gspe1-ssl.ls.apple.com.edgekey.net': 1, 'a.akamaiedge.net': 1}
+1622548166404,0,192.168.2.205,257,1.584962500721156,3,{'gs-loc.apple.com': 1, 'gs-loc-new.ls-apple.com.akadns.net': 1, 'gs-loc.ls-apple.com.akadns.net': 1}
+1622548166404,567,192.168.2.205,250,1.0,2,{'gs-loc.ls-apple.com.akadns.net': 1, 'akadns.net': 1}
+1622548176266,0,192.168.2.205,176,-0.0,1,{'205.2.168.192.in-addr.arpa': 1}
+1622548176267,1,192.168.2.205,300,2.0,4,{'www.apple.com': 1, 'www.apple.com.edgekey.net': 1, 'www.apple.com.edgekey.net.globalredir.akadns.net': 1, 'e6858.dscx.akamaiedge.net': 1}
+1622548181207,1,192.168.2.205,307,1.584962500721156,3,{'gspe1-ssl.ls.apple.com': 1, 'gspe1-ssl.ls.apple.com.edgekey.net': 1, 'a.akamaiedge.net': 1}
+1622548181208,0,192.168.2.205,229,1.0,2,{'e6987.a.akamaiedge.net': 1, 'a.akamaiedge.net': 1}
+1622548181209,1,192.168.2.205,184,-0.0,1,{'e6987.a.akamaiedge.net': 1}
+1622548217438,1,192.168.2.205,218,1.0,2,{'www.fortinet.com': 1, 'fortinet.96983.fortiwebcloud.net': 1}
+1622548218926,0,192.168.2.205,190,-0.0,1,{'cdn.cookielaw.org': 1}
+1622548220041,0,192.168.2.205,204,-0.0,1,{'geolocation.onetrust.com': 1}
+1622548221302,0,192.168.2.205,244,1.584962500721156,3,{'tags.tiqcdn.com': 1, 'tags.tiqcdn.com.edgekey.net': 1, 'e8091.a.akamaiedge.net': 1}
+1622548221302,1,192.168.2.205,174,-0.0,1,{'site.fortinet.com': 1}
+1622548221906,0,192.168.2.205,250,1.0,2,{'rtm2.siteolytics.com': 1, 'rtm2-1603155440.us-east-1.elb.amazonaws.com': 1}
+1622548239921,1,192.168.2.205,190,-0.0,1,{'e6858.dscx.akamaiedge.net': 1}
+1622548246736,0,192.168.2.205,229,-0.0,1,{'DESKTOP-0Q3I59P': 1}
+1622548264187,0,192.168.2.205,176,-0.0,1,{'205.2.168.192.in-addr.arpa': 1}
+1622548264187,0,192.168.2.205,204,-0.0,1,{'lb._dns-sd._udp.0.2.168.192.in-addr.arpa': 1}
+1622548264189,0,192.168.2.205,345,1.0,2,{'api.apple-cloudkit.com': 1, 'api.apple-cloudkit.fe.apple-dns.net': 1}
+1622548264189,1,192.168.2.205,318,2.321928094887362,5,{'www.outlook.com': 1, 'outlook.office365.com': 1, 'outlook.ha.office365.com': 1, 'outlook.ms-acdc.office.com': 1, 'BOM-efz.ms-acdc.office.com': 1}
+1622548264189,1,192.168.2.205,325,2.0,4,{'www.microsoft.com': 1, 'www.microsoft.com-c-3.edgekey.net': 1, 'www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net': 1, 'e13678.dscb.akamaiedge.net': 1}
+1622548264190,783,192.168.2.205,308,1.584962500721156,3,{'1-courier.sandbox.push.apple.com': 1, '1.courier-sandbox-push-apple.com.akadns.net': 1, 'us-sandbox-courier-e4.push-apple.com.akadns.net': 1}
+1622548267940,0,192.168.2.205,176,-0.0,1,{'dns.google': 1}
+1622548267942,0,192.168.2.205,318,2.321928094887362,5,{'www.outlook.com': 1, 'outlook.office365.com': 1, 'outlook.ha.office365.com': 1, 'outlook.ms-acdc.office.com': 1, 'BOM-efz.ms-acdc.office.com': 1}
+1622548267942,1,192.168.2.205,325,2.0,4,{'www.microsoft.com': 1, 'www.microsoft.com-c-3.edgekey.net': 1, 'www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net': 1, 'e13678.dscb.akamaiedge.net': 1}
+1622548267943,2,192.168.2.205,308,1.584962500721156,3,{'1-courier.sandbox.push.apple.com': 1, '1.courier-sandbox-push-apple.com.akadns.net': 1, 'us-sandbox-courier-e4.push-apple.com.akadns.net': 1}
+1622548267946,0,192.168.2.205,217,-0.0,1,{'oqeideouo': 1}
+1622548267946,1,192.168.2.205,221,-0.0,1,{'bvivuysflmt': 1}
+1622548269793,0,192.168.2.205,217,-0.0,1,{'ikzskwksx': 1}
+1622548271739,0,192.168.2.205,245,1.0,2,{'BOM-efz.ms-acdc.office.com': 1, 'ms-acdc.office.com': 1}
+1622548272807,0,192.168.2.205,265,1.584962500721156,3,{'gspe1-ssl.ls.apple.com': 1, 'gspe1-ssl.ls.apple.com.edgekey.net': 1, 'e6987.a.akamaiedge.net': 1}
+1622548280898,1,192.168.2.205,204,-0.0,1,{'lb._dns-sd._udp.0.2.168.192.in-addr.arpa': 1}
+1622548280899,0,192.168.2.205,176,-0.0,1,{'dns.google': 1}
+1622548280899,1,192.168.2.205,176,-0.0,1,{'205.2.168.192.in-addr.arpa': 1}
+1622548280903,1,192.168.2.205,318,2.321928094887362,5,{'www.outlook.com': 1, 'outlook.office365.com': 1, 'outlook.ha.office365.com': 1, 'outlook.ms-acdc.office.com': 1, 'BOM-efz.ms-acdc.office.com': 1}
+1622548280904,0,192.168.2.205,298,2.0,4,{'outlook.office365.com': 1, 'outlook.ha.office365.com': 1, 'outlook.ms-acdc.office.com': 1, 'PNQ-efz.ms-acdc.office.com': 1}
+1622548280904,1,192.168.2.205,319,2.0,4,{'outlook.office365.com': 1, 'outlook.ha.office365.com': 1, 'outlook.ms-acdc.office.com': 1, 'ms-acdc.office.com': 1}
+1622548280905,0,192.168.2.205,245,1.0,2,{'PNQ-efz.ms-acdc.office.com': 1, 'ms-acdc.office.com': 1}
+1622548281663,1,192.168.2.205,227,-0.0,1,{'zcemngbojlzkpy': 1}
+1622548282322,0,192.168.2.205,213,-0.0,1,{'pqihsod': 1}
+1622548285312,0,192.168.2.205,229,1.0,2,{'e6987.a.akamaiedge.net': 1, 'a.akamaiedge.net': 1}
+1622548285312,0,192.168.2.205,265,1.584962500721156,3,{'gspe1-ssl.ls.apple.com': 1, 'gspe1-ssl.ls.apple.com.edgekey.net': 1, 'e6987.a.akamaiedge.net': 1}
+1622548290221,0,192.168.2.205,176,-0.0,1,{'dns.google': 1}
+1622548293776,1,192.168.2.205,241,1.584962500721156,3,{'gs-loc.apple.com': 1, 'gs-loc-new.ls-apple.com.akadns.net': 1, 'gs-loc.ls-apple.com.akadns.net': 1}
+1622548293779,606,192.168.2.205,250,1.0,2,{'gs-loc.ls-apple.com.akadns.net': 1, 'akadns.net': 1}
+1622548304306,0,192.168.2.205,176,-0.0,1,{'205.2.168.192.in-addr.arpa': 1}
+1622548304306,0,192.168.2.205,204,-0.0,1,{'lb._dns-sd._udp.0.2.168.192.in-addr.arpa': 1}
+1622548304307,0,192.168.2.205,176,-0.0,1,{'dns.google': 1}
+1622548304307,0,192.168.2.205,176,-0.0,1,{'dns.google': 1}
+1622548304794,1,192.168.2.205,318,2.321928094887362,5,{'www.outlook.com': 1, 'outlook.office365.com': 1, 'outlook.ha.office365.com': 1, 'outlook.ms-acdc.office.com': 1, 'BOM-efz.ms-acdc.office.com': 1}
+1622548304794,596,192.168.2.205,308,1.584962500721156,3,{'1-courier.sandbox.push.apple.com': 1, '1.courier-sandbox-push-apple.com.akadns.net': 1, 'us-sandbox-courier-e4.push-apple.com.akadns.net': 1}
+1622548304794,598,192.168.2.205,296,1.584962500721156,3,{'1-courier.push.apple.com': 1, '1.courier-push-apple.com.akadns.net': 1, 'apac-in-courier-4.push-apple.com.akadns.net': 1}
+1622548305394,0,192.168.2.205,219,-0.0,1,{'xtljanbnjt': 1}
+1622548306688,0,192.168.2.205,223,-0.0,1,{'mambumjdflad': 1}
+1622548306688,0,192.168.2.205,229,-0.0,1,{'ubiokljiakbsnkt': 1}
+1622548306688,0,192.168.2.205,229,-0.0,1,{'uogwqokhtyjfrxg': 1}
+1622548310039,0,192.168.2.205,307,1.584962500721156,3,{'gspe1-ssl.ls.apple.com': 1, 'gspe1-ssl.ls.apple.com.edgekey.net': 1, 'a.akamaiedge.net': 1}
+1622548310039,1,192.168.2.205,265,1.584962500721156,3,{'gspe1-ssl.ls.apple.com': 1, 'gspe1-ssl.ls.apple.com.edgekey.net': 1, 'e6987.a.akamaiedge.net': 1}
+1622548323653,1,192.168.2.205,204,-0.0,1,{'lb._dns-sd._udp.0.2.168.192.in-addr.arpa': 1}
+1622548323654,0,192.168.2.205,176,-0.0,1,{'205.2.168.192.in-addr.arpa': 1}
+1622548323654,0,192.168.2.205,176,-0.0,1,{'dns.google': 1}
+1622548323655,1,192.168.2.205,300,2.0,4,{'www.apple.com': 1, 'www.apple.com.edgekey.net': 1, 'www.apple.com.edgekey.net.globalredir.akadns.net': 1, 'e6858.dscx.akamaiedge.net': 1}
+1622548325077,0,192.168.2.205,229,-0.0,1,{'jwbabnievecpegf': 1}
+1622548325077,0,192.168.2.205,229,-0.0,1,{'weakigdkndgkvrr': 1}
+1622548325080,0,192.168.2.205,225,-0.0,1,{'abguehcvjlzwb': 1}
+1622548328175,0,192.168.2.205,307,1.584962500721156,3,{'gspe1-ssl.ls.apple.com': 1, 'gspe1-ssl.ls.apple.com.edgekey.net': 1, 'a.akamaiedge.net': 1}
+1622548328176,0,192.168.2.205,229,1.0,2,{'e6987.a.akamaiedge.net': 1, 'a.akamaiedge.net': 1}
+1622548328177,1,192.168.2.205,184,-0.0,1,{'e6987.a.akamaiedge.net': 1}
+1622548338816,0,192.168.2.205,176,-0.0,1,{'dns.google': 1}
+1622548338816,0,192.168.2.205,176,-0.0,1,{'dns.google': 1}
+1622548339453,0,192.168.2.205,300,2.0,4,{'www.apple.com': 1, 'www.apple.com.edgekey.net': 1, 'www.apple.com.edgekey.net.globalredir.akadns.net': 1, 'e6858.dscx.akamaiedge.net': 1}
+1622548339453,0,192.168.2.205,318,2.321928094887362,5,{'www.outlook.com': 1, 'outlook.office365.com': 1, 'outlook.ha.office365.com': 1, 'outlook.ms-acdc.office.com': 1, 'BOM-efz.ms-acdc.office.com': 1}
+1622548339453,0,192.168.2.205,325,2.0,4,{'www.microsoft.com': 1, 'www.microsoft.com-c-3.edgekey.net': 1, 'www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net': 1, 'e13678.dscb.akamaiedge.net': 1}
+1622548339997,0,192.168.2.205,219,-0.0,1,{'dbytsakplm': 1}
+1622548339997,0,192.168.2.205,219,-0.0,1,{'orqrhizgzz': 1}
+1622548339997,0,192.168.2.205,221,-0.0,1,{'mougerxocnu': 1}
+1622548341707,0,192.168.2.205,223,-0.0,1,{'rvcsabptrvxk': 1}
+1622548341707,0,192.168.2.205,227,-0.0,1,{'wbvnhuuhhqkhdw': 1}
+1622548341708,0,192.168.2.205,223,-0.0,1,{'shcipbcxkjek': 1}
+1622548344104,0,192.168.2.205,229,1.0,2,{'e6987.a.akamaiedge.net': 1, 'a.akamaiedge.net': 1}
+1622548360023,1,192.168.2.205,254,1.0,2,{'prod-w.nexus.live.com.akadns.net': 1, 'akadns.net': 1}
+1622548402226,0,192.168.2.205,204,-0.0,1,{'lb._dns-sd._udp.0.2.168.192.in-addr.arpa': 1}
+1622548435955,0,192.168.2.205,211,-0.0,1,{'DOMAIN': 1}
+1622548485603,4,192.168.2.205,296,1.584962500721156,3,{'cma.itunes.apple.com': 1, 'cma-china.itunes-apple.com.akadns.net': 1, 'akadns.net': 1}
+1622548488729,0,192.168.2.205,257,1.584962500721156,3,{'ocsp.apple.com': 1, 'ocsp-lb.apple.com.akadns.net': 1, 'ocsp-a.g.aaplimg.com': 1}
+1622548488729,0,192.168.2.205,279,1.584962500721156,3,{'ocsp.apple.com': 1, 'ocsp-lb.apple.com.akadns.net': 1, 'g.aaplimg.com': 1}
+1622548530613,1,192.168.2.205,176,-0.0,1,{'205.2.168.192.in-addr.arpa': 1}
+1622548614712,0,192.168.2.205,176,-0.0,1,{'205.2.168.192.in-addr.arpa': 1}
+1622548616641,1818,192.168.2.205,355,2.0,4,{'weather-data.apple.com': 1, 'weather-data.apple.com.akadns.net': 1, 'weather-data.apple.com.akamaized.net': 1, 'dscb.akamai.net': 1}
+1622548616642,0,192.168.2.205,266,1.0,2,{'apple-finance.query.yahoo.com': 1, 'geo-applefinance-cache.internal.query.g03.yahoodns.net': 1}
+1622548616642,0,192.168.2.205,302,1.0,2,{'geo-applefinance-cache.internal.query.g03.yahoodns.net': 1, 'g03.yahoodns.net': 1}
+1622548616642,0,192.168.2.205,311,1.0,2,{'apple-finance.query.yahoo.com': 1, 'g03.yahoodns.net': 1}
+1622548619197,7,192.168.2.205,358,2.0,4,{'is2-ssl.mzstatic.com': 1, 'is-ssl.mzstatic.com.itunes-apple.com.akadns.net': 1, 'mzstatic.com.edgekey.net': 1, 'dsce9.akamaiedge.net': 1}
+1622548638879,0,192.168.2.205,176,-0.0,1,{'dns.google': 1}
+1622548638879,0,192.168.2.205,204,-0.0,1,{'lb._dns-sd._udp.0.2.168.192.in-addr.arpa': 1}
+1622548638882,1,192.168.2.205,345,1.0,2,{'api.apple-cloudkit.com': 1, 'api.apple-cloudkit.fe.apple-dns.net': 1}
+1622548638884,4,192.168.2.205,241,1.584962500721156,3,{'gs-loc.apple.com': 1, 'gs-loc-new.ls-apple.com.akadns.net': 1, 'gs-loc.ls-apple.com.akadns.net': 1}
+1622548638886,1,192.168.2.205,215,-0.0,1,{'dvalbwpq': 1}
+1622548638887,1,192.168.2.205,227,-0.0,1,{'tlfwftftqhcvof': 1}
+1622548640616,0,192.168.2.205,219,-0.0,1,{'abxotlnrqu': 1}
+1622548643650,0,192.168.2.205,229,1.0,2,{'e6987.a.akamaiedge.net': 1, 'a.akamaiedge.net': 1}
+1622548643650,1,192.168.2.205,184,-0.0,1,{'e6987.a.akamaiedge.net': 1}
+1622548678301,0,192.168.2.205,176,-0.0,1,{'dns.google': 1}
+1622548678301,0,192.168.2.205,204,-0.0,1,{'lb._dns-sd._udp.0.2.168.192.in-addr.arpa': 1}
+1622548679622,1,192.168.2.205,300,2.0,4,{'www.apple.com': 1, 'www.apple.com.edgekey.net': 1, 'www.apple.com.edgekey.net.globalredir.akadns.net': 1, 'e6858.dscx.akamaiedge.net': 1}
+1622548679623,1,192.168.2.205,325,2.0,4,{'www.microsoft.com': 1, 'www.microsoft.com-c-3.edgekey.net': 1, 'www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net': 1, 'e13678.dscb.akamaiedge.net': 1}
+1622548679627,0,192.168.2.205,219,-0.0,1,{'znwaqyuyqg': 1}
+1622548680552,1,192.168.2.205,213,-0.0,1,{'dmolhup': 1}
+1622548680552,1,192.168.2.205,219,-0.0,1,{'vfaxixfbch': 1}
+1622548680552,1,192.168.2.205,223,-0.0,1,{'dtkysdgerutd': 1}
+1622548683066,0,192.168.2.205,245,1.0,2,{'PNQ-efz.ms-acdc.office.com': 1, 'ms-acdc.office.com': 1}
+1622548733526,0,192.168.2.205,176,-0.0,1,{'205.2.168.192.in-addr.arpa': 1}
+1622548733526,0,192.168.2.205,176,-0.0,1,{'dns.google': 1}
+1622548733526,0,192.168.2.205,176,-0.0,1,{'dns.google': 1}
+1622548733526,0,192.168.2.205,204,-0.0,1,{'lb._dns-sd._udp.0.2.168.192.in-addr.arpa': 1}
+1622548734106,0,192.168.2.205,318,2.321928094887362,5,{'www.outlook.com': 1, 'outlook.office365.com': 1, 'outlook.ha.office365.com': 1, 'outlook.ms-acdc.office.com': 1, 'PNQ-efz.ms-acdc.office.com': 1}
+1622548734106,440,192.168.2.205,296,1.584962500721156,3,{'1-courier.push.apple.com': 1, '1.courier-push-apple.com.akadns.net': 1, 'apac-in-courier-4.push-apple.com.akadns.net': 1}
+1622548734107,0,192.168.2.205,345,1.0,2,{'api.apple-cloudkit.com': 1, 'api.apple-cloudkit.fe.apple-dns.net': 1}
+1622548734107,1994,192.168.2.205,299,1.584962500721156,3,{'14-courier.push.apple.com': 1, '14.courier-push-apple.com.akadns.net': 1, 'apac-in-courier-4.push-apple.com.akadns.net': 1}
+1622548734547,0,192.168.2.205,221,-0.0,1,{'fdqbovjtomz': 1}
+1622548748349,0,192.168.2.205,176,-0.0,1,{'205.2.168.192.in-addr.arpa': 1}
+1622548748349,0,192.168.2.205,334,2.321928094887362,5,{'www.outlook.com': 1, 'outlook.office365.com': 1, 'outlook.ha.office365.com': 1, 'outlook.ms-acdc.office.com': 1, 'GOI-efz.ms-acdc.office.com': 1}
+1622548748349,0,192.168.2.205,345,1.0,2,{'api.apple-cloudkit.com': 1, 'api.apple-cloudkit.fe.apple-dns.net': 1}
+1622548748349,1,192.168.2.205,176,-0.0,1,{'dns.google': 1}
+1622548748349,1,192.168.2.205,325,2.0,4,{'www.microsoft.com': 1, 'www.microsoft.com-c-3.edgekey.net': 1, 'www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net': 1, 'e13678.dscb.akamaiedge.net': 1}
+1622548748349,1676,192.168.2.205,308,1.584962500721156,3,{'1-courier.sandbox.push.apple.com': 1, '1.courier-sandbox-push-apple.com.akadns.net': 1, 'us-sandbox-courier-e4.push-apple.com.akadns.net': 1}
+1622548748349,1679,192.168.2.205,600,2.0,4,{'www.apple.com': 1, 'www.apple.com.edgekey.net': 1, 'www.apple.com.edgekey.net.globalredir.akadns.net': 1, 'e6858.dscx.akamaiedge.net': 1}
+1622548748349,2,192.168.2.205,296,1.584962500721156,3,{'1-courier.push.apple.com': 1, '1.courier-push-apple.com.akadns.net': 1, 'apac-in-courier-4.push-apple.com.akadns.net': 1}
+1622548750027,0,192.168.2.205,213,-0.0,1,{'vrrqspw': 1}
+1622548750027,0,192.168.2.205,221,-0.0,1,{'dqwkoeparwy': 1}
+1622548750030,0,192.168.2.205,245,1.0,2,{'GOI-efz.ms-acdc.office.com': 1, 'ms-acdc.office.com': 1}
+1622548760723,0,192.168.2.205,176,-0.0,1,{'205.2.168.192.in-addr.arpa': 1}
+1622548760723,0,192.168.2.205,176,-0.0,1,{'dns.google': 1}
+1622548762489,0,192.168.2.205,318,2.321928094887362,5,{'www.outlook.com': 1, 'outlook.office365.com': 1, 'outlook.ha.office365.com': 1, 'outlook.ms-acdc.office.com': 1, 'PNQ-efz.ms-acdc.office.com': 1}
+1622548762490,0,192.168.2.205,345,1.0,2,{'api.apple-cloudkit.com': 1, 'api.apple-cloudkit.fe.apple-dns.net': 1}
+1622548762495,0,192.168.2.205,245,1.0,2,{'PNQ-efz.ms-acdc.office.com': 1, 'ms-acdc.office.com': 1}

@@ -1,0 +1,35 @@
+1621846691059,0,192.168.2.206,344,2.321928094887362,5,{'11.tlu.dl.delivery.mp.microsoft.com': 1, 'tlu-dcat.azureedge.net': 1, 'tlu-dcat.ec.azureedge.net': 1, 'wu.wpc.apr-52dd2.edgecastdns.net': 1, 'cs12.wpc.v0cdn.net': 1}
+1621846708393,0,192.168.2.206,227,1.0,2,{'client.wns.windows.com': 1, 'wns.notify.trafficmanager.net': 1}
+1621846708393,0,192.168.2.206,256,1.584962500721156,3,{'client.wns.windows.com': 1, 'wns.notify.trafficmanager.net': 1, 'vip2-wns2-sg2p.wns.notify.trafficmanager.net': 1}
+1621846742290,0,192.168.2.206,305,2.0,4,{'geo.prod.do.dsp.mp.microsoft.com': 1, 'geo-prod.do.dsp.mp.microsoft.com': 1, 'geo-prod.dodsp.mp.microsoft.com.nsatc.net': 1, 'array508.prod.do.dsp.mp.microsoft.com': 1}
+1621846742290,0,192.168.2.206,305,2.0,4,{'geo.prod.do.dsp.mp.microsoft.com': 1, 'geo-prod.do.dsp.mp.microsoft.com': 1, 'geo-prod.dodsp.mp.microsoft.com.nsatc.net': 1, 'array801.prod.do.dsp.mp.microsoft.com': 1}
+1621846744218,0,192.168.2.206,356,2.0,4,{'cp501.prod.do.dsp.mp.microsoft.com': 1, 'cp501.prod.dodsp.mp.microsoft.com.nsatc.net': 1, 'cp501.prod.do.dsp.mp.microsoft.com.edgekey.net': 1, 'e10370.g.akamaiedge.net': 1}
+1621846744218,1,192.168.2.206,356,2.0,4,{'cp501.prod.do.dsp.mp.microsoft.com': 1, 'cp501.prod.dodsp.mp.microsoft.com.nsatc.net': 1, 'cp501.prod.do.dsp.mp.microsoft.com.edgekey.net': 1, 'e10370.g.akamaiedge.net': 1}
+1621846745412,0,192.168.2.206,364,2.0,4,{'disc501.prod.do.dsp.mp.microsoft.com': 1, 'disc501.prod.dodsp.mp.microsoft.com.nsatc.net': 1, 'disc501.prod.do.dsp.mp.microsoft.com.edgekey.net': 1, 'e10370.g.akamaiedge.net': 1}
+1621846745412,1,192.168.2.206,364,2.0,4,{'disc501.prod.do.dsp.mp.microsoft.com': 1, 'disc501.prod.dodsp.mp.microsoft.com.nsatc.net': 1, 'disc501.prod.do.dsp.mp.microsoft.com.edgekey.net': 1, 'e10370.g.akamaiedge.net': 1}
+1621846847225,0,192.168.2.206,293,1.584962500721156,3,{'fe3cr.delivery.mp.microsoft.com': 1, 'fe3.delivery.mp.microsoft.com': 1, 'fe3.delivery.dsp.mp.microsoft.com.nsatc.net': 1}
+1621846847225,1051,192.168.2.206,293,1.584962500721156,3,{'fe3cr.delivery.mp.microsoft.com': 1, 'fe3.delivery.mp.microsoft.com': 1, 'fe3.delivery.dsp.mp.microsoft.com.nsatc.net': 1}
+1621846889853,0,192.168.2.206,344,2.321928094887362,5,{'11.tlu.dl.delivery.mp.microsoft.com': 1, 'tlu-dcat.azureedge.net': 1, 'tlu-dcat.ec.azureedge.net': 1, 'wu.wpc.apr-52dd2.edgecastdns.net': 1, 'cs11.wpc.v0cdn.net': 1}
+1621846889854,0,192.168.2.206,344,2.321928094887362,5,{'11.tlu.dl.delivery.mp.microsoft.com': 1, 'tlu-dcat.azureedge.net': 1, 'tlu-dcat.ec.azureedge.net': 1, 'wu.wpc.apr-52dd2.edgecastdns.net': 1, 'cs11.wpc.v0cdn.net': 1}
+1621846929921,0,192.168.2.206,360,2.0,4,{'geover.prod.do.dsp.mp.microsoft.com': 1, 'geover.prod.dodsp.mp.microsoft.com.nsatc.net': 1, 'geover.prod.do.dsp.mp.microsoft.com.edgekey.net': 1, 'e10370.g.akamaiedge.net': 1}
+1621846929921,0,192.168.2.206,360,2.0,4,{'geover.prod.do.dsp.mp.microsoft.com': 1, 'geover.prod.dodsp.mp.microsoft.com.nsatc.net': 1, 'geover.prod.do.dsp.mp.microsoft.com.edgekey.net': 1, 'e10370.g.akamaiedge.net': 1}
+1621846932803,0,192.168.2.206,227,1.0,2,{'client.wns.windows.com': 1, 'wns.notify.trafficmanager.net': 1}
+1621846932803,0,192.168.2.206,256,1.584962500721156,3,{'client.wns.windows.com': 1, 'wns.notify.trafficmanager.net': 1, 'vip2-wns2-sg2p.wns.notify.trafficmanager.net': 1}
+1621847011842,0,192.168.2.206,360,2.0,4,{'geover.prod.do.dsp.mp.microsoft.com': 1, 'geover.prod.dodsp.mp.microsoft.com.nsatc.net': 1, 'geover.prod.do.dsp.mp.microsoft.com.edgekey.net': 1, 'e10370.g.akamaiedge.net': 1}
+1621847011842,1,192.168.2.206,360,2.0,4,{'geover.prod.do.dsp.mp.microsoft.com': 1, 'geover.prod.dodsp.mp.microsoft.com.nsatc.net': 1, 'geover.prod.do.dsp.mp.microsoft.com.edgekey.net': 1, 'e10370.g.akamaiedge.net': 1}
+1621847011844,0,192.168.2.206,305,2.0,4,{'geo.prod.do.dsp.mp.microsoft.com': 1, 'geo-prod.do.dsp.mp.microsoft.com': 1, 'geo-prod.dodsp.mp.microsoft.com.nsatc.net': 1, 'array507.prod.do.dsp.mp.microsoft.com': 1}
+1621847011844,0,192.168.2.206,305,2.0,4,{'geo.prod.do.dsp.mp.microsoft.com': 1, 'geo-prod.do.dsp.mp.microsoft.com': 1, 'geo-prod.dodsp.mp.microsoft.com.nsatc.net': 1, 'array604.prod.do.dsp.mp.microsoft.com': 1}
+1621847052585,0,192.168.2.206,360,2.0,4,{'geover.prod.do.dsp.mp.microsoft.com': 1, 'geover.prod.dodsp.mp.microsoft.com.nsatc.net': 1, 'geover.prod.do.dsp.mp.microsoft.com.edgekey.net': 1, 'e10370.g.akamaiedge.net': 1}
+1621847052585,1215,192.168.2.206,360,2.0,4,{'geover.prod.do.dsp.mp.microsoft.com': 1, 'geover.prod.dodsp.mp.microsoft.com.nsatc.net': 1, 'geover.prod.do.dsp.mp.microsoft.com.edgekey.net': 1, 'e10370.g.akamaiedge.net': 1}
+1621847054166,1,192.168.2.206,356,2.0,4,{'kv501.prod.do.dsp.mp.microsoft.com': 1, 'kv501.prod.dodsp.mp.microsoft.com.nsatc.net': 1, 'kv501.prod.do.dsp.mp.microsoft.com.edgekey.net': 1, 'e10370.g.akamaiedge.net': 1}
+1621847054167,0,192.168.2.206,356,2.0,4,{'kv501.prod.do.dsp.mp.microsoft.com': 1, 'kv501.prod.dodsp.mp.microsoft.com.nsatc.net': 1, 'kv501.prod.do.dsp.mp.microsoft.com.edgekey.net': 1, 'e10370.g.akamaiedge.net': 1}
+1621847054941,0,192.168.2.206,387,2.321928094887362,5,{'dl.delivery.mp.microsoft.com': 1, 'nontlu-fg-shim.trafficmanager.net': 1, '2-01-3cf7-000c.cdx.cedexis.net': 1, 'dl.delivery.mp.microsoft.com-c.edgesuite.net': 1, 'a1683.dscd.akamai.net': 1}
+1621847054941,1,192.168.2.206,387,2.321928094887362,5,{'dl.delivery.mp.microsoft.com': 1, 'nontlu-fg-shim.trafficmanager.net': 1, '2-01-3cf7-000c.cdx.cedexis.net': 1, 'dl.delivery.mp.microsoft.com-c.edgesuite.net': 1, 'a1683.dscd.akamai.net': 1}
+1621847238715,0,192.168.2.206,227,1.0,2,{'client.wns.windows.com': 1, 'wns.notify.trafficmanager.net': 1}
+1621847238716,0,192.168.2.206,256,1.584962500721156,3,{'client.wns.windows.com': 1, 'wns.notify.trafficmanager.net': 1, 'vip1-wns2-sg2p.wns.notify.trafficmanager.net': 1}
+1621847477743,0,192.168.2.206,252,1.584962500721156,3,{'skydrive.wns.windows.com': 1, 'client.wns.windows.com': 1, 'wns.notify.trafficmanager.net': 1}
+1621847477743,2039,192.168.2.206,281,2.0,4,{'skydrive.wns.windows.com': 1, 'client.wns.windows.com': 1, 'wns.notify.trafficmanager.net': 1, 'vip3-wns2-sg2p.wns.notify.trafficmanager.net': 1}
+1621849532624,0,192.168.2.206,227,1.0,2,{'client.wns.windows.com': 1, 'wns.notify.trafficmanager.net': 1}
+1621849532624,2065,192.168.2.206,256,1.584962500721156,3,{'client.wns.windows.com': 1, 'wns.notify.trafficmanager.net': 1, 'vip2-wns2-sg2p.wns.notify.trafficmanager.net': 1}
+1622627375482,0,192.168.2.206,208,-0.0,1,{'DESKTOP-GI9N5H4.local': 1}
+1622628012944,0,192.168.2.206,357,2.0,4,{'inference.location.live.net': 1, 'inference.location.services.windowsphone.com': 1, 'inference.location.livenet.akadns.net': 1, 'location-inference-southeastasia2.cloudapp.net': 1}

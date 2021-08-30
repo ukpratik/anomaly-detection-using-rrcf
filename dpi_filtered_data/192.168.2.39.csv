@@ -1,0 +1,1029 @@
+1622617804160,146348,192.168.2.39,3579,1.0,2,{'NJ.local': 1, 'NPI9B1EF1.local': 1}
+1622617826086,192,192.168.2.39,278,1.584962500721156,3,{'client-office365-tas.msedge.net': 1, 'afdo-tas-offload.trafficmanager.net': 1, 'e-0009.e-msedge.net': 1}
+1622617826087,191,192.168.2.39,272,1.584962500721156,3,{'ocos-office365-s2s.msedge.net': 1, 'ocos-office365-s2s-msedge-net.e-0009.e-msedge.net': 1, 'e-0009.e-msedge.net': 1}
+1622617833193,0,192.168.2.39,284,2.0,4,{'slscr.update.microsoft.com': 1, 'slscr.update.microsoft.com.akadns.net': 1, 'sls.update.microsoft.com.akadns.net': 1, 'sls.emea.update.microsoft.com.akadns.net': 1}
+1622617840023,3,192.168.2.39,194,-0.0,1,{'keystone.mwbsys.com': 1}
+1622617840411,3,192.168.2.39,425,2.321928094887362,5,{'login.live.com': 1, 'login.msa.msidentity.com': 1, 'www.tm.lg.prod.aadmsa.trafficmanager.net': 1, 'prda.aadg.msidentity.com': 1, 'www.tm.a.prd.aadg.trafficmanager.net': 1}
+1622617854848,390,192.168.2.39,297,1.0,2,{'ssldev.oes.avira.com': 1, 'elbdevicesecure01-918746432.eu-central-1.elb.amazonaws.com': 1}
+1622617860912,193,192.168.2.39,381,1.0,2,{'telemetry.malwarebytes.com': 1, 'elb-telemetry-prod-external-1332413525.us-west-2.elb.amazonaws.com': 1}
+1622617878278,228,192.168.2.39,363,2.321928094887362,5,{'fs.microsoft.com': 1, 'prod.fs.microsoft.com.akadns.net': 1, 'fs-wildcard.microsoft.com.edgekey.net': 1, 'fs-wildcard.microsoft.com.edgekey.net.globalredir.akadns.net': 1, 'e1723.g.akamaiedge.net': 1}
+1622617879557,217,192.168.2.39,275,1.584962500721156,3,{'dispatch.avira-update.com': 1, 'prod.update-bridge.avira.net': 1, 'eu-central-1.prod.update-bridge.avira.net': 1}
+1622617879776,458,192.168.2.39,299,2.0,4,{'officeclient.microsoft.com': 1, 'config.officeapps.live.com': 1, 'prod.configsvc1.live.com.akadns.net': 1, 'europe.configsvc1.live.com.akadns.net': 1}
+1622617896011,2,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622617902065,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622617903745,0,192.168.2.39,399,2.0,4,{'ctldl.windowsupdate.com': 1, 'au-bg-shim.trafficmanager.net': 1, 'audownload.windowsupdate.nsatc.net': 1, 'auto.au.download.windowsupdate.com.c.footprint.net': 1}
+1622617904876,1397,192.168.2.39,276,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622617913518,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622617921638,190,192.168.2.39,249,1.0,2,{'settings-win.data.microsoft.com': 1, 'settingsfd-geo.trafficmanager.net': 1}
+1622617922998,192,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622617922998,192,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622617928036,570,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622617928800,577,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622617931124,572,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622617931125,572,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622617933508,818,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622617935739,492,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622617935742,199,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622617935743,198,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622617935743,198,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622617935743,198,192.168.2.39,276,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622617940430,396,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622617944890,388,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622617949349,576,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622617951283,387,192.168.2.39,172,-0.0,1,{'dns.msftncsi.com': 1}
+1622617957532,3,192.168.2.39,276,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622617957535,379,192.168.2.39,293,1.584962500721156,3,{'settings-win.data.microsoft.com': 1, 'settingsfd-geo.trafficmanager.net': 1, 'settingsfd-prod-neu1-endpoint.trafficmanager.net': 1}
+1622617961438,7,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622617963770,202,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622617963770,380,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622617976486,191,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622617990379,0,192.168.2.39,282,1.0,2,{'clients2.google.com': 1, 'clients.l.google.com': 1}
+1622617991653,0,192.168.2.39,182,-0.0,1,{'update.googleapis.com': 1}
+1622617994574,1,192.168.2.39,219,1.0,2,{'r6---sn-cvh7knes.gvt1.com': 1, 'r6.sn-cvh7knes.gvt1.com': 1}
+1622618012675,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622618012675,0,192.168.2.39,262,1.584962500721156,3,{'msedge.api.cdp.microsoft.com': 1, 'api.cdp.microsoft.com': 1, 'api.cdp.dsp.mp.microsoft.com.nsatc.net': 1}
+1622618012675,1,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622618021326,0,192.168.2.39,356,2.0,4,{'cp501.prod.do.dsp.mp.microsoft.com': 1, 'cp501.prod.dodsp.mp.microsoft.com.nsatc.net': 1, 'cp501.prod.do.dsp.mp.microsoft.com.edgekey.net': 1, 'e10370.g.akamaiedge.net': 1}
+1622618021333,1661,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622618022999,1,192.168.2.39,381,2.0,4,{'msedge.b.tlu.dl.delivery.mp.microsoft.com': 1, 'cdp-bg-tlu.trafficmanager.net': 1, 'wildcard.b.tlu.dl.delivery.mp.microsoft.com.edgesuite.net': 1, 'a1893.dscd.akamai.net': 1}
+1622618053352,0,192.168.2.39,381,2.0,4,{'msedge.b.tlu.dl.delivery.mp.microsoft.com': 1, 'cdp-bg-tlu.trafficmanager.net': 1, 'wildcard.b.tlu.dl.delivery.mp.microsoft.com.edgesuite.net': 1, 'a1893.dscd.akamai.net': 1}
+1622618059364,304,192.168.2.39,293,1.584962500721156,3,{'settings-win.data.microsoft.com': 1, 'settingsfd-geo.trafficmanager.net': 1, 'settingsfd-prod-neu1-endpoint.trafficmanager.net': 1}
+1622618066653,118,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622618067850,193,192.168.2.39,227,1.0,2,{'client.wns.windows.com': 1, 'wns.notify.trafficmanager.net': 1}
+1622618111686,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622618128224,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622618289555,727825,192.168.2.39,9061,2.807354922057604,7,{'NJ.local': 1, 'NPI9B1EF1.local': 1, 'dpeermfshjggjo.local': 1, 'bynziywulj.local': 1, 'csekfwn.local': 1, 'wpad.local': 1, '_googlecast._tcp.local': 1}
+1622618313258,2357,192.168.2.39,194,-0.0,1,{'keystone.mwbsys.com': 1}
+1622618315618,0,192.168.2.39,194,-0.0,1,{'keystone.mwbsys.com': 1}
+1622618320645,0,192.168.2.39,300,1.584962500721156,3,{'v10.events.data.microsoft.com': 1, 'global.asimov.events.data.trafficmanager.net': 1, 'skypedataprdcolaus02.cloudapp.net': 1}
+1622618320657,0,192.168.2.39,300,1.584962500721156,3,{'v10.events.data.microsoft.com': 1, 'global.asimov.events.data.trafficmanager.net': 1, 'skypedataprdcoluks03.cloudapp.net': 1}
+1622618330177,0,192.168.2.39,300,1.584962500721156,3,{'v10.events.data.microsoft.com': 1, 'global.asimov.events.data.trafficmanager.net': 1, 'skypedataprdcoluks03.cloudapp.net': 1}
+1622618348960,0,192.168.2.39,300,1.584962500721156,3,{'v10.events.data.microsoft.com': 1, 'global.asimov.events.data.trafficmanager.net': 1, 'skypedataprdcolaus02.cloudapp.net': 1}
+1622618348962,1620,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622618350627,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622618358960,2071,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622618358960,2071,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622618363186,0,192.168.2.39,236,1.0,2,{'nexus.officeapps.live.com': 1, 'prod-w.nexus.live.com.akadns.net': 1}
+1622618377167,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622618377167,1,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622618386035,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622618386035,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622618386035,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622618388132,0,192.168.2.39,300,1.584962500721156,3,{'v20.events.data.microsoft.com': 1, 'global.asimov.events.data.trafficmanager.net': 1, 'skypedataprdcolcus12.cloudapp.net': 1}
+1622618394087,0,192.168.2.39,276,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622618395062,394,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622618395459,1348,192.168.2.39,370,1.584962500721156,3,{'assets.msn.com': 1, 'assets.msn.com.edgekey.net': 1, 'e28578.d.akamaiedge.net': 1}
+1622618396816,0,192.168.2.39,244,1.584962500721156,3,{'cdn.onenote.net': 1, 'cdn.onenote.net.edgekey.net': 1, 'e1553.dspg.akamaiedge.net': 1}
+1622618597608,289316,192.168.2.39,468,1.584962500721156,3,{'download3.operacdn.com': 1, 'v2.download3.operacdn.com.edgekey.net': 1, 'e125010.f.akamaiedge.net': 1}
+1622618826243,2,192.168.2.39,184,-0.0,1,{'mobile.pipe.aria.microsoft.com': 1}
+1622618826246,1,192.168.2.39,252,1.584962500721156,3,{'activity.windows.com': 1, 'activity-geo.trafficmanager.net': 1, 'emea-afsprod.trafficmanager.net': 1}
+1622618827179,1,192.168.2.39,186,-0.0,1,{'enterprise.activity.windows.com': 1}
+1622618827363,2,192.168.2.39,283,1.584962500721156,3,{'in-api.asm.skype.com': 1, 'asm-api-prod-geo-as-skype.trafficmanager.net': 1, 'sa1-api-nonazsc-skype.cloudapp.net': 1}
+1622618831020,1145,192.168.2.39,128,-0.0,1,{'wpad': 1}
+1622618833545,1,192.168.2.39,317,1.584962500721156,3,{'presence.teams.microsoft.com': 1, 'presence.services.sfb.trafficmanager.net': 1, 'a-ups-presence18-prod-azsc.westeurope.cloudapp.azure.com': 1}
+1622618839080,1,192.168.2.39,346,2.321928094887362,5,{'config.teams.microsoft.com': 1, 'config.teams.trafficmanager.net': 1, 's-0005-teams.config.skype.com': 1, 'config-teams.s-0005.s-msedge.net': 1, 's-0005.s-msedge.net': 1}
+1622618839409,2,192.168.2.39,415,2.0,4,{'login.microsoftonline.com': 1, 'a.privatelink.msidentity.com': 1, 'prda.aadg.msidentity.com': 1, 'www.tm.a.prd.aadg.trafficmanager.net': 1}
+1622618840910,187,192.168.2.39,334,1.584962500721156,3,{'apac.presence.teams.microsoft.com': 1, 'apac.presence.services.sfb.trafficmanager.net': 1, 'a-ups-presence4-prod-azsc.australiaeast.cloudapp.azure.com': 1}
+1622618842977,0,192.168.2.39,345,2.807354922057604,7,{'outlook.office.com': 1, 'substrate.office.com': 1, 'substrate.ha.office.com': 1, 'substrate.ms-acdc.office.com': 1, 'afd-k.office.com': 1, 'outlook-office-com.k-0002.k-msedge.net': 1, 'k-0002.k-msedge.net': 1}
+1622618842977,425,192.168.2.39,433,2.321928094887362,5,{'login.microsoftonline.com': 1, 'a.privatelink.msidentity.com': 1, 'prda.aadg.msidentity.com': 1, 'www.tm.a.prd.aadg.akadns.net': 1, 'www.current.a.prd.aadg.akadns.net': 1}
+1622618845085,445,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622618845532,1,192.168.2.39,433,2.321928094887362,5,{'login.microsoftonline.com': 1, 'a.privatelink.msidentity.com': 1, 'prda.aadg.msidentity.com': 1, 'www.tm.a.prd.aadg.akadns.net': 1, 'www.current.a.prd.aadg.akadns.net': 1}
+1622618850478,194,192.168.2.39,298,1.584962500721156,3,{'browser.pipe.aria.microsoft.com': 1, 'browser.events.data.trafficmanager.net': 1, 'skypedataprdcolwus11.cloudapp.net': 1}
+1622618852696,0,192.168.2.39,339,1.584962500721156,3,{'ic3.events.data.microsoft.com': 1, 'teams-events-data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622618852699,708,192.168.2.39,281,2.0,4,{'teams.microsoft.com': 1, 'teams.office.com': 1, 'teams-office-com.s-0005.s-msedge.net': 1, 's-0005.s-msedge.net': 1}
+1622618852699,708,192.168.2.39,315,2.0,4,{'tr.teams.microsoft.com': 1, 'worldaz.tr.teams.microsoft.com': 1, 'worldaz.tr.teams.trafficmanager.net': 1, 'b-tr-teasc-euno-12.northeurope.cloudapp.azure.com': 1}
+1622618853405,2,192.168.2.39,184,-0.0,1,{'worldaz.tr.teams.microsoft.com': 1}
+1622618853405,2,192.168.2.39,264,1.0,2,{'go.trouter.teams.microsoft.com': 1, 'teamsgeo.trouter-teams-prod.akadns.net': 1}
+1622618853406,1,192.168.2.39,252,1.0,2,{'go.trouter.teams.microsoft.com': 1, 'teamsgeo.trouter-teams-prod.akadns.net': 1}
+1622618853407,1,192.168.2.39,248,1.0,2,{'a-cc-apac-skype.trafficmanager.net': 1, 'cc-asse-06-skype.cloudapp.net': 1}
+1622618853407,1,192.168.2.39,371,1.584962500721156,3,{'api-apac.flightproxy.teams.microsoft.com': 1, 'flightproxy-apac-teams.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622618853409,1,192.168.2.39,433,2.321928094887362,5,{'login.microsoftonline.com': 1, 'a.privatelink.msidentity.com': 1, 'prda.aadg.msidentity.com': 1, 'www.tm.a.prd.aadg.akadns.net': 1, 'www.current.a.prd.aadg.akadns.net': 1}
+1622618855347,2,192.168.2.39,433,2.321928094887362,5,{'login.microsoftonline.com': 1, 'a.privatelink.msidentity.com': 1, 'prda.aadg.msidentity.com': 1, 'www.tm.a.prd.aadg.akadns.net': 1, 'www.current.a.prd.aadg.akadns.net': 1}
+1622618860538,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622618905012,486,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622618915068,1,192.168.2.39,308,1.0,2,{'a-cc-apac-skype.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622618915069,1,192.168.2.39,360,1.584962500721156,3,{'api.flightproxy.teams.microsoft.com': 1, 'api.flightproxy.teams.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622618915653,455,192.168.2.39,339,1.584962500721156,3,{'ic3.events.data.microsoft.com': 1, 'teams-events-data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622618916111,470,192.168.2.39,324,1.584962500721156,3,{'api-apac.flightproxy.teams.microsoft.com': 1, 'flightproxy-apac-teams.trafficmanager.net': 1, 'flightproxy-asse-03-teams.cloudapp.net': 1}
+1622618918167,1,192.168.2.39,295,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcoleus04.cloudapp.net': 1}
+1622618920339,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622618927430,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622618932343,537,192.168.2.39,172,-0.0,1,{'dns.msftncsi.com': 1}
+1622618932344,537,192.168.2.39,280,1.584962500721156,3,{'api.my.avira.com': 1, 'api-my.oes.avira.com': 1, 'albapigateway01-907695634.eu-central-1.elb.amazonaws.com': 1}
+1622618932881,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622618933380,1,192.168.2.39,172,-0.0,1,{'dns.msftncsi.com': 1}
+1622618933380,1,192.168.2.39,220,-0.0,1,{'api.mixpanel.com': 1}
+1622618933380,1,192.168.2.39,279,1.584962500721156,3,{'personal.avira-update.com': 1, 'avira-update.com.edgesuite.net': 1, 'a1949.d.akamai.net': 1}
+1622618933381,2,192.168.2.39,267,1.0,2,{'content.ivanti.com': 1, 'd1s507ws7gmjg7.cloudfront.net': 1}
+1622618939107,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622618939108,501,192.168.2.39,360,1.584962500721156,3,{'api.flightproxy.teams.microsoft.com': 1, 'api.flightproxy.teams.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622618940028,307,192.168.2.39,355,1.584962500721156,3,{'worldaz.tr.teams.microsoft.com': 1, 'worldaz.tr.teams.trafficmanager.net': 1, 'westeurope.cloudapp.azure.com': 1}
+1622618943510,1,192.168.2.39,276,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622618953298,336,192.168.2.39,128,-0.0,1,{'wpad': 1}
+1622618955325,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622618955325,1,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622618959675,207,192.168.2.39,276,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622618965178,2,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622618966953,310,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622618966954,309,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622618971424,1,192.168.2.39,296,1.584962500721156,3,{'teams.events.data.microsoft.com': 1, 'teams-events-data.trafficmanager.net': 1, 'skypedataprdcoleus13.cloudapp.net': 1}
+1622618977158,1,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622618977159,1,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622618988919,1,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622618988919,1,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622619007378,615,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622619007378,616,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622619008668,337,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622619008668,337,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622619008669,655,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622619009631,668,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622619009631,668,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622619028828,1,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622619040017,318,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619055104,322,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619060289,399,192.168.2.39,172,-0.0,1,{'dns.msftncsi.com': 1}
+1622619061080,118,192.168.2.39,172,-0.0,1,{'dns.msftncsi.com': 1}
+1622619061197,2,192.168.2.39,275,1.584962500721156,3,{'dispatch.avira-update.com': 1, 'prod.update-bridge.avira.net': 1, 'eu-central-1.prod.update-bridge.avira.net': 1}
+1622619085073,271,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619107296,1,192.168.2.39,322,1.584962500721156,3,{'assets.msn.com': 1, 'assets.msn.com.edgekey.net': 1, 'e28578.d.akamaiedge.net': 1}
+1622619119665,0,192.168.2.39,182,-0.0,1,{'update.googleapis.com': 1}
+1622619129666,310,192.168.2.39,280,1.584962500721156,3,{'api.my.avira.com': 1, 'api-my.oes.avira.com': 1, 'albapigateway01-907695634.eu-central-1.elb.amazonaws.com': 1}
+1622619130284,1,192.168.2.39,172,-0.0,1,{'dns.msftncsi.com': 1}
+1622619130284,2,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619200086,304,192.168.2.39,329,1.584962500721156,3,{'apac.presence.teams.microsoft.com': 1, 'apac.presence.services.sfb.trafficmanager.net': 1, 'a-ups-presence3-prod-azsc.eastasia.cloudapp.azure.com': 1}
+1622619205239,294,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619220296,978,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619240141,356,192.168.2.39,220,-0.0,1,{'api.mixpanel.com': 1}
+1622619250267,256,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619280208,343,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619288346,312,192.168.2.39,300,1.584962500721156,3,{'v10.events.data.microsoft.com': 1, 'global.asimov.events.data.trafficmanager.net': 1, 'skypedataprdcolwus05.cloudapp.net': 1}
+1622619289928,1,192.168.2.39,300,1.584962500721156,3,{'v20.events.data.microsoft.com': 1, 'global.asimov.events.data.trafficmanager.net': 1, 'skypedataprdcolweu02.cloudapp.net': 1}
+1622619295252,309,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619310295,603,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619316166,343,192.168.2.39,174,-0.0,1,{'ocsp.comodoca.com': 1}
+1622619318414,289,192.168.2.39,246,1.0,2,{'script.crazyegg.com': 1, 'script.crazyegg.com.cdn.cloudflare.net': 1}
+1622619318414,3962,192.168.2.39,360,1.584962500721156,3,{'www.webassetscdn.com': 1, 'www.webassetscdn.com.edgesuite.net': 1, 'a1869.dscr.akamai.net': 1}
+1622619318414,795,192.168.2.39,200,-0.0,1,{'rum-static.pingdom.net': 1}
+1622619323029,1,192.168.2.39,232,1.0,2,{'www.google-analytics.com': 1, 'www-google-analytics.l.google.com': 1}
+1622619355240,323,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619380398,299,192.168.2.39,329,1.584962500721156,3,{'apac.presence.teams.microsoft.com': 1, 'apac.presence.services.sfb.trafficmanager.net': 1, 'a-ups-presence3-prod-azsc.eastasia.cloudapp.azure.com': 1}
+1622619400208,315,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619418097,693,192.168.2.39,248,-0.0,1,{'www.google.com': 1}
+1622619418098,693,192.168.2.39,190,-0.0,1,{'browser.events.data.microsoft.com': 1}
+1622619420673,1,192.168.2.39,219,1.0,2,{'lh3.googleusercontent.com': 1, 'googlehosted.l.googleusercontent.com': 1}
+1622619427640,1,192.168.2.39,423,2.321928094887362,5,{'statics.teams.cdn.office.net': 1, 'teams-staticscdn.trafficmanager.net': 1, 'statics.teams.cdn.office.net-c.edgesuite.net': 1, 'statics.teams.cdn.office.net-c.edgesuite.net.globalredir.akadns.net': 1, 'a1813.dscd.akamai.net': 1}
+1622619430221,337,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619441550,0,192.168.2.39,178,-0.0,1,{'redirector.gvt1.com': 1}
+1622619445308,331,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619449445,301,192.168.2.39,178,-0.0,1,{'redirector.gvt1.com': 1}
+1622619453569,0,192.168.2.39,186,-0.0,1,{'teams.events.data.microsoft.com': 1}
+1622619468043,0,192.168.2.39,219,1.0,2,{'r3---sn-cvh7knle.gvt1.com': 1, 'r3.sn-cvh7knle.gvt1.com': 1}
+1622619476026,0,192.168.2.39,296,1.584962500721156,3,{'teams.events.data.microsoft.com': 1, 'teams-events-data.trafficmanager.net': 1, 'skypedataprdcolweu05.cloudapp.net': 1}
+1622619505400,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619508719,361,192.168.2.39,219,1.0,2,{'r1---sn-cvh76nes.gvt1.com': 1, 'r1.sn-cvh76nes.gvt1.com': 1}
+1622619524339,1,192.168.2.39,236,1.0,2,{'nexus.officeapps.live.com': 1, 'prod-w.nexus.live.com.akadns.net': 1}
+1622619527506,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619550466,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619552509,1,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622619565328,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619572374,356,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622619577810,333,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622619580487,159958,192.168.2.39,596,2.584962500721156,6,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1, 'apac.presence.teams.microsoft.com': 1, 'apac.presence.services.sfb.trafficmanager.net': 1, 'a-ups-presence4-prod-azsc.australiaeast.cloudapp.azure.com': 1}
+1622619587668,335,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622619590605,1,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622619590606,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622619606665,1,192.168.2.39,300,1.584962500721156,3,{'v10.events.data.microsoft.com': 1, 'global.asimov.events.data.trafficmanager.net': 1, 'skypedataprdcoleus00.cloudapp.net': 1}
+1622619606961,9919,192.168.2.39,2212,-0.0,1,{'NPI9B1EF1.local': 1}
+1622619606962,318,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622619606962,318,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622619607901,302,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622619609110,554,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622619610246,309,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619610554,2,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622619610555,2,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622619611136,533,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622619613610,596,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622619615896,327,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622619615896,672,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622619625712,339,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622619625712,340,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622619637699,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622619640675,0,192.168.2.39,432,2.321928094887362,5,{'login.live.com': 1, 'login.msa.msidentity.com': 1, 'www.tm.lg.prod.aadmsa.trafficmanager.net': 1, 'prda.aadg.msidentity.com': 1, 'www.tm.a.prd.aadg.akadns.net': 1}
+1622619650372,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622619685405,275,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619700326,280,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619706108,340,192.168.2.39,249,1.0,2,{'nexusrules.officeapps.live.com': 1, 'prod.nexusrules.live.com.akadns.net': 1}
+1622619730296,347,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619734267,0,192.168.2.39,170,-0.0,1,{'play.google.com': 1}
+1622619739480,324,192.168.2.39,458,3.169925001442312,9,{'outlook.office.com': 1, 'substrate.office.com': 1, 'substrate.ha.office.com': 1, 'substrate.ms-acdc.office.com': 1, 'afd-k.office.com': 1, 'outlook-office-com.k-0002.k-msedge.net': 1, 'outlook.ha.office365.com': 1, 'outlook.ms-acdc.office.com': 1, 'LHR-efz.ms-acdc.office.com': 1}
+1622619760398,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619775328,327,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619790305,295,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619820367,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619920318,1,192.168.2.39,324,1.584962500721156,3,{'apac.presence.teams.microsoft.com': 1, 'apac.presence.services.sfb.trafficmanager.net': 1, 'b-ups-presence3-prod.eastasia.cloudapp.azure.com': 1}
+1622619925393,317,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622619981876,434,192.168.2.39,296,1.584962500721156,3,{'teams.events.data.microsoft.com': 1, 'teams-events-data.trafficmanager.net': 1, 'skypedataprdcoleus02.cloudapp.net': 1}
+1622619982311,413,192.168.2.39,269,2.0,4,{'teams.microsoft.com': 1, 'teams.office.com': 1, 'teams-office-com.s-0005.s-msedge.net': 1, 's-0005.s-msedge.net': 1}
+1622619983283,997,192.168.2.39,292,1.584962500721156,3,{'ic3.events.data.microsoft.com': 1, 'teams-events-data.trafficmanager.net': 1, 'skypedataprdcolneu05.cloudapp.net': 1}
+1622620001321,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620031414,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620046376,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620078399,1,192.168.2.39,345,2.0,4,{'outlook-1.cdn.office.net': 1, 'outlook-1.cdn.office.net-c.edgekey.net': 1, 'outlook-1.cdn.office.net-c.edgekey.net.globalredir.akadns.net': 1, 'e1875.dscg.akamaiedge.net': 1}
+1622620105330,865,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620120664,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620139788,1,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622620150498,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620153061,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622620153061,228965,192.168.2.39,501,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622620167152,0,192.168.2.39,319,1.584962500721156,3,{'exo.nel.measure.office.net': 1, 'nel.measure.office.net.edgesuite.net': 1, 'a1894.dscb.akamai.net': 1}
+1622620170170,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622620170171,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622620170173,0,192.168.2.39,276,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622620181095,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620185774,1,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622620185774,1,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622620188016,0,192.168.2.39,278,1.584962500721156,3,{'client-office365-tas.msedge.net': 1, 'afdo-tas-offload.trafficmanager.net': 1, 'e-0009.e-msedge.net': 1}
+1622620188019,0,192.168.2.39,236,1.0,2,{'nexus.officeapps.live.com': 1, 'prod-w.nexus.live.com.akadns.net': 1}
+1622620188021,0,192.168.2.39,275,1.584962500721156,3,{'settings-ssl.xboxlive.com': 1, 'settings-ssl.xboxlive.com.edgekey.net': 1, 'e87.dspb.akamaiedge.net': 1}
+1622620194574,0,192.168.2.39,300,1.584962500721156,3,{'v10.events.data.microsoft.com': 1, 'global.asimov.events.data.trafficmanager.net': 1, 'skypedataprdcolneu02.cloudapp.net': 1}
+1622620196963,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622620196963,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622620207107,11183,192.168.2.39,2212,-0.0,1,{'NPI9B1EF1.local': 1}
+1622620209608,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622620209611,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622620209611,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622620212565,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620212570,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622620212570,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622620214473,2,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622620214476,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622620216489,0,192.168.2.39,300,1.584962500721156,3,{'in.ng.msg.teams.microsoft.com': 1, 'in.ng.msg.teams-msgapi.trafficmanager.net': 1, 'msgapi-prod-wjp-azsc5-1.cloudapp.net': 1}
+1622620216491,1796,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622620220428,0,192.168.2.39,325,2.584962500721156,6,{'substrate.office.com': 1, 'substrate.ha.office.com': 1, 'substrate.ms-acdc.office.com': 1, 'afd-k.office.com': 1, 'outlook-office-com.k-0002.k-msedge.net': 1, 'k-0002.k-msedge.net': 1}
+1622620223986,1725,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622620227878,1,192.168.2.39,280,1.584962500721156,3,{'loki.delve.office.com': 1, 'loki.trafficmanager.net': 1, 'fast-prod-cluster-loki.uaenorth.cloudapp.azure.com': 1}
+1622620227879,0,192.168.2.39,313,1.584962500721156,3,{'api.flightproxy.teams.microsoft.com': 1, 'api.flightproxy.teams.trafficmanager.net': 1, 'flightproxy-euno-05-teams.cloudapp.net': 1}
+1622620227879,1,192.168.2.39,308,1.0,2,{'a-cc-apac-skype.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622620227879,1,192.168.2.39,360,1.584962500721156,3,{'api.flightproxy.teams.microsoft.com': 1, 'api.flightproxy.teams.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622620229256,1,192.168.2.39,296,1.584962500721156,3,{'teams.events.data.microsoft.com': 1, 'teams-events-data.trafficmanager.net': 1, 'skypedataprdcolwus02.cloudapp.net': 1}
+1622620230252,0,192.168.2.39,313,1.584962500721156,3,{'api.flightproxy.teams.microsoft.com': 1, 'api.flightproxy.teams.trafficmanager.net': 1, 'flightproxy-euno-05-teams.cloudapp.net': 1}
+1622620240296,737,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620241037,1,192.168.2.39,292,1.584962500721156,3,{'ic3.events.data.microsoft.com': 1, 'teams-events-data.trafficmanager.net': 1, 'skypedataprdcolwus01.cloudapp.net': 1}
+1622620241037,1,192.168.2.39,339,1.584962500721156,3,{'ic3.events.data.microsoft.com': 1, 'teams-events-data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622620247394,1115,192.168.2.39,287,1.584962500721156,3,{'cdn.content.prod.cms.msn.com': 1, 'cdn.content.prod.cms.msn.com.edgekey.net': 1, 'e10663.dscg.akamaiedge.net': 1}
+1622620248514,1,192.168.2.39,370,1.584962500721156,3,{'assets.msn.com': 1, 'assets.msn.com.edgekey.net': 1, 'e28578.d.akamaiedge.net': 1}
+1622620315495,0,192.168.2.39,198,-0.0,1,{'clientservices.googleapis.com': 1}
+1622620373172,1,192.168.2.39,458,3.169925001442312,9,{'outlook.office.com': 1, 'substrate.office.com': 1, 'substrate.ha.office.com': 1, 'substrate.ms-acdc.office.com': 1, 'afd-k.office.com': 1, 'outlook-office-com.k-0002.k-msedge.net': 1, 'outlook.ha.office365.com': 1, 'outlook.ms-acdc.office.com': 1, 'LHR-efz.ms-acdc.office.com': 1}
+1622620373176,0,192.168.2.39,168,-0.0,1,{'www.google.com': 1}
+1622620373182,1380,192.168.2.39,254,1.584962500721156,3,{'www.rediff.com': 1, 'rediff.com.edgekey.net': 1, 'e81366.a.akamaiedge.net': 1}
+1622620374566,1,192.168.2.39,174,-0.0,1,{'newads.rediff.com': 1}
+1622620374566,1,192.168.2.39,268,1.584962500721156,3,{'imshopping.rediff.com': 1, 'rediff.com.edgekey.net': 1, 'e81366.a.akamaiedge.net': 1}
+1622620374572,1,192.168.2.39,172,-0.0,1,{'track.rediff.com': 1}
+1622620374572,1,192.168.2.39,204,-0.0,1,{'businessemail.rediff.com': 1}
+1622620374572,1,192.168.2.39,262,1.584962500721156,3,{'bizmail.rediff.com': 1, 'rediff.com.edgekey.net': 1, 'e81366.a.akamaiedge.net': 1}
+1622620375254,2,192.168.2.39,192,-0.0,1,{'newsimg.rediff.com': 1}
+1622620375254,2,192.168.2.39,196,-0.0,1,{'socialimg.rediff.com': 1}
+1622620375255,1,192.168.2.39,266,1.584962500721156,3,{'datastore.rediff.com': 1, 'rediff.com.edgekey.net': 1, 'e81366.a.akamaiedge.net': 1}
+1622620375258,1,192.168.2.39,180,-0.0,1,{'indmetric.rediff.com': 1}
+1622620375258,1,192.168.2.39,232,1.0,2,{'www.google-analytics.com': 1, 'www-google-analytics.l.google.com': 1}
+1622620375258,1,192.168.2.39,236,-0.0,1,{'sb.scorecardresearch.com': 1}
+1622620375261,589,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620375850,1,192.168.2.39,202,-0.0,1,{'content-autofill.googleapis.com': 1}
+1622620375850,1,192.168.2.39,258,1.584962500721156,3,{'money.rediff.com': 1, 'rediff.com.edgekey.net': 1, 'e81366.a.akamaiedge.net': 1}
+1622620375853,2,192.168.2.39,184,-0.0,1,{'recoprofile.rediff.com': 1}
+1622620376857,149461,192.168.2.39,456,-0.0,1,{'safebrowsing.googleapis.com': 1}
+1622620376859,789,192.168.2.39,190,-0.0,1,{'www.googletagservices.com': 1}
+1622620379313,0,192.168.2.39,209,1.0,2,{'odb.outbrain.com': 1, 'outbrain.map.fastly.net': 1}
+1622620379319,827,192.168.2.39,218,1.0,2,{'mcdp-nydc1.outbrain.com': 1, 'nydc1.outbrain.org': 1}
+1622620379319,827,192.168.2.39,301,2.0,4,{'images.outbrainimg.com': 1, 'images.outbrain.org': 1, 'wildcard.outbrainimg.com.edgekey.net': 1, 'e15144.d.akamaiedge.net': 1}
+1622620380147,1,192.168.2.39,233,1.584962500721156,3,{'b1sync.zemanta.com': 1, 'zemanta-ny.outbrain.org': 1, 'nydc1.outbrain.org': 1}
+1622620380147,2,192.168.2.39,172,-0.0,1,{'idsync.rlcdn.com': 1}
+1622620380148,1,192.168.2.39,268,1.584962500721156,3,{'match.adsrvr.org': 1, 'match-aga.adsrvr.org': 1, 'a97adde81b00f2ca4.awsglobalaccelerator.com': 1}
+1622620380148,1,192.168.2.39,366,1.0,2,{'sync-jp.im-apps.net': 1, 'ecs-prd-idsync-api-1966828337.ap-northeast-1.elb.amazonaws.com': 1}
+1622620380148,2,192.168.2.39,390,2.0,4,{'dpm.demdex.net': 1, 'gslb-2.demdex.net': 1, 'edge-irl1.demdex.net': 1, 'dcs-edge-irl1-876252164.eu-west-1.elb.amazonaws.com': 1}
+1622620380850,2,192.168.2.39,227,1.584962500721156,3,{'sync.outbrain.com': 1, 'alldcs.outbrain.org': 1, 'nydc1.outbrain.org': 1}
+1622620380854,1,192.168.2.39,202,1.0,2,{'dis.criteo.com': 1, 'widget.par.vip.prod.criteo.com': 1}
+1622620382021,0,192.168.2.39,224,1.0,2,{'adservice.google.co.in': 1, 'pagead46.l.doubleclick.net': 1}
+1622620382021,1,192.168.2.39,228,-0.0,1,{'adservice.google.com': 1}
+1622620382025,1,192.168.2.39,202,-0.0,1,{'dsp.adfarm1.adition.com': 1}
+1622620382026,2,192.168.2.39,166,-0.0,1,{'ps.eyeota.net': 1}
+1622620382027,1,192.168.2.39,252,1.0,2,{'id.geistm.com': 1, 'int-allysa-production-758906228.us-east-1.elb.amazonaws.com': 1}
+1622620382029,1,192.168.2.39,276,1.0,2,{'subscription.omnithrottle.com': 1, 'ot-de-elb-1606630904.eu-central-1.elb.amazonaws.com': 1}
+1622620382818,1,192.168.2.39,198,-0.0,1,{'pagead2.googlesyndication.com': 1}
+1622620382820,0,192.168.2.39,311,1.0,2,{'616d3f1c0dbab385d36f8b5d6a353437.safeframe.googlesyndication.com': 1, 'pagead-googlehosted.l.google.com': 1}
+1622620382821,2,192.168.2.39,277,1.0,2,{'pixel-us-east.rubiconproject.com': 1, 'pixel-us-east.rubiconproject.net.akadns.net': 1}
+1622620382822,2,192.168.2.39,288,-0.0,1,{'sync.crwdcntrl.net': 1}
+1622620382824,767,192.168.2.39,271,1.584962500721156,3,{'ssum-sec.casalemedia.com': 1, 'ssum-sec.casalemedia.com.edgekey.net': 1, 'e8037.g.akamaiedge.net': 1}
+1622620383592,2,192.168.2.39,180,-0.0,1,{'fonts.googleapis.com': 1}
+1622620383592,2,192.168.2.39,202,1.0,2,{'cdn.ampproject.org': 1, 'cdn-content.ampproject.org': 1}
+1622620383593,479,192.168.2.39,382,-0.0,1,{'tpc.googlesyndication.com': 1}
+1622620383594,2,192.168.2.39,195,1.0,2,{'d.turn.com': 1, 'd.turn.com.akadns.net': 1}
+1622620384068,4,192.168.2.39,272,-0.0,1,{'encrypted-tbn1.gstatic.com': 1}
+1622620384478,4,192.168.2.39,385,1.584962500721156,3,{'pixel.advertising.com': 1, 'prod.ups-adcom.aolp-ds-prd.aws.oath.cloud': 1, 'prod.ups-eu-central-1.aolp-ds-prd.aws.oath.cloud': 1}
+1622620384481,3,192.168.2.39,247,1.0,2,{'sync.mathtag.com': 1, 'pixel-origin.mathtag.com': 1}
+1622620384804,3,192.168.2.39,210,1.0,2,{'fonts.gstatic.com': 1, 'gstaticadssl.l.google.com': 1}
+1622620384807,2,192.168.2.39,174,-0.0,1,{'survey.rediff.com': 1}
+1622620385173,261,192.168.2.39,223,1.584962500721156,3,{'image2.pubmatic.com': 1, 'pug-lhrc.pubmatic.com': 1, 'pug-lhr.pubmatic.com': 1}
+1622620385901,381,192.168.2.39,170,-0.0,1,{'www.gstatic.com': 1}
+1622620385902,382,192.168.2.39,184,-0.0,1,{'ads.travelaudience.com': 1}
+1622620385902,382,192.168.2.39,210,1.0,2,{'pixel-sync.sitescout.com': 1, 'pixel-a.sitescout.com': 1}
+1622620385902,382,192.168.2.39,240,2.0,4,{'px.ads.linkedin.com': 1, 'mix.linkedin.com': 1, 'glb-na.mix.linkedin.com': 1, 'pop-esv5.mix.linkedin.com': 1}
+1622620385903,381,192.168.2.39,231,1.584962500721156,3,{'image6.pubmatic.com': 1, 'pugm22000nfc.pubmatic.com': 1, 'pugm22000nf.pubmatic.com': 1}
+1622620386282,4,192.168.2.39,328,1.584962500721156,3,{'match.360yield.com': 1, 'ice.360yield.com': 1, 'euw-ice.360yield.com': 1}
+1622620386282,5,192.168.2.39,164,-0.0,1,{'um.wbtrk.net': 1}
+1622620386282,5,192.168.2.39,200,1.0,2,{'s0.2mdn.net': 1, 's0-2mdn-net.l.google.com': 1}
+1622620386282,5,192.168.2.39,456,1.0,2,{'tg.socdm.com': 1, 'tg.dr.socdm.com': 1}
+1622620386632,5,192.168.2.39,164,-0.0,1,{'um.wbtrk.net': 1}
+1622620389065,2,192.168.2.39,311,1.0,2,{'78fbc8dd15b82fd628682818afd8cc82.safeframe.googlesyndication.com': 1, 'pagead-googlehosted.l.google.com': 1}
+1622620389068,2,192.168.2.39,178,-0.0,1,{'hbs.ph.affinity.com': 1}
+1622620389068,2,192.168.2.39,225,1.584962500721156,3,{'simage2.pubmatic.com': 1, 'pug-lhrc.pubmatic.com': 1, 'pug-lhr.pubmatic.com': 1}
+1622620389960,1,192.168.2.39,182,-0.0,1,{'contentads.rediff.com': 1}
+1622620390596,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620393054,2,192.168.2.39,234,1.0,2,{'cdn4-hbs.affinitymatrix.com': 1, 'mcanvas.pc.cdn.bitgravity.com': 1}
+1622620393058,387,192.168.2.39,255,1.584962500721156,3,{'libs.outbrain.com': 1, 'wildcard.outbrain.com.edgekey.net': 1, 'e10883.g.akamaiedge.net': 1}
+1622620394547,1,192.168.2.39,241,1.584962500721156,3,{'amplify-imp.outbrain.com': 1, 'alldcs.outbrain.org': 1, 'nydc1.outbrain.org': 1}
+1622620394548,1,192.168.2.39,213,1.0,2,{'cat.jp2.as.criteo.com': 1, 'cat.jp2.vip.prod.criteo.com': 1}
+1622620395958,0,192.168.2.39,207,1.0,2,{'mv.outbrain.com': 1, 'outbrain.map.fastly.net': 1}
+1622620402330,0,192.168.2.39,196,-0.0,1,{'outbrain-d.openx.net': 1}
+1622620402333,1,192.168.2.39,160,-0.0,1,{'tag.1rx.io': 1}
+1622620405729,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620419518,1,192.168.2.39,224,-0.0,1,{'match.adsby.bidtheatre.com': 1}
+1622620419518,1,192.168.2.39,256,-0.0,1,{'match.prod.bidr.io': 1}
+1622620419518,66023,192.168.2.39,480,2.0,4,{'loadm.exelator.com': 1, 'loadus.tm.ssl.exelator.com': 1, 'eu-west.load.exelator.com': 1, 'load-euw1.exelator.com': 1}
+1622620419519,1,192.168.2.39,180,-0.0,1,{'event.clientgear.com': 1}
+1622620419522,1,192.168.2.39,268,1.584962500721156,3,{'pubmatic-match.dotomi.com': 1, 'afp.dotomi.weighted.com.akadns.net': 1, 'ams04-usadmm-ds.dotomi.com': 1}
+1622620419527,1870,192.168.2.39,210,-0.0,1,{'uipapac.semasio.net': 1}
+1622620421400,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620433570,0,192.168.2.39,311,1.0,2,{'e8cdd7b4e3a4c3869bffd434d4bd3841.safeframe.googlesyndication.com': 1, 'pagead-googlehosted.l.google.com': 1}
+1622620435223,1,192.168.2.39,205,1.0,2,{'pix.as.criteo.net': 1, 'pix.jp2.vip.prod.criteo.net': 1}
+1622620436916,1,192.168.2.39,311,1.0,2,{'9e5185a5eb039b471aaaaeec066f180a.safeframe.googlesyndication.com': 1, 'pagead-googlehosted.l.google.com': 1}
+1622620441422,0,192.168.2.39,170,-0.0,1,{'csi.gstatic.com': 1}
+1622620454890,0,192.168.2.39,228,1.584962500721156,3,{'log.outbrainimg.com': 1, 'log.outbrain.org': 1, 'nydc1.outbrain.org': 1}
+1622620464213,1,192.168.2.39,254,1.584962500721156,3,{'www.rediff.com': 1, 'rediff.com.edgekey.net': 1, 'e81366.a.akamaiedge.net': 1}
+1622620464216,1,192.168.2.39,252,1.584962500721156,3,{'im.rediff.com': 1, 'rediff.com.edgekey.net': 1, 'e81366.a.akamaiedge.net': 1}
+1622620464217,2,192.168.2.39,262,1.584962500721156,3,{'bizmail.rediff.com': 1, 'rediff.com.edgekey.net': 1, 'e81366.a.akamaiedge.net': 1}
+1622620464221,1,192.168.2.39,266,1.584962500721156,3,{'datastore.rediff.com': 1, 'rediff.com.edgekey.net': 1, 'e81366.a.akamaiedge.net': 1}
+1622620465252,2,192.168.2.39,278,-0.0,1,{'green.erne.co': 1}
+1622620465253,2,192.168.2.39,176,-0.0,1,{'ads.playground.xyz': 1}
+1622620465253,2,192.168.2.39,186,-0.0,1,{'ad4m.at': 1}
+1622620465253,2,192.168.2.39,273,1.584962500721156,3,{'widget-pixels.outbrain.com': 1, 'wildcard.outbrain.com.edgekey.net': 1, 'e10883.g.akamaiedge.net': 1}
+1622620465253,2,192.168.2.39,280,-0.0,1,{'rtb.gumgum.com': 1}
+1622620465254,2,192.168.2.39,255,1.584962500721156,3,{'aktrack.pubmatic.com': 1, 'aktrack.pubmatic.edgekey.net': 1, 'e6603.b.akamaiedge.net': 1}
+1622620465256,2,192.168.2.39,170,-0.0,1,{'pixel.tapad.com': 1}
+1622620465260,743,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620466003,7,192.168.2.39,311,1.0,2,{'6bd7c3038c78994f414e758f6ff03f8f.safeframe.googlesyndication.com': 1, 'pagead-googlehosted.l.google.com': 1}
+1622620466006,6,192.168.2.39,333,1.584962500721156,3,{'secure.adnxs.com': 1, 'g.geogslb.com': 1, 'ib.anycast.adnxs.com': 1}
+1622620466014,1,192.168.2.39,218,1.0,2,{'mcdp-nydc1.outbrain.com': 1, 'nydc1.outbrain.org': 1}
+1622620466015,2,192.168.2.39,190,-0.0,1,{'tpc.googlesyndication.com': 1}
+1622620466015,852,192.168.2.39,216,1.0,2,{'match.taboola.com': 1, 'tls13.taboola.map.fastly.net': 1}
+1622620469361,0,192.168.2.39,239,1.584962500721156,3,{'ads.pubmatic.com': 1, 'pubmatic.edgekey.net': 1, 'e6603.g.akamaiedge.net': 1}
+1622620469362,0,192.168.2.39,246,-0.0,1,{'pagead2.googlesyndication.com': 1}
+1622620469364,0,192.168.2.39,298,-0.0,1,{'sync.srv.stackadapt.com': 1}
+1622620473408,1,192.168.2.39,272,1.0,2,{'adservice.google.co.in': 1, 'pagead46.l.doubleclick.net': 1}
+1622620477030,1,192.168.2.39,307,2.0,4,{'play.selectmedia.asia': 1, 'wlplay.aniview.com': 1, 'wl.aniview.com.edgekey.net': 1, 'e24084.dscd.akamaiedge.net': 1}
+1622620479688,0,192.168.2.39,259,1.584962500721156,3,{'player.aniview.com': 1, 'wildcard.aniview.com.edgekey.net': 1, 'e11385.dscd.akamaiedge.net': 1}
+1622620479691,1,192.168.2.39,346,1.0,2,{'track1.aniview.com': 1, 'tracking-1611167402.us-east-1.elb.amazonaws.com': 1}
+1622620479691,2,192.168.2.39,311,1.0,2,{'49978602d10c3552a10ac6fed650ab9c.safeframe.googlesyndication.com': 1, 'pagead-googlehosted.l.google.com': 1}
+1622620479692,1,192.168.2.39,255,1.584962500721156,3,{'libs.outbrain.com': 1, 'wildcard.outbrain.com.edgekey.net': 1, 'e10883.g.akamaiedge.net': 1}
+1622620480233,814,192.168.2.39,269,1.584962500721156,3,{'videoclientsservicescalls.outbrain.com': 1, 'alldcs.outbrain.org': 1, 'nydc1.outbrain.org': 1}
+1622620480234,815,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620481048,1,192.168.2.39,241,1.584962500721156,3,{'amplify-imp.outbrain.com': 1, 'alldcs.outbrain.org': 1, 'nydc1.outbrain.org': 1}
+1622620481049,1,192.168.2.39,213,1.0,2,{'cat.jp2.as.criteo.com': 1, 'cat.jp2.vip.prod.criteo.com': 1}
+1622620481059,999,192.168.2.39,274,1.0,2,{'go1.aniview.com': 1, 'serving-126397893.us-east-1.elb.amazonaws.com': 1}
+1622620482063,0,192.168.2.39,311,1.0,2,{'6764e786f408956f849a7ac13b06bdca.safeframe.googlesyndication.com': 1, 'pagead-googlehosted.l.google.com': 1}
+1622620482064,0,192.168.2.39,417,1.0,2,{'server7.vidazoo.com': 1, 'platform-adsob-2.vidazoo.com': 1}
+1622620482774,2,192.168.2.39,257,1.584962500721156,3,{'js-sec.indexww.com': 1, 'js-sec.casalemedia.com.edgekey.net': 1, 'e8037.g.akamaiedge.net': 1}
+1622620482781,1,192.168.2.39,210,1.0,2,{'pixel-sync.sitescout.com': 1, 'pixel-a.sitescout.com': 1}
+1622620483427,753,192.168.2.39,255,2.0,4,{'loadm.exelator.com': 1, 'loadus.tm.ssl.exelator.com': 1, 'eu-west.load.exelator.com': 1, 'load-euw1.exelator.com': 1}
+1622620484188,215,192.168.2.39,180,-0.0,1,{'cm.g.doubleclick.net': 1}
+1622620484188,215,192.168.2.39,271,1.584962500721156,3,{'dsum-sec.casalemedia.com': 1, 'dsum-sec.casalemedia.com.edgekey.net': 1, 'e8037.g.akamaiedge.net': 1}
+1622620484189,215,192.168.2.39,238,2.0,4,{'p.rfihub.com': 1, 'a.rfihub.com': 1, 'a.rfihub.com.akadns.net': 1, 'a-emea.rfihub.com.akadns.net': 1}
+1622620484189,215,192.168.2.39,284,-0.0,1,{'rtb.adentifi.com': 1}
+1622620484189,216,192.168.2.39,268,1.584962500721156,3,{'match.adsrvr.org': 1, 'match-aga.adsrvr.org': 1, 'a97adde81b00f2ca4.awsglobalaccelerator.com': 1}
+1622620484406,543,192.168.2.39,253,1.0,2,{'ghb.adtelligent.com': 1, 'ghb-adtelligent-com.geodns.me': 1}
+1622620484953,2,192.168.2.39,393,1.584962500721156,3,{'ads.adaptv.advertising.com': 1, 'control-geo.adap.tv': 1, 'ads-1460635594.eu-central-1.elb.amazonaws.com': 1}
+1622620485970,3,192.168.2.39,355,1.0,2,{'x.bidswitch.net': 1, 'alb-aws-fr-bswx-3-1125904451.eu-central-1.elb.amazonaws.com': 1}
+1622620485972,592,192.168.2.39,199,1.0,2,{'gum.criteo.com': 1, 'gum.par.vip.prod.criteo.com': 1}
+1622620485972,592,192.168.2.39,235,1.0,2,{'player.adtelligent.com': 1, 'cdn53833466.ahacdn.me': 1}
+1622620485972,593,192.168.2.39,190,-0.0,1,{'prebid-us.creativecdn.com': 1}
+1622620485973,592,192.168.2.39,202,-0.0,1,{'adtelligent-d.openx.net': 1}
+1622620485973,593,192.168.2.39,300,1.584962500721156,3,{'c2shb.ssp.yahoo.com': 1, 'c2shb.one-mobile-prod.aws.oath.cloud': 1, 'ssp-ats-prod-eu-central-1.one-mobile-prod.aws.oath.cloud': 1}
+1622620485973,593,192.168.2.39,311,1.0,2,{'fastlane.rubiconproject.com': 1, 'tagged-by.rubiconproject.net.akadns.net': 1}
+1622620487576,2,192.168.2.39,188,-0.0,1,{'bidswitch-eu.splicky.com': 1}
+1622620487582,1,192.168.2.39,232,1.0,2,{'www.googletagmanager.com': 1, 'www-googletagmanager.l.google.com': 1}
+1622620487582,2,192.168.2.39,311,1.0,2,{'cffae29f545d491338b3354bbb44f878.safeframe.googlesyndication.com': 1, 'pagead-googlehosted.l.google.com': 1}
+1622620487585,500,192.168.2.39,295,1.584962500721156,3,{'ups.analytics.yahoo.com': 1, 'prod.ups-ats.aolp-ds-prd.aws.oath.cloud': 1, 'prod.ups-ats.eu-central-1.aolp-ds-prd.aws.oath.cloud': 1}
+1622620487586,500,192.168.2.39,385,1.584962500721156,3,{'pixel.advertising.com': 1, 'prod.ups-adcom.aolp-ds-prd.aws.oath.cloud': 1, 'prod.ups-eu-central-1.aolp-ds-prd.aws.oath.cloud': 1}
+1622620489836,0,192.168.2.39,286,1.584962500721156,3,{'sync.search.spotxchange.com': 1, 'sync.search-gtm.spotxchange.com.akadns.net': 1, 'ams01.sync.search.spotxchange.com': 1}
+1622620495290,2079,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620503890,0,192.168.2.39,311,1.0,2,{'2aa79c512349676dd100881b86e01a0a.safeframe.googlesyndication.com': 1, 'pagead-googlehosted.l.google.com': 1}
+1622620550426,1,192.168.2.39,168,-0.0,1,{'www.google.com': 1}
+1622620551272,1,192.168.2.39,239,1.584962500721156,3,{'acdn.adnxs.com': 1, 'secure-adnxs.edgekey.net': 1, 'e6115.g.akamaiedge.net': 1}
+1622620551274,1,192.168.2.39,180,-0.0,1,{'contextual.media.net': 1}
+1622620551275,1,192.168.2.39,195,1.0,2,{'d.turn.com': 1, 'd.turn.com.akadns.net': 1}
+1622620551275,2,192.168.2.39,184,-0.0,1,{'us-u.openx.net': 1}
+1622620551275,2,192.168.2.39,280,-0.0,1,{'rtb.gumgum.com': 1}
+1622620551792,2,192.168.2.39,216,-0.0,1,{'cr-p3.ladsp.jp': 1}
+1622620551796,480,192.168.2.39,247,1.0,2,{'sync.mathtag.com': 1, 'pixel-origin.mathtag.com': 1}
+1622620551796,480,192.168.2.39,256,-0.0,1,{'match.prod.bidr.io': 1}
+1622620551797,480,192.168.2.39,222,1.0,2,{'pr-bh.ybp.yahoo.com': 1, 'ds-pr-bh.ybp.gysm.yahoodns.net': 1}
+1622620551797,480,192.168.2.39,298,-0.0,1,{'sync.srv.stackadapt.com': 1}
+1622620551797,480,192.168.2.39,355,1.0,2,{'x.bidswitch.net': 1, 'alb-aws-fr-bswx-3-1125904451.eu-central-1.elb.amazonaws.com': 1}
+1622620551797,481,192.168.2.39,292,-0.0,1,{'sync.ipredictive.com': 1}
+1622620551798,480,192.168.2.39,238,1.584962500721156,3,{'sync.technoratimedia.com': 1, 'adserver.technoratimedia.com': 1, 'v02.cap-ash1.technoratimedia.com': 1}
+1622620552276,4,192.168.2.39,390,2.0,4,{'dpm.demdex.net': 1, 'gslb-2.demdex.net': 1, 'edge-irl1.demdex.net': 1, 'dcs-edge-irl1-876252164.eu-west-1.elb.amazonaws.com': 1}
+1622620552276,5,192.168.2.39,238,2.0,4,{'p.rfihub.com': 1, 'a.rfihub.com': 1, 'a.rfihub.com.akadns.net': 1, 'a-emea.rfihub.com.akadns.net': 1}
+1622620552276,5,192.168.2.39,246,1.584962500721156,3,{'c.bing.com': 1, 'c-bing-com.a-0001.a-msedge.net': 1, 'dual-a-0001.a-msedge.net': 1}
+1622620552279,4,192.168.2.39,399,2.0,4,{'rtb.mfadsrvr.com': 1, 'pool.dorpat.iponweb.net': 1, 'dorpat.geo.iponweb.net': 1, 'elb-aws-fr-dorpat-283474803.eu-central-1.elb.amazonaws.com': 1}
+1622620552282,5,192.168.2.39,228,1.0,2,{'match.deepintent.com': 1, 'g.deepintent.com': 1}
+1622620552290,326,192.168.2.39,253,1.0,2,{'token.rubiconproject.com': 1, 'pixel.rubiconproject.net.akadns.net': 1}
+1622620552617,3,192.168.2.39,246,1.584962500721156,3,{'m.adnxs.com': 1, 'microsoft.geo.appnexusgslb.net': 1, 'm.anycast.adnxs.com': 1}
+1622620553122,2,192.168.2.39,236,1.584962500721156,3,{'bh.contextweb.com': 1, 'lga-bh.contextweb.com': 1, 'lga-bh-bgp.contextweb.com': 1}
+1622620553122,2,192.168.2.39,288,-0.0,1,{'aorta.clickagy.com': 1}
+1622620553124,2,192.168.2.39,248,1.584962500721156,3,{'x.dlx.addthis.com': 1, 'dlx.addthis.com.edgekey.net': 1, 'e9126.x.akamaiedge.net': 1}
+1622620553126,486,192.168.2.39,162,-0.0,1,{'de.tynt.com': 1}
+1622620553612,3,192.168.2.39,210,1.0,2,{'pixel-sync.sitescout.com': 1, 'pixel-a.sitescout.com': 1}
+1622620553618,2,192.168.2.39,286,2.0,4,{'data.adsrvr.org': 1, 'match.adsrvr.org': 1, 'match-aga.adsrvr.org': 1, 'a97adde81b00f2ca4.awsglobalaccelerator.com': 1}
+1622620554736,0,192.168.2.39,293,1.584962500721156,3,{'secure-assets.rubiconproject.com': 1, 'digicertwc.rubiconproject.com.edgekey.net': 1, 'e8960.e2.akamaiedge.net': 1}
+1622620556392,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620556396,1,192.168.2.39,164,-0.0,1,{'id.rlcdn.com': 1}
+1622620598574,3,192.168.2.39,301,2.0,4,{'ap.lijit.com': 1, 'vap.lijit.com': 1, 'emeas.vap.lijit.com': 1, 'emea.vap.lijit.com': 1}
+1622620612037,1,192.168.2.39,325,1.584962500721156,3,{'ib.adnxs.com': 1, 'g.geogslb.com': 1, 'ib.anycast.adnxs.com': 1}
+1622620612043,2241,192.168.2.39,226,1.0,2,{'securepubads.g.doubleclick.net': 1, 'partnerad.l.doubleclick.net': 1}
+1622620617074,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620630009,0,192.168.2.39,300,1.584962500721156,3,{'c2shb.ssp.yahoo.com': 1, 'c2shb.one-mobile-prod.aws.oath.cloud': 1, 'ssp-ats-prod-eu-central-1.one-mobile-prod.aws.oath.cloud': 1}
+1622620633104,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620646019,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620659628,894,192.168.2.39,301,2.0,4,{'ap.lijit.com': 1, 'vap.lijit.com': 1, 'emeas.vap.lijit.com': 1, 'emea.vap.lijit.com': 1}
+1622620660524,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620690292,1619,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620691913,1,192.168.2.39,300,1.584962500721156,3,{'c2shb.ssp.yahoo.com': 1, 'c2shb.one-mobile-prod.aws.oath.cloud': 1, 'ssp-ats-prod-eu-central-1.one-mobile-prod.aws.oath.cloud': 1}
+1622620719741,0,192.168.2.39,269,2.0,4,{'teams.microsoft.com': 1, 'teams.office.com': 1, 'teams-office-com.s-0005.s-msedge.net': 1, 's-0005.s-msedge.net': 1}
+1622620722130,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620729727,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620759594,1,192.168.2.39,276,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622620762776,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622620771811,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622620771811,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622620774624,0,192.168.2.39,194,-0.0,1,{'googleads.g.doubleclick.net': 1}
+1622620780311,0,192.168.2.39,302,1.584962500721156,3,{'browser.events.data.microsoft.com': 1, 'browser.events.data.trafficmanager.net': 1, 'skypedataprdcoleus14.cloudapp.net': 1}
+1622620780318,2578,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620782902,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622620782902,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622620784299,0,192.168.2.39,228,1.584962500721156,3,{'log.outbrainimg.com': 1, 'log.outbrain.org': 1, 'nydc1.outbrain.org': 1}
+1622620787293,0,192.168.2.39,233,1.584962500721156,3,{'hb.hb.selectmedia.asia': 1, 'hb.unoadsrv.com': 1, 'ads62.unoadsrv.com': 1}
+1622620795652,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622620795652,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622620806898,0,192.168.2.39,226,1.0,2,{'securepubads.g.doubleclick.net': 1, 'partnerad.l.doubleclick.net': 1}
+1622620806903,1156,192.168.2.39,285,1.0,2,{'partner.googleadservices.com': 1, 'partnerad.l.doubleclick.net': 1}
+1622620808061,50,192.168.2.39,168,-0.0,1,{'www.google.com': 1}
+1622620808112,190381,192.168.2.39,2364,1.0,2,{'NPI9B1EF1.local': 1, 'domain.local': 1}
+1622620808113,0,192.168.2.39,190,-0.0,1,{'tpc.googlesyndication.com': 1}
+1622620808113,33,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622620809780,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622620809781,0,192.168.2.39,212,-0.0,1,{'dm.hybrid.ai': 1}
+1622620809785,1693,192.168.2.39,166,-0.0,1,{'t.trafmag.com': 1}
+1622620811478,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622620811478,2,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622620811480,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620812791,0,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622620814948,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622620814948,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622620814950,2,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622620814951,0,192.168.2.39,300,1.584962500721156,3,{'c2shb.ssp.yahoo.com': 1, 'c2shb.one-mobile-prod.aws.oath.cloud': 1, 'ssp-ats-prod-eu-central-1.one-mobile-prod.aws.oath.cloud': 1}
+1622620817354,0,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622620821349,0,192.168.2.39,330,1.584962500721156,3,{'apac.presence.teams.microsoft.com': 1, 'apac.presence.services.sfb.trafficmanager.net': 1, 'a-ups-presence2-prod-azsc.japanwest.cloudapp.azure.com': 1}
+1622620832444,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622620832444,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622620842248,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620842252,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622620847676,1,192.168.2.39,301,2.0,4,{'ap.lijit.com': 1, 'vap.lijit.com': 1, 'emeas.vap.lijit.com': 1, 'emea.vap.lijit.com': 1}
+1622620870581,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620885926,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620901443,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620918108,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620926989,0,192.168.2.39,345,2.807354922057604,7,{'outlook.office.com': 1, 'substrate.office.com': 1, 'substrate.ha.office.com': 1, 'substrate.ms-acdc.office.com': 1, 'afd-k.office.com': 1, 'outlook-office-com.k-0002.k-msedge.net': 1, 'k-0002.k-msedge.net': 1}
+1622620932574,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622620932580,0,192.168.2.39,194,-0.0,1,{'googleads.g.doubleclick.net': 1}
+1622620939722,92467,192.168.2.39,690,3.169925001442312,9,{'c2shb.ssp.yahoo.com': 1, 'c2shb.one-mobile-prod.aws.oath.cloud': 1, 'ssp-ats-prod-eu-central-1.one-mobile-prod.aws.oath.cloud': 1, 'licensing.mp.microsoft.com': 1, 'consumer-licensing-aks2eap.md.mp.microsoft.com.akadns.net': 1, 'consumer-licensing-aks2eap-europe.md.mp.microsoft.com.akadns.net': 1, 'licensing.md.mp.microsoft.com.akadns.net': 1, 'licensing-europeeap.md.mp.microsoft.com.akadns.net': 1, 'db5eap.licensing.md.mp.microsoft.com.akadns.net': 1}
+1622620942032,0,192.168.2.39,302,1.584962500721156,3,{'browser.events.data.microsoft.com': 1, 'browser.events.data.trafficmanager.net': 1, 'skypedataprdcolweu01.cloudapp.net': 1}
+1622620956671,0,192.168.2.39,296,1.584962500721156,3,{'teams.events.data.microsoft.com': 1, 'teams-events-data.trafficmanager.net': 1, 'skypedataprdcoluks01.cloudapp.net': 1}
+1622620986077,0,192.168.2.39,370,1.584962500721156,3,{'assets.msn.com': 1, 'assets.msn.com.edgekey.net': 1, 'e28578.d.akamaiedge.net': 1}
+1622620987980,2179,192.168.2.39,326,2.321928094887362,5,{'config.edge.skype.com': 1, 'config.edge.skype.com.trafficmanager.net': 1, 'l-0014.config.skype.com': 1, 'config-edge-skype.l-0014.l-msedge.net': 1, 'l-0014.l-msedge.net': 1}
+1622621003353,2,192.168.2.39,300,1.584962500721156,3,{'c2shb.ssp.yahoo.com': 1, 'c2shb.one-mobile-prod.aws.oath.cloud': 1, 'ssp-ats-prod-eu-central-1.one-mobile-prod.aws.oath.cloud': 1}
+1622621030410,0,192.168.2.39,415,2.0,4,{'login.microsoftonline.com': 1, 'a.privatelink.msidentity.com': 1, 'prda.aadg.msidentity.com': 1, 'www.tm.a.prd.aadg.trafficmanager.net': 1}
+1622621036515,0,192.168.2.39,325,1.584962500721156,3,{'ib.adnxs.com': 1, 'g.geogslb.com': 1, 'ib.anycast.adnxs.com': 1}
+1622621036517,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621066109,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621067443,0,192.168.2.39,300,1.584962500721156,3,{'c2shb.ssp.yahoo.com': 1, 'c2shb.one-mobile-prod.aws.oath.cloud': 1, 'ssp-ats-prod-eu-central-1.one-mobile-prod.aws.oath.cloud': 1}
+1622621071028,1138,192.168.2.39,302,1.584962500721156,3,{'browser.events.data.microsoft.com': 1, 'browser.events.data.trafficmanager.net': 1, 'skypedataprdcolcus03.cloudapp.net': 1}
+1622621086753,0,192.168.2.39,278,1.584962500721156,3,{'client-office365-tas.msedge.net': 1, 'afdo-tas-offload.trafficmanager.net': 1, 'e-0009.e-msedge.net': 1}
+1622621097918,0,192.168.2.39,345,2.0,4,{'outlook-1.cdn.office.net': 1, 'outlook-1.cdn.office.net-c.edgekey.net': 1, 'outlook-1.cdn.office.net-c.edgekey.net.globalredir.akadns.net': 1, 'e1875.dscg.akamaiedge.net': 1}
+1622621100377,0,192.168.2.39,233,1.584962500721156,3,{'hb.hb.selectmedia.asia': 1, 'hb.unoadsrv.com': 1, 'ads62.unoadsrv.com': 1}
+1622621103787,1,192.168.2.39,274,1.584962500721156,3,{'player.hb.selectmedia.asia': 1, 'player.unocdn.com': 1, 'cdn31530260.ahacdn.me': 1}
+1622621114895,341,192.168.2.39,345,2.807354922057604,7,{'outlook.office.com': 1, 'substrate.office.com': 1, 'substrate.ha.office.com': 1, 'substrate.ms-acdc.office.com': 1, 'afd-k.office.com': 1, 'outlook-office-com.k-0002.k-msedge.net': 1, 'k-0002.k-msedge.net': 1}
+1622621120729,0,192.168.2.39,308,1.584962500721156,3,{'sfind.loki.delve.office.com': 1, 'fast-prod-atm-sfind.trafficmanager.net': 1, 'fast-prod-cluster-loki.westindia.cloudapp.azure.com': 1}
+1622621131039,0,192.168.2.39,259,1.584962500721156,3,{'htlb.casalemedia.com': 1, 'htlb.casalemedia.com.edgekey.net': 1, 'e8037.i.akamaiedge.net': 1}
+1622621137418,0,192.168.2.39,172,-0.0,1,{'dns.msftncsi.com': 1}
+1622621139361,0,192.168.2.39,276,1.584962500721156,3,{'www.webassetscdn.com': 1, 'www.webassetscdn.com.edgesuite.net': 1, 'a1869.dscr.akamai.net': 1}
+1622621140698,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621143494,0,192.168.2.39,312,1.0,2,{'www.google-analytics.com': 1, 'www-google-analytics.l.google.com': 1}
+1622621145361,0,192.168.2.39,280,1.584962500721156,3,{'api.my.avira.com': 1, 'api-my.oes.avira.com': 1, 'albapigateway01-907695634.eu-central-1.elb.amazonaws.com': 1}
+1622621157024,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621170222,2822,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621194301,1,192.168.2.39,259,1.584962500721156,3,{'htlb.casalemedia.com': 1, 'htlb.casalemedia.com.edgekey.net': 1, 'e8037.i.akamaiedge.net': 1}
+1622621194301,2874,192.168.2.39,300,1.584962500721156,3,{'c2shb.ssp.yahoo.com': 1, 'c2shb.one-mobile-prod.aws.oath.cloud': 1, 'ssp-ats-prod-eu-central-1.one-mobile-prod.aws.oath.cloud': 1}
+1622621202952,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621225574,0,192.168.2.39,351,2.321928094887362,5,{'config.teams.microsoft.com': 1, 'config.teams.trafficmanager.net': 1, 's-0005-teams.config.skype.com': 1, 'config-teams.s-0005.s-msedge.net': 1, 's-0005.dc-msedge.net': 1}
+1622621226838,25,192.168.2.39,301,2.0,4,{'ap.lijit.com': 1, 'vap.lijit.com': 1, 'emeas.vap.lijit.com': 1, 'emea.vap.lijit.com': 1}
+1622621228579,0,192.168.2.39,233,1.584962500721156,3,{'hb.hb.selectmedia.asia': 1, 'hb.unoadsrv.com': 1, 'ads62.unoadsrv.com': 1}
+1622621245630,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621290641,0,192.168.2.39,325,1.584962500721156,3,{'ib.adnxs.com': 1, 'g.geogslb.com': 1, 'ib.anycast.adnxs.com': 1}
+1622621321829,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621323543,1,192.168.2.39,259,1.584962500721156,3,{'htlb.casalemedia.com': 1, 'htlb.casalemedia.com.edgekey.net': 1, 'e8037.i.akamaiedge.net': 1}
+1622621323543,2,192.168.2.39,300,1.584962500721156,3,{'c2shb.ssp.yahoo.com': 1, 'c2shb.one-mobile-prod.aws.oath.cloud': 1, 'ssp-ats-prod-eu-central-1.one-mobile-prod.aws.oath.cloud': 1}
+1622621327894,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621343744,2697,192.168.2.39,236,1.0,2,{'nexus.officeapps.live.com': 1, 'prod-w.nexus.live.com.akadns.net': 1}
+1622621346441,0,192.168.2.39,276,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622621350631,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621360557,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622621366109,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621376405,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622621376405,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622621378961,0,192.168.2.39,276,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622621380328,2533,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621387402,0,192.168.2.39,300,1.584962500721156,3,{'c2shb.ssp.yahoo.com': 1, 'c2shb.one-mobile-prod.aws.oath.cloud': 1, 'ssp-ats-prod-eu-central-1.one-mobile-prod.aws.oath.cloud': 1}
+1622621387403,0,192.168.2.39,259,1.584962500721156,3,{'htlb.casalemedia.com': 1, 'htlb.casalemedia.com.edgekey.net': 1, 'e8037.i.akamaiedge.net': 1}
+1622621390722,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622621390722,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622621395993,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621406091,1,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622621406092,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622621408225,11796,192.168.2.39,2212,-0.0,1,{'NPI9B1EF1.local': 1}
+1622621408225,33,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622621408225,33,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622621408261,2073,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622621408261,2073,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622621412561,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622621414797,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622621417078,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622621417078,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622621418594,1,192.168.2.39,301,2.0,4,{'ap.lijit.com': 1, 'vap.lijit.com': 1, 'emeas.vap.lijit.com': 1, 'emea.vap.lijit.com': 1}
+1622621424428,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622621424428,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622621436904,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622621436904,1,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622621452140,1,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622621456345,0,192.168.2.39,302,1.584962500721156,3,{'browser.events.data.microsoft.com': 1, 'browser.events.data.trafficmanager.net': 1, 'skypedataprdcolneu04.cloudapp.net': 1}
+1622621485447,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621513713,1,192.168.2.39,300,1.584962500721156,3,{'c2shb.ssp.yahoo.com': 1, 'c2shb.one-mobile-prod.aws.oath.cloud': 1, 'ssp-ats-prod-eu-central-1.one-mobile-prod.aws.oath.cloud': 1}
+1622621515863,2,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621532056,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621541102,0,192.168.2.39,334,1.584962500721156,3,{'apac.presence.teams.microsoft.com': 1, 'apac.presence.services.sfb.trafficmanager.net': 1, 'a-ups-presence3-prod-azsc.australiaeast.cloudapp.azure.com': 1}
+1622621544902,0,192.168.2.39,345,2.0,4,{'outlook-1.cdn.office.net': 1, 'outlook-1.cdn.office.net-c.edgekey.net': 1, 'outlook-1.cdn.office.net-c.edgekey.net.globalredir.akadns.net': 1, 'e1875.dscg.akamaiedge.net': 1}
+1622621545314,8,192.168.2.39,301,2.0,4,{'ap.lijit.com': 1, 'vap.lijit.com': 1, 'emeas.vap.lijit.com': 1, 'emea.vap.lijit.com': 1}
+1622621545314,8,192.168.2.39,325,1.584962500721156,3,{'ib.adnxs.com': 1, 'g.geogslb.com': 1, 'ib.anycast.adnxs.com': 1}
+1622621546374,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621547764,0,192.168.2.39,233,1.584962500721156,3,{'hb.hb.selectmedia.asia': 1, 'hb.unoadsrv.com': 1, 'ads62.unoadsrv.com': 1}
+1622621558361,0,192.168.2.39,295,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcolwus13.cloudapp.net': 1}
+1622621560305,0,192.168.2.39,300,1.584962500721156,3,{'in.ng.msg.teams.microsoft.com': 1, 'in.ng.msg.teams-msgapi.trafficmanager.net': 1, 'msgapi-prod-ejp-azsc1-1.cloudapp.net': 1}
+1622621576885,2,192.168.2.39,300,1.584962500721156,3,{'c2shb.ssp.yahoo.com': 1, 'c2shb.one-mobile-prod.aws.oath.cloud': 1, 'ssp-ats-prod-eu-central-1.one-mobile-prod.aws.oath.cloud': 1}
+1622621589153,0,192.168.2.39,296,1.584962500721156,3,{'teams.events.data.microsoft.com': 1, 'teams-events-data.trafficmanager.net': 1, 'skypedataprdcolweu03.cloudapp.net': 1}
+1622621605309,259,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621607667,0,192.168.2.39,311,1.0,2,{'fastlane.rubiconproject.com': 1, 'tagged-by.rubiconproject.net.akadns.net': 1}
+1622621609867,0,192.168.2.39,233,1.584962500721156,3,{'hb.hb.selectmedia.asia': 1, 'hb.unoadsrv.com': 1, 'ads62.unoadsrv.com': 1}
+1622621620291,2371,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621636098,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621639600,1,192.168.2.39,259,1.584962500721156,3,{'htlb.casalemedia.com': 1, 'htlb.casalemedia.com.edgekey.net': 1, 'e8037.i.akamaiedge.net': 1}
+1622621639600,1,192.168.2.39,300,1.584962500721156,3,{'c2shb.ssp.yahoo.com': 1, 'c2shb.one-mobile-prod.aws.oath.cloud': 1, 'ssp-ats-prod-eu-central-1.one-mobile-prod.aws.oath.cloud': 1}
+1622621650338,2101,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621666362,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621700265,0,192.168.2.39,259,1.584962500721156,3,{'htlb.casalemedia.com': 1, 'htlb.casalemedia.com.edgekey.net': 1, 'e8037.i.akamaiedge.net': 1}
+1622621710729,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621715046,2416,192.168.2.39,334,1.584962500721156,3,{'apac.presence.teams.microsoft.com': 1, 'apac.presence.services.sfb.trafficmanager.net': 1, 'a-ups-presence3-prod-azsc.australiaeast.cloudapp.azure.com': 1}
+1622621726378,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621730061,0,192.168.2.39,290,1.584962500721156,3,{'inc-word-view.officeapps.live.com': 1, 'inc-word-view.wac.trafficmanager.net.b-0016.b-msedge.net': 1, 'b-0016.b-msedge.net': 1}
+1622621734548,2,192.168.2.39,233,1.584962500721156,3,{'hb.hb.selectmedia.asia': 1, 'hb.unoadsrv.com': 1, 'ads62.unoadsrv.com': 1}
+1622621763318,632,192.168.2.39,259,1.584962500721156,3,{'htlb.casalemedia.com': 1, 'htlb.casalemedia.com.edgekey.net': 1, 'e8037.i.akamaiedge.net': 1}
+1622621786186,2,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621816297,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621816299,0,192.168.2.39,249,1.0,2,{'settings-win.data.microsoft.com': 1, 'settingsfd-geo.trafficmanager.net': 1}
+1622621816300,1,192.168.2.39,390,2.584962500721156,6,{'licensing.mp.microsoft.com': 1, 'consumer-licensing-aks2eap.md.mp.microsoft.com.akadns.net': 1, 'consumer-licensing-aks2eap-europe.md.mp.microsoft.com.akadns.net': 1, 'licensing.md.mp.microsoft.com.akadns.net': 1, 'licensing-europeeap.md.mp.microsoft.com.akadns.net': 1, 'db5eap.licensing.md.mp.microsoft.com.akadns.net': 1}
+1622621820453,1,192.168.2.39,251,1.584962500721156,3,{'go.microsoft.com': 1, 'go.microsoft.com.edgekey.net': 1, 'e11290.dspg.akamaiedge.net': 1}
+1622621820456,0,192.168.2.39,309,1.584962500721156,3,{'dmd.metaservices.microsoft.com': 1, 'devicemetadataservice.trafficmanager.net': 1, 'vmss-prod-neu.northeurope.cloudapp.azure.com': 1}
+1622621820457,2,192.168.2.39,390,2.584962500721156,6,{'licensing.mp.microsoft.com': 1, 'consumer-licensing-aks2eap.md.mp.microsoft.com.akadns.net': 1, 'consumer-licensing-aks2eap-europe.md.mp.microsoft.com.akadns.net': 1, 'licensing.md.mp.microsoft.com.akadns.net': 1, 'licensing-europeeap.md.mp.microsoft.com.akadns.net': 1, 'db5eap.licensing.md.mp.microsoft.com.akadns.net': 1}
+1622621824902,0,192.168.2.39,390,2.584962500721156,6,{'licensing.mp.microsoft.com': 1, 'consumer-licensing-aks2eap.md.mp.microsoft.com.akadns.net': 1, 'consumer-licensing-aks2eap-europe.md.mp.microsoft.com.akadns.net': 1, 'licensing.md.mp.microsoft.com.akadns.net': 1, 'licensing-europeeap.md.mp.microsoft.com.akadns.net': 1, 'db5eap.licensing.md.mp.microsoft.com.akadns.net': 1}
+1622621829266,1,192.168.2.39,311,1.0,2,{'fastlane.rubiconproject.com': 1, 'tagged-by.rubiconproject.net.akadns.net': 1}
+1622621829266,1121,192.168.2.39,300,1.584962500721156,3,{'c2shb.ssp.yahoo.com': 1, 'c2shb.one-mobile-prod.aws.oath.cloud': 1, 'ssp-ats-prod-eu-central-1.one-mobile-prod.aws.oath.cloud': 1}
+1622621861252,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621861254,0,192.168.2.39,233,1.584962500721156,3,{'hb.hb.selectmedia.asia': 1, 'hb.unoadsrv.com': 1, 'ads62.unoadsrv.com': 1}
+1622621866355,0,192.168.2.39,334,1.584962500721156,3,{'apac.presence.teams.microsoft.com': 1, 'apac.presence.services.sfb.trafficmanager.net': 1, 'a-ups-presence3-prod-azsc.australiaeast.cloudapp.azure.com': 1}
+1622621891225,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621893500,0,192.168.2.39,300,1.584962500721156,3,{'c2shb.ssp.yahoo.com': 1, 'c2shb.one-mobile-prod.aws.oath.cloud': 1, 'ssp-ats-prod-eu-central-1.one-mobile-prod.aws.oath.cloud': 1}
+1622621893501,0,192.168.2.39,259,1.584962500721156,3,{'htlb.casalemedia.com': 1, 'htlb.casalemedia.com.edgekey.net': 1, 'e8037.i.akamaiedge.net': 1}
+1622621907325,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621922494,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621929487,0,192.168.2.39,300,1.584962500721156,3,{'v10.events.data.microsoft.com': 1, 'global.asimov.events.data.trafficmanager.net': 1, 'skypedataprdcolweu00.cloudapp.net': 1}
+1622621929488,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621945772,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622621951981,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621954197,1,192.168.2.39,259,1.584962500721156,3,{'htlb.casalemedia.com': 1, 'htlb.casalemedia.com.edgekey.net': 1, 'e8037.i.akamaiedge.net': 1}
+1622621956182,0,192.168.2.39,233,1.584962500721156,3,{'hb.hb.selectmedia.asia': 1, 'hb.unoadsrv.com': 1, 'ads62.unoadsrv.com': 1}
+1622621965384,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622621971174,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622621971174,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622621973354,0,192.168.2.39,194,-0.0,1,{'safebrowsing.googleapis.com': 1}
+1622621976902,0,192.168.2.39,376,2.321928094887362,5,{'ctldl.windowsupdate.com': 1, 'au-bg-shim.trafficmanager.net': 1, 'audownload.windowsupdate.nsatc.net': 1, 'au.download.windowsupdate.com.edgesuite.net': 1, 'a767.dscg3.akamai.net': 1}
+1622621979080,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622621979080,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622621979080,0,192.168.2.39,276,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622621994286,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622621994286,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622621996625,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622622006915,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622622006915,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622622009535,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622622009535,12551,192.168.2.39,2212,-0.0,1,{'NPI9B1EF1.local': 1}
+1622622009538,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622622009538,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622622013960,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622622016028,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622622017841,2,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622622017842,0,192.168.2.39,233,1.584962500721156,3,{'hb.hb.selectmedia.asia': 1, 'hb.unoadsrv.com': 1, 'ads62.unoadsrv.com': 1}
+1622622022081,3,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622622026738,2,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622622035403,2,192.168.2.39,290,1.584962500721156,3,{'inc-word-view.officeapps.live.com': 1, 'inc-word-view.wac.trafficmanager.net.b-0016.b-msedge.net': 1, 'b-0016.b-msedge.net': 1}
+1622622040855,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622622078467,0,192.168.2.39,259,1.584962500721156,3,{'htlb.casalemedia.com': 1, 'htlb.casalemedia.com.edgekey.net': 1, 'e8037.i.akamaiedge.net': 1}
+1622622078467,0,192.168.2.39,300,1.584962500721156,3,{'c2shb.ssp.yahoo.com': 1, 'c2shb.one-mobile-prod.aws.oath.cloud': 1, 'ssp-ats-prod-eu-central-1.one-mobile-prod.aws.oath.cloud': 1}
+1622622080111,2,192.168.2.39,233,1.584962500721156,3,{'hb.hb.selectmedia.asia': 1, 'hb.unoadsrv.com': 1, 'ads62.unoadsrv.com': 1}
+1622622115280,1,192.168.2.39,198,-0.0,1,{'clientservices.googleapis.com': 1}
+1622622145237,1,192.168.2.39,356,2.0,4,{'kv501.prod.do.dsp.mp.microsoft.com': 1, 'kv501.prod.dodsp.mp.microsoft.com.nsatc.net': 1, 'kv501.prod.do.dsp.mp.microsoft.com.edgekey.net': 1, 'e10370.g.akamaiedge.net': 1}
+1622622145238,1903,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622622230738,1671,192.168.2.39,194,-0.0,1,{'safebrowsing.googleapis.com': 1}
+1622622245324,0,192.168.2.39,249,1.0,2,{'settings-win.data.microsoft.com': 1, 'settingsfd-geo.trafficmanager.net': 1}
+1622622250427,0,192.168.2.39,293,1.584962500721156,3,{'evoke-windowsservices-tas.msedge.net': 1, 'evoke-windowsservices-tas-msedge-net.e-0009.e-msedge.net': 1, 'e-0009.e-msedge.net': 1}
+1622622250429,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622622261299,1,192.168.2.39,298,1.584962500721156,3,{'tile-service.weather.microsoft.com': 1, 'wildcard.weather.microsoft.com.edgekey.net': 1, 'e15275.g.akamaiedge.net': 1}
+1622622266019,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622622280723,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622622286084,0,192.168.2.39,300,1.584962500721156,3,{'v10.events.data.microsoft.com': 1, 'global.asimov.events.data.trafficmanager.net': 1, 'skypedataprdcolwus01.cloudapp.net': 1}
+1622622288955,0,192.168.2.39,279,1.584962500721156,3,{'ocsp2.globalsign.com': 1, 'global.prd.cdn.globalsign.com': 1, 'cdn.globalsigncdn.com.cdn.cloudflare.net': 1}
+1622622297581,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622622310214,627,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622623000976,2727,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622623030342,603,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622623049976,463,192.168.2.39,269,2.0,4,{'teams.microsoft.com': 1, 'teams.office.com': 1, 'teams-office-com.s-0005.s-msedge.net': 1, 's-0005.s-msedge.net': 1}
+1622623051700,0,192.168.2.39,300,1.584962500721156,3,{'in.ng.msg.teams.microsoft.com': 1, 'in.ng.msg.teams-msgapi.trafficmanager.net': 1, 'msgapi-prod-sea-azsc3-2.cloudapp.net': 1}
+1622623061116,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622623091601,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622623128043,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622623165384,224,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622623175419,0,192.168.2.39,329,1.584962500721156,3,{'apac.presence.teams.microsoft.com': 1, 'apac.presence.services.sfb.trafficmanager.net': 1, 'b-ups-presence2-prod.southeastasia.cloudapp.azure.com': 1}
+1622623180646,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622623181601,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622623206219,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622623207189,19137,192.168.2.39,2212,-0.0,1,{'NPI9B1EF1.local': 1}
+1622623208498,198,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622623208498,198,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622623209659,192,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622623211727,1254,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622623211727,1254,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622623214066,440,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622623216338,500,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622623225172,636,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622623238299,1,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622623240052,659,192.168.2.39,345,2.0,4,{'inc-word-view.officeapps.live.com': 1, 'inc-word-view.wac.trafficmanager.net.b-0016.b-msedge.net': 1, 'inc-word-view.wac.trafficmanager.net': 1, 'in3-arr.officeapps.live.com': 1}
+1622623256384,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622623270288,980,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622623300638,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622623390284,407,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622623421803,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622623437511,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622623447436,1,192.168.2.39,423,2.321928094887362,5,{'statics.teams.cdn.office.net': 1, 'teams-staticscdn.trafficmanager.net': 1, 'statics.teams.cdn.office.net-c.edgesuite.net': 1, 'statics.teams.cdn.office.net-c.edgesuite.net.globalredir.akadns.net': 1, 'a1813.dscd.akamai.net': 1}
+1622623449788,193,192.168.2.39,194,-0.0,1,{'safebrowsing.googleapis.com': 1}
+1622623452115,189,192.168.2.39,345,2.807354922057604,7,{'outlook.office.com': 1, 'substrate.office.com': 1, 'substrate.ha.office.com': 1, 'substrate.ms-acdc.office.com': 1, 'afd-k.office.com': 1, 'outlook-office-com.k-0002.k-msedge.net': 1, 'k-0002.k-msedge.net': 1}
+1622623457679,0,192.168.2.39,303,1.584962500721156,3,{'exo.nel.measure.office.net': 1, 'nel.measure.office.net.edgesuite.net': 1, 'a1894.dscb.akamai.net': 1}
+1622623497040,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622624185404,191,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622624218583,586,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622624221211,0,192.168.2.39,302,1.584962500721156,3,{'browser.events.data.microsoft.com': 1, 'browser.events.data.trafficmanager.net': 1, 'skypedataprdcolwus04.cloudapp.net': 1}
+1622624245221,0,192.168.2.39,327,1.584962500721156,3,{'nleditor.osi.office.net': 1, 'prod1.naturallanguageeditorservice.osi.office.net.akadns.net': 1, 'prod-eu.naturallanguageeditorservice.osi.office.net.akadns.net': 1}
+1622624245222,1,192.168.2.39,202,-0.0,1,{'content-autofill.googleapis.com': 1}
+1622624246676,0,192.168.2.39,458,3.169925001442312,9,{'outlook.office.com': 1, 'substrate.office.com': 1, 'substrate.ha.office.com': 1, 'substrate.ms-acdc.office.com': 1, 'afd-k.office.com': 1, 'outlook-office-com.k-0002.k-msedge.net': 1, 'outlook.ha.office365.com': 1, 'outlook.ms-acdc.office.com': 1, 'LHR-efz.ms-acdc.office.com': 1}
+1622624260511,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622624274248,1,192.168.2.39,259,1.584962500721156,3,{'roaming.officeapps.live.com': 1, 'prod.roaming1.live.com.akadns.net': 1, 'eur.roaming1.live.com.akadns.net': 1}
+1622624275817,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622624279529,976,192.168.2.39,194,-0.0,1,{'googleads.g.doubleclick.net': 1}
+1622624279529,977,192.168.2.39,198,-0.0,1,{'pagead2.googlesyndication.com': 1}
+1622624286397,1,192.168.2.39,252,1.584962500721156,3,{'im.rediff.com': 1, 'rediff.com.edgekey.net': 1, 'e81366.a.akamaiedge.net': 1}
+1622624286401,2,192.168.2.39,258,1.584962500721156,3,{'money.rediff.com': 1, 'rediff.com.edgekey.net': 1, 'e81366.a.akamaiedge.net': 1}
+1622624286402,2,192.168.2.39,184,-0.0,1,{'recoprofile.rediff.com': 1}
+1622624286403,2,192.168.2.39,266,1.584962500721156,3,{'datastore.rediff.com': 1, 'rediff.com.edgekey.net': 1, 'e81366.a.akamaiedge.net': 1}
+1622624287539,0,192.168.2.39,194,-0.0,1,{'safebrowsing.googleapis.com': 1}
+1622624289270,1,192.168.2.39,226,1.0,2,{'securepubads.g.doubleclick.net': 1, 'partnerad.l.doubleclick.net': 1}
+1622624289270,1,192.168.2.39,238,-0.0,1,{'www.googletagservices.com': 1}
+1622624290671,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622624290673,2,192.168.2.39,210,1.0,2,{'fonts.gstatic.com': 1, 'gstaticadssl.l.google.com': 1}
+1622624291873,190,192.168.2.39,311,1.0,2,{'d106a978559b4166f8717d379cd646c5.safeframe.googlesyndication.com': 1, 'pagead-googlehosted.l.google.com': 1}
+1622624296645,1,192.168.2.39,270,1.584962500721156,3,{'ade.clmbtech.com': 1, 'ade.clmbtech.com-v2.edgekey.net': 1, 'e63851.dscj.akamaiedge.net': 1}
+1622624305404,193,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622624350467,190,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622624355518,193,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622624368291,1,192.168.2.39,276,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622624371185,1,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622624374788,1,192.168.2.39,242,-0.0,1,{'googleads.g.doubleclick.net': 1}
+1622624381993,0,192.168.2.39,276,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622624386338,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622624389697,0,192.168.2.39,302,1.584962500721156,3,{'browser.events.data.microsoft.com': 1, 'browser.events.data.trafficmanager.net': 1, 'skypedataprdcoleus01.cloudapp.net': 1}
+1622624396829,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622624405356,194,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622624407557,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622624407557,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622624407557,23764,192.168.2.39,2212,-0.0,1,{'NPI9B1EF1.local': 1}
+1622624412743,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622624412743,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622624414463,3,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622624416410,6,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622624425701,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622624431319,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622624440972,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622624445334,191,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622624515555,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622624545715,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622624546165,2396,192.168.2.39,327,1.584962500721156,3,{'nleditor.osi.office.net': 1, 'prod1.naturallanguageeditorservice.osi.office.net.akadns.net': 1, 'prod-eu.naturallanguageeditorservice.osi.office.net.akadns.net': 1}
+1622624560488,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622624585618,1,192.168.2.39,258,1.584962500721156,3,{'assets.msn.com': 1, 'assets.msn.com.edgekey.net': 1, 'e28578.d.akamaiedge.net': 1}
+1622624590349,484,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622624607445,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622624682379,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622624725542,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622625762685,4306,192.168.2.39,334,1.584962500721156,3,{'apac.presence.teams.microsoft.com': 1, 'apac.presence.services.sfb.trafficmanager.net': 1, 'a-ups-presence0-prod-azsc.australiaeast.cloudapp.azure.com': 1}
+1622626179955,1,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622626179955,1,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622626206986,31102,192.168.2.39,2212,-0.0,1,{'NPI9B1EF1.local': 1}
+1622626206987,389,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622626207963,582,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622626216177,384,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622626216177,384,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622626807414,32897,192.168.2.39,2212,-0.0,1,{'NPI9B1EF1.local': 1}
+1622626807414,580,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622626807414,581,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622626809758,389,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622626811915,583,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622626816601,389,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622626839331,390,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622626949324,195,192.168.2.39,292,1.584962500721156,3,{'ic3.events.data.microsoft.com': 1, 'teams-events-data.trafficmanager.net': 1, 'skypedataprdcolcus14.cloudapp.net': 1}
+1622627377060,1777,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622627407869,34903,192.168.2.39,1264,-0.0,1,{'NPI9B1EF1.local': 1}
+1622627407869,391,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622627410029,395,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622627410029,395,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622627441593,590,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622628007865,37256,192.168.2.39,2212,-0.0,1,{'NPI9B1EF1.local': 1}
+1622628007865,392,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622628008843,391,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622628010018,579,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622628010210,387,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622628014716,390,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622628016880,384,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622628044141,391,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622630065481,198,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630110668,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630128158,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630141932,3,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630217068,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630245650,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630263054,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630276303,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630338781,132705,192.168.2.39,524,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630345257,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622630348434,0,192.168.2.39,276,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622630351374,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630358129,0,192.168.2.39,327,1.584962500721156,3,{'nleditor.osi.office.net': 1, 'prod1.naturallanguageeditorservice.osi.office.net.akadns.net': 1, 'prod-eu.naturallanguageeditorservice.osi.office.net.akadns.net': 1}
+1622630361872,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622630367276,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630371022,3205,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622630377848,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622630377848,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622630382218,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630393313,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622630393313,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622630409228,45463,192.168.2.39,2212,-0.0,1,{'NPI9B1EF1.local': 1}
+1622630409235,4,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622630409235,4,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622630410469,18,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622630410469,18,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622630410488,717,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630411213,1036,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622630413966,6,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622630416803,3,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622630419688,0,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622630419688,0,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622630454691,0,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622630454691,0,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622630457425,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622630502419,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630514243,0,192.168.2.39,269,2.0,4,{'teams.microsoft.com': 1, 'teams.office.com': 1, 'teams-office-com.s-0005.s-msedge.net': 1, 's-0005.s-msedge.net': 1}
+1622630517780,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630535404,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630544349,0,192.168.2.39,334,2.321928094887362,5,{'config.teams.microsoft.com': 1, 'config.teams.trafficmanager.net': 1, 's-0005-teams.config.skype.com': 1, 'config-teams.s-0005.s-msedge.net': 1, 's-0005.s-msedge.net': 1}
+1622630551952,0,192.168.2.39,334,2.321928094887362,5,{'config.teams.microsoft.com': 1, 'config.teams.trafficmanager.net': 1, 's-0005-teams.config.skype.com': 1, 'config-teams.s-0005.s-msedge.net': 1, 's-0005.s-msedge.net': 1}
+1622630551952,0,192.168.2.39,346,2.321928094887362,5,{'config.teams.microsoft.com': 1, 'config.teams.trafficmanager.net': 1, 's-0005-teams.config.skype.com': 1, 'config-teams.s-0005.s-msedge.net': 1, 's-0005.s-msedge.net': 1}
+1622630551953,0,192.168.2.39,292,1.584962500721156,3,{'ic3.events.data.microsoft.com': 1, 'teams-events-data.trafficmanager.net': 1, 'skypedataprdcolcus11.cloudapp.net': 1}
+1622630607135,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630639114,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630651742,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630698840,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630711092,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630727212,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630742942,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630772522,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630787778,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630831823,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630845716,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630861182,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630876644,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630890699,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630906726,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630959410,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622630962616,0,192.168.2.39,276,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622630966753,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630973593,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622630973596,1,192.168.2.39,276,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622630980424,1,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622630980434,3859,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622630984299,2750,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622630991156,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622630991156,1,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622631005762,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622631005762,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622631011400,0,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622631011400,45771,192.168.2.39,2212,-0.0,1,{'NPI9B1EF1.local': 1}
+1622631011402,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622631014825,1,192.168.2.39,327,1.584962500721156,3,{'nleditor.osi.office.net': 1, 'prod1.naturallanguageeditorservice.osi.office.net.akadns.net': 1, 'prod-eu.naturallanguageeditorservice.osi.office.net.akadns.net': 1}
+1622631017443,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622631017443,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622631017448,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622631017448,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622631019200,5,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622631026646,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622631043182,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622631051199,0,192.168.2.39,354,1.584962500721156,3,{'assets.msn.com': 1, 'assets.msn.com.edgekey.net': 1, 'e28578.d.akamaiedge.net': 1}
+1622631070721,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622631070722,3432,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622631086398,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622631117861,0,192.168.2.39,198,-0.0,1,{'clientservices.googleapis.com': 1}
+1622631162361,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622631175408,0,192.168.2.39,298,1.584962500721156,3,{'tile-service.weather.microsoft.com': 1, 'wildcard.weather.microsoft.com.edgekey.net': 1, 'e15275.g.akamaiedge.net': 1}
+1622631175410,4728,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622631206353,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622631236800,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622631252349,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622631266736,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622631326761,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622631341705,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622631372156,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622631387787,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622631432325,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622631461642,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622631475708,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633105828,0,192.168.2.39,298,1.584962500721156,3,{'tile-service.weather.microsoft.com': 1, 'wildcard.weather.microsoft.com.edgekey.net': 1, 'e15275.g.akamaiedge.net': 1}
+1622633124160,0,192.168.2.39,286,-0.0,1,{'sirius.mwbsys.com': 1}
+1622633200619,195,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633215532,2045,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633247682,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633276278,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633337386,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633340713,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622633359165,1,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622633367259,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633375595,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622633380367,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622633383957,0,192.168.2.39,246,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633387502,79449,192.168.2.39,2360,1.0,2,{'wpad.local': 1, 'NPI9B1EF1.local': 1}
+1622633392003,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622633409557,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622633412135,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622633412135,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622633412137,2395,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622633414538,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622633416748,2617,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622633419370,2,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622633442298,1,192.168.2.39,246,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633458918,0,192.168.2.39,246,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633466950,0,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622633466950,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622633519204,0,192.168.2.39,246,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633531097,0,192.168.2.39,246,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633546118,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633560543,4219,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633577641,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633588300,0,192.168.2.39,287,1.584962500721156,3,{'cdn.content.prod.cms.msn.com': 1, 'cdn.content.prod.cms.msn.com.edgekey.net': 1, 'e10663.dscg.akamaiedge.net': 1}
+1622633588303,0,192.168.2.39,370,1.584962500721156,3,{'assets.msn.com': 1, 'assets.msn.com.edgekey.net': 1, 'e28578.d.akamaiedge.net': 1}
+1622633621592,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633652773,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633665593,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633685636,0,192.168.2.39,327,1.584962500721156,3,{'nleditor.osi.office.net': 1, 'prod1.naturallanguageeditorservice.osi.office.net.akadns.net': 1, 'prod-eu.naturallanguageeditorservice.osi.office.net.akadns.net': 1}
+1622633741885,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633770589,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633786146,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633801495,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633830687,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633847526,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633906034,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633928641,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633935822,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633953054,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622633974565,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622633979072,0,192.168.2.39,276,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622633991388,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622634000748,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622634009988,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622634009988,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622634009988,60241,192.168.2.39,2212,-0.0,1,{'NPI9B1EF1.local': 1}
+1622634009992,2544,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622634012537,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634012539,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622634012542,1,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622634018559,0,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622634018559,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622634018563,0,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622634027714,4151,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622634045306,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622634056980,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634070228,0,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622634070228,0,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622634119895,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634137892,0,192.168.2.39,286,2.0,4,{'teams.microsoft.com': 1, 'teams.office.com': 1, 'teams-office-com.s-0005.s-msedge.net': 1, 's-0005.dc-msedge.net': 1}
+1622634141681,1,192.168.2.39,334,2.321928094887362,5,{'config.teams.microsoft.com': 1, 'config.teams.trafficmanager.net': 1, 's-0005-teams.config.skype.com': 1, 'config-teams.s-0005.s-msedge.net': 1, 's-0005.s-msedge.net': 1}
+1622634154281,1,192.168.2.39,292,1.584962500721156,3,{'ic3.events.data.microsoft.com': 1, 'teams-events-data.trafficmanager.net': 1, 'skypedataprdcoljpw03.cloudapp.net': 1}
+1622634154282,0,192.168.2.39,339,1.584962500721156,3,{'ic3.events.data.microsoft.com': 1, 'teams-events-data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622634154286,0,192.168.2.39,346,2.321928094887362,5,{'config.teams.microsoft.com': 1, 'config.teams.trafficmanager.net': 1, 's-0005-teams.config.skype.com': 1, 'config-teams.s-0005.s-msedge.net': 1, 's-0005.s-msedge.net': 1}
+1622634163673,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634177180,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634192392,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634206740,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634237512,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634295833,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634310958,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634327558,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634341833,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634356884,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634371077,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634386073,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634402920,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634434737,2,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634446367,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634492580,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634520798,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634525339,0,192.168.2.39,293,1.584962500721156,3,{'settings-win.data.microsoft.com': 1, 'settingsfd-geo.trafficmanager.net': 1, 'settingsfd-prod-uks2-endpoint.trafficmanager.net': 1}
+1622634545133,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622634545134,0,192.168.2.39,276,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622634557970,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622634574195,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622634578018,1,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622634578019,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622634581852,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634597845,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622634597845,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622634597848,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634611799,0,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622634611799,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622634611799,59478,192.168.2.39,2212,-0.0,1,{'NPI9B1EF1.local': 1}
+1622634611802,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622634611806,3485,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622634615294,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622634615294,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622634615294,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622634618387,0,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622634618387,0,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622634621577,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622634637254,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622634642917,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634647168,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622634655884,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634660015,0,192.168.2.39,261,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622634685799,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634733274,1,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634747182,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634775719,0,192.168.2.39,282,1.0,2,{'tile-service.weather.microsoft.com': 1, 'wildcard.weather.microsoft.com.edgekey.net': 1}
+1622634821705,1,192.168.2.39,246,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622634927970,0,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622635001819,2645,192.168.2.39,342,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622635016931,2,192.168.2.39,262,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622635026373,3414,192.168.2.39,352,2.0,4,{'teams.microsoft.com': 1, 'teams.office.com': 1, 'teams-office-com.s-0005.s-msedge.net': 1, 's-0005.s-msedge.net': 1}
+1622635092943,0,192.168.2.39,246,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622635145285,0,192.168.2.39,276,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622635152157,0,192.168.2.39,246,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622635162948,0,192.168.2.39,276,1.0,2,{'www.expressapisv2.net': 1, 'expressapisv2.net': 1}
+1622635211382,0,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622635211382,62449,192.168.2.39,2212,-0.0,1,{'NPI9B1EF1.local': 1}
+1622635211384,0,192.168.2.39,246,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622635214143,0,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622635217342,1,192.168.2.39,327,1.584962500721156,3,{'nleditor.osi.office.net': 1, 'prod1.naturallanguageeditorservice.osi.office.net.akadns.net': 1, 'prod-eu.naturallanguageeditorservice.osi.office.net.akadns.net': 1}
+1622635217352,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622635219530,1,192.168.2.39,138,-0.0,1,{'NPI9B1EF1': 1}
+1622635225845,1,192.168.2.39,246,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}
+1622635231004,0,192.168.2.39,349,2.0,4,{'livetileedge.dsx.mp.microsoft.com': 1, 'livetileedge.xbetservices.akadns.net': 1, 'livetileedge.dsx.mp.microsoft.com.edgekey.net': 1, 'e16646.dspg.akamaiedge.net': 1}
+1622635273829,0,192.168.2.39,246,1.584962500721156,3,{'www.msftncsi.com': 1, 'www.msftncsi.com.edgesuite.net': 1, 'a1961.g2.akamai.net': 1}

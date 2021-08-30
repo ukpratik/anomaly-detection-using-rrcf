@@ -1,0 +1,10 @@
+1622624966597,2814540,192.168.2.221,45801,2.0,4,{'_companion-link._tcp.local': 1, '_homekit._tcp.local': 1, '_airplay._tcp.local': 1, '_raop._tcp.local': 1}
+1622625883832,0,192.168.2.221,224,-0.0,1,{'epdg.epc.mnc031.mcc404.pub.3gppnetwork.org': 1}
+1622626671570,0,192.168.2.221,224,-0.0,1,{'epdg.epc.mnc031.mcc404.pub.3gppnetwork.org': 1}
+1622626688028,0,192.168.2.221,371,2.321928094887362,5,{'login.microsoftonline.com': 1, 'a.privatelink.msidentity.com': 1, 'prda.aadg.msidentity.com': 1, 'www.tm.a.prd.aadg.trafficmanager.net': 1, 'trafficmanager.net': 1}
+1622626912271,393,192.168.2.221,335,2.0,4,{'cl5.apple.com': 1, 'cl5-cdn.origin-apple.com.akadns.net': 1, 'cl5.apple.com.edgekey.net': 1, 'dsce9.akamaiedge.net': 1}
+1622626977758,389,192.168.2.221,359,2.321928094887362,5,{'mesu.apple.com': 1, 'mesu-cdn.apple.com.akadns.net': 1, 'mesu-cdn.origin-apple.com.akadns.net': 1, 'mesu.apple.com.edgekey.net': 1, 'g.akamaiedge.net': 1}
+1622627773643,0,192.168.2.221,236,1.584962500721156,3,{'www.linkedin.com': 1, 'www-linkedin-com.l-0005.l-msedge.net': 1, 'l-0005.l-msedge.net': 1}
+1622627773643,0,192.168.2.221,277,1.584962500721156,3,{'www.linkedin.com': 1, 'www-linkedin-com.l-0005.l-msedge.net': 1, 'l-msedge.net': 1}
+1622627773644,0,192.168.2.221,385,1.584962500721156,3,{'inappcheck-lb.itunes-apple.com.akadns.net': 1, 'inappcheck.itunes.apple.com.edgekey.net': 1, 'dscapi6.akamaiedge.NET': 1}
+1622627773874,193,192.168.2.221,249,1.0,2,{'e69896.dscapi6.akamaiedge.net': 1, 'dscapi6.akamaiedge.net': 1}

@@ -1,0 +1,35 @@
+1621928926844,0,192.168.2.63,230,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621929225619,0,192.168.2.63,230,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621929525639,0,192.168.2.63,243,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1621929557152,0,192.168.2.63,188,-0.0,1,{'daisy.ubuntu.com': 1}
+1621929829356,0,192.168.2.63,188,-0.0,1,{'daisy.ubuntu.com': 1}
+1621931026119,0,192.168.2.63,230,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621931326568,0,192.168.2.63,230,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621931625359,0,192.168.2.63,230,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621932225232,4233,192.168.2.63,6048,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621932225233,4233,192.168.2.63,6096,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1621932230422,0,192.168.2.63,230,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621932856617,0,192.168.2.63,188,-0.0,1,{'daisy.ubuntu.com': 1}
+1621933129110,0,192.168.2.63,188,-0.0,1,{'daisy.ubuntu.com': 1}
+1621937026965,0,192.168.2.63,230,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621938226186,0,192.168.2.63,230,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621938826983,0,192.168.2.63,230,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621940025821,0,192.168.2.63,230,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621940028247,268,192.168.2.63,188,-0.0,1,{'daisy.ubuntu.com': 1}
+1621940625464,1,192.168.2.63,230,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621941225884,0,192.168.2.63,230,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621942426263,0,192.168.2.63,243,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1621943026237,0,192.168.2.63,230,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621943626101,0,192.168.2.63,230,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621945425735,0,192.168.2.63,230,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621945458413,0,192.168.2.63,188,-0.0,1,{'daisy.ubuntu.com': 1}
+1621945725312,1763,192.168.2.63,243,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1621945729276,0,192.168.2.63,188,-0.0,1,{'daisy.ubuntu.com': 1}
+1621950825614,0,192.168.2.63,230,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621951156722,0,192.168.2.63,217,1.0,2,{'daisy.ubuntu.com': 1, 'ubuntu.com': 1}
+1621951430489,0,192.168.2.63,188,-0.0,1,{'daisy.ubuntu.com': 1}
+1621952625647,0,192.168.2.63,243,1.0,2,{'connectivity-check.ubuntu.com': 1, 'ubuntu.com': 1}
+1621952926380,0,192.168.2.63,230,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621953227518,0,192.168.2.63,230,-0.0,1,{'connectivity-check.ubuntu.com': 1}
+1621953747932,164206,192.168.2.63,360,2.584962500721156,6,{'_ipps._tcp.local': 1, '_ipp._tcp.local': 1, 'papi.local': 1, '63.2.168.192.in-addr.arpa': 1, '99.40.168.192.in-addr.arpa': 1, '4.9.1.d.0.a.6.3.d.0.8.4.3.6.3.4.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa': 1}
+1621953825645,0,192.168.2.63,230,-0.0,1,{'connectivity-check.ubuntu.com': 1}

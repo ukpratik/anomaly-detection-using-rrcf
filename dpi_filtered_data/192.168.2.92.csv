@@ -1,0 +1,201 @@
+1622623071625,281308,192.168.2.92,8273,3.700439718141092,13,{'92.2.168.192.in-addr.arpa': 1, 'F.8.9.3.2.0.D.1.1.1.A.8.3.5.C.3.0.0.0.0.0.0.0.0.0.0.0.0.0.8.E.F.ip6.arpa': 1, 'Praveen.local': 1, '_sleep-proxy._udp.local': 1, '268822070._teamviewer._tcp.local': 1, '_services._dns-sd._udp.local': 1, '_teamviewer._tcp.local': 1, 'DESKTOP-0Q3I59P.local': 1, 'wpad.local': 1, 'qqdgmhkrwtdxb.local': 1, 'zzwljvabqfjr.local': 1, 'jrmnovhgfrxtyu.local': 1, '_googlecast._tcp.local': 1}
+1622623071629,2,192.168.2.92,224,1.0,2,{'hwiznvamnural.vipl.com': 1, 'vipl.com': 1}
+1622623071629,2,192.168.2.92,224,1.0,2,{'hwiznvamnural.vipl.com': 1, 'vipl.com': 1}
+1622623071632,1846,192.168.2.92,278,1.0,2,{'router3.teamviewer.com': 1, 'routerpool3.rlb.teamviewer.com': 1}
+1622623071632,1849,192.168.2.92,278,1.0,2,{'router3.teamviewer.com': 1, 'routerpool3.rlb.teamviewer.com': 1}
+1622623073481,0,192.168.2.92,172,-0.0,1,{'dns.msftncsi.com': 1}
+1622623073483,0,192.168.2.92,218,1.0,2,{'_ldap._tcp.vipl.com': 1, 'vipl.com': 1}
+1622623073483,0,192.168.2.92,238,1.0,2,{'_ldap._tcp.dc._msdcs.vipl.com': 1, 'vipl.com': 1}
+1622623073483,0,192.168.2.92,311,2.0,4,{'ipv6.msftconnecttest.com': 1, 'v6ncsi.msedge.net': 1, 'ncsi.6-c-0003.c-msedge.net': 1, 'c-msedge.net': 1}
+1622623073483,0,192.168.2.92,322,1.0,2,{'_ldap._tcp.2a538de9-cc34-4ef0-bd9d-0b4c18a772a3.domains._msdcs.vipl.com': 1, 'vipl.com': 1}
+1622623073484,0,192.168.2.92,184,-0.0,1,{'dns.msftncsi.com': 1}
+1622623073484,0,192.168.2.92,218,1.0,2,{'_ldap._tcp.vipl.com': 1, 'vipl.com': 1}
+1622623073485,0,192.168.2.92,184,-0.0,1,{'dns.msftncsi.com': 1}
+1622623073487,0,192.168.2.92,184,-0.0,1,{'dns.msftncsi.com': 1}
+1622623073488,0,192.168.2.92,184,-0.0,1,{'dns.msftncsi.com': 1}
+1622623073489,0,192.168.2.92,451,2.584962500721156,6,{'login.live.com': 1, 'login.msa.msidentity.com': 1, 'www.tm.lg.prod.aadmsa.trafficmanager.net': 1, 'prda.aadg.msidentity.com': 1, 'www.tm.a.prd.aadg.trafficmanager.net': 1, 'maa.current.a.prd.aadg.trafficmanager.net': 1}
+1622623074864,0,192.168.2.92,208,1.0,2,{'vipl.com': 1, 'Praveen.vipl.com': 1}
+1622623074865,0,192.168.2.92,308,1.0,2,{'_kerberos._tcp.Default-First-Site-Name._sites.dc._msdcs.vipl.com': 1, 'vipl.com': 1}
+1622623076227,853,192.168.2.92,386,2.584962500721156,6,{'licensing.mp.microsoft.com': 1, 'consumer-licensing-aks2eap.md.mp.microsoft.com.akadns.net': 1, 'consumer-licensing-aks2eap-asia.md.mp.microsoft.com.akadns.net': 1, 'licensing.md.mp.microsoft.com.akadns.net': 1, 'licensing-asiaeap.md.mp.microsoft.com.akadns.net': 1, 'hk2eap.licensing.md.mp.microsoft.com.akadns.net': 1}
+1622623076228,0,192.168.2.92,182,-0.0,1,{'update.googleapis.com': 1}
+1622623077076,0,192.168.2.92,390,2.584962500721156,6,{'licensing.mp.microsoft.com': 1, 'consumer-licensing-aks2eap.md.mp.microsoft.com.akadns.net': 1, 'consumer-licensing-aks2eap-europe.md.mp.microsoft.com.akadns.net': 1, 'licensing.md.mp.microsoft.com.akadns.net': 1, 'licensing-europeeap.md.mp.microsoft.com.akadns.net': 1, 'db5eap.licensing.md.mp.microsoft.com.akadns.net': 1}
+1622623078252,0,192.168.2.92,212,1.0,2,{'Praveen.vipl.com': 1, 'vipl.com': 1}
+1622623078254,0,192.168.2.92,208,1.0,2,{'vipl.com': 1, 'Praveen.vipl.com': 1}
+1622623086369,0,192.168.2.92,300,1.584962500721156,3,{'v10.events.data.microsoft.com': 1, 'global.asimov.events.data.trafficmanager.net': 1, 'skypedataprdcolwus04.cloudapp.net': 1}
+1622623087453,0,192.168.2.92,256,1.584962500721156,3,{'client.wns.windows.com': 1, 'wns.notify.trafficmanager.net': 1, 'vip3-wns2-sg2p.wns.notify.trafficmanager.net': 1}
+1622623089184,0,192.168.2.92,206,1.0,2,{'wpad.vipl.com': 1, 'vipl.com': 1}
+1622623096747,0,192.168.2.92,280,1.0,2,{'_ldap._tcp.Default-First-Site-Name._sites.vipl.com': 1, 'vipl.com': 1}
+1622623102904,1,192.168.2.92,287,1.584962500721156,3,{'cdn.content.prod.cms.msn.com': 1, 'cdn.content.prod.cms.msn.com.edgekey.net': 1, 'e10663.dscg.akamaiedge.net': 1}
+1622623102907,0,192.168.2.92,258,1.584962500721156,3,{'assets.msn.com': 1, 'assets.msn.com.edgekey.net': 1, 'e28578.d.akamaiedge.net': 1}
+1622623104418,0,192.168.2.92,300,1.584962500721156,3,{'v20.events.data.microsoft.com': 1, 'global.asimov.events.data.trafficmanager.net': 1, 'skypedataprdcolcus04.cloudapp.net': 1}
+1622623104419,1,192.168.2.92,300,1.584962500721156,3,{'v20.events.data.microsoft.com': 1, 'global.asimov.events.data.trafficmanager.net': 1, 'skypedataprdcoleus01.cloudapp.net': 1}
+1622623117635,0,192.168.2.92,258,1.0,2,{'whatsnew.teamviewer.com': 1, 'whatsnew.teamviewer.com.cdn.cloudflare.net': 1}
+1622623117635,0,192.168.2.92,296,2.0,4,{'www.bing.com': 1, 'a-0001.a-afdentry.net.trafficmanager.net': 1, 'www-bing-com.dual-a-0001.a-msedge.net': 1, 'dual-a-0001.a-msedge.net': 1}
+1622623117635,1,192.168.2.92,258,1.0,2,{'whatsnew.teamviewer.com': 1, 'whatsnew.teamviewer.com.cdn.cloudflare.net': 1}
+1622623117636,1,192.168.2.92,296,2.0,4,{'www.bing.com': 1, 'a-0001.a-afdentry.net.trafficmanager.net': 1, 'www-bing-com.dual-a-0001.a-msedge.net': 1, 'dual-a-0001.a-msedge.net': 1}
+1622623118501,0,192.168.2.92,228,1.0,2,{'DESKTOP-0Q3I59P.vipl.com': 1, 'vipl.com': 1}
+1622623118501,583,192.168.2.92,228,1.0,2,{'DESKTOP-0Q3I59P.vipl.com': 1, 'vipl.com': 1}
+1622623119086,0,192.168.2.92,441,2.321928094887362,5,{'login.microsoftonline.com': 1, 'a.privatelink.msidentity.com': 1, 'prda.aadg.msidentity.com': 1, 'www.tm.a.prd.aadg.trafficmanager.net': 1, 'maa.current.a.prd.aadg.trafficmanager.net': 1}
+1622623119086,1,192.168.2.92,407,2.0,4,{'login.microsoftonline.com': 1, 'a.privatelink.msidentity.com': 1, 'prda.aadg.msidentity.com': 1, 'www.tm.a.prd.aadg.akadns.net': 1}
+1622623123406,0,192.168.2.92,262,1.584962500721156,3,{'msedge.api.cdp.microsoft.com': 1, 'api.cdp.microsoft.com': 1, 'api.cdp.dsp.mp.microsoft.com.nsatc.net': 1}
+1622623123407,0,192.168.2.92,262,1.584962500721156,3,{'msedge.api.cdp.microsoft.com': 1, 'api.cdp.microsoft.com': 1, 'api.cdp.dsp.mp.microsoft.com.nsatc.net': 1}
+1622623125019,1,192.168.2.92,305,2.0,4,{'geo.prod.do.dsp.mp.microsoft.com': 1, 'geo-prod.do.dsp.mp.microsoft.com': 1, 'geo-prod.dodsp.mp.microsoft.com.nsatc.net': 1, 'array509.prod.do.dsp.mp.microsoft.com': 1}
+1622623125020,0,192.168.2.92,305,2.0,4,{'geo.prod.do.dsp.mp.microsoft.com': 1, 'geo-prod.do.dsp.mp.microsoft.com': 1, 'geo-prod.dodsp.mp.microsoft.com.nsatc.net': 1, 'array602.prod.do.dsp.mp.microsoft.com': 1}
+1622623128041,0,192.168.2.92,345,2.321928094887362,5,{'msedge.f.dl.delivery.mp.microsoft.com': 1, '2-01-3cf7-0021.cdx.cedexis.net': 1, 'wildcard.azureedge.net': 1, 'wildcard.ec.azureedge.net': 1, 'cs9.wpc.v0cdn.net': 1}
+1622623128042,0,192.168.2.92,307,1.584962500721156,3,{'msedge.f.dl.delivery.mp.microsoft.com': 1, '2-01-3cf7-0021.cdx.cedexis.net': 1, 'cds.n8d8p3m5.hwcdn.net': 1}
+1622623128043,0,192.168.2.92,358,2.321928094887362,5,{'msedge.b.tlu.dl.delivery.mp.microsoft.com': 1, 'cdp-bg-tlu.trafficmanager.net': 1, 'wildcardtlu.azureedge.net': 1, 'wildcardtlu.ec.azureedge.net': 1, 'cs9.wpc.v0cdn.net': 1}
+1622623137703,194,192.168.2.92,262,1.584962500721156,3,{'config.officeapps.live.com': 1, 'prod.configsvc1.live.com.akadns.net': 1, 'europe.configsvc1.live.com.akadns.net': 1}
+1622623143002,390,192.168.2.92,128,-0.0,1,{'wpad': 1}
+1622623144173,401,192.168.2.92,128,-0.0,1,{'wpad': 1}
+1622623149709,290,192.168.2.92,423,2.584962500721156,6,{'vehereinteractive-my.sharepoint.com': 1, 'vehereinteractive.sharepoint.com': 1, '183-ipv4e.clump.dprodmgd106.aa-rt.sharepoint.com': 1, '195219-ipv4e.farm.dprodmgd106.aa-rt.sharepoint.com': 1, '195219-ipv4e.farm.dprodmgd106.sharepointonline.com.akadns.net': 1, '195219-ipv4.farm.dprodmgd106.aa-rt.sharepoint.com': 1}
+1622623152010,383,192.168.2.92,128,-0.0,1,{'wpad': 1}
+1622623153175,405,192.168.2.92,128,-0.0,1,{'wpad': 1}
+1622623159176,0,192.168.2.92,296,1.584962500721156,3,{'teams.events.data.microsoft.com': 1, 'teams-events-data.trafficmanager.net': 1, 'skypedataprdcolwus09.cloudapp.net': 1}
+1622623159377,781,192.168.2.92,256,1.584962500721156,3,{'clients.config.office.net': 1, 'geo.clients.config.office.akadns.net': 1, 'asia.clients.config.office.akadns.net': 1}
+1622623161060,0,192.168.2.92,293,1.584962500721156,3,{'self.events.data.microsoft.com': 1, 'self-events-data.trafficmanager.net': 1, 'skypedataprdcolcus00.cloudapp.net': 1}
+1622623162114,0,192.168.2.92,334,2.321928094887362,5,{'config.teams.microsoft.com': 1, 'config.teams.trafficmanager.net': 1, 's-0005-teams.config.skype.com': 1, 'config-teams.s-0005.s-msedge.net': 1, 's-0005.s-msedge.net': 1}
+1622623162114,25,192.168.2.92,334,2.321928094887362,5,{'config.teams.microsoft.com': 1, 'config.teams.trafficmanager.net': 1, 's-0005-teams.config.skype.com': 1, 'config-teams.s-0005.s-msedge.net': 1, 's-0005.s-msedge.net': 1}
+1622623165016,0,192.168.2.92,260,1.584962500721156,3,{'roaming.officeapps.live.com': 1, 'prod.roaming1.live.com.akadns.net': 1, 'asia.roaming1.live.com.akadns.net': 1}
+1622623165384,0,192.168.2.92,423,2.321928094887362,5,{'statics.teams.cdn.office.net': 1, 'teams-staticscdn.trafficmanager.net': 1, 'statics.teams.cdn.office.net-c.edgesuite.net': 1, 'statics.teams.cdn.office.net-c.edgesuite.net.globalredir.akadns.net': 1, 'a1813.dscd.akamai.net': 1}
+1622623165384,231,192.168.2.92,332,2.0,4,{'statics.teams.cdn.office.net': 1, 'teams-staticscdn.trafficmanager.net': 1, 'statics-teams-cdn-office-net.s-0005.s-msedge.net': 1, 's-0005.dc-msedge.net': 1}
+1622623165805,0,192.168.2.92,300,1.584962500721156,3,{'in.ng.msg.teams.microsoft.com': 1, 'in.ng.msg.teams-msgapi.trafficmanager.net': 1, 'msgapi-prod-ejp-azsc1-1.cloudapp.net': 1}
+1622623165805,0,192.168.2.92,374,1.584962500721156,3,{'southeastasia-prod-2.notifications.teams.microsoft.com': 1, 'southeastasiacns-prod-2.trafficmanager.net': 1, 'southeastasiacns-prod-2-40.southeastasia.cloudapp.azure.com': 1}
+1622623165805,1,192.168.2.92,283,1.584962500721156,3,{'in-api.asm.skype.com': 1, 'asm-api-prod-geo-as-skype.trafficmanager.net': 1, 'sa1-api-nonazsc-skype.cloudapp.net': 1}
+1622623165805,1,192.168.2.92,309,1.584962500721156,3,{'in-prod.asyncgw.teams.microsoft.com': 1, 'asm-api-golocal-geo-in-teams.trafficmanager.net': 1, 'eau1-api-teams.cloudapp.net': 1}
+1622623165806,214,192.168.2.92,308,1.584962500721156,3,{'in-prod.asyncgw.teams.microsoft.com': 1, 'asm-api-golocal-geo-in-teams.trafficmanager.net': 1, 'sa1-api-teams.cloudapp.net': 1}
+1622623165806,214,192.168.2.92,373,1.584962500721156,3,{'southeastasia-prod-2.notifications.teams.microsoft.com': 1, 'southeastasiacns-prod-2.trafficmanager.net': 1, 'southeastasiacns-prod-2-4.southeastasia.cloudapp.azure.com': 1}
+1622623165806,215,192.168.2.92,275,1.584962500721156,3,{'in-api.asm.skype.com': 1, 'asm-api-prod-geo-as-skype.trafficmanager.net': 1, 'sa1-api-skype.cloudapp.net': 1}
+1622623167074,0,192.168.2.92,295,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcoleus01.cloudapp.net': 1}
+1622623179854,2,192.168.2.92,298,2.0,4,{'outlook.office365.com': 1, 'outlook.ha.office365.com': 1, 'outlook.ms-acdc.office.com': 1, 'BOM-efz.ms-acdc.office.com': 1}
+1622623187267,0,192.168.2.92,258,1.0,2,{'enterprise.activity.windows.com': 1, 'enterprise-activity-geo.trafficmanager.net': 1}
+1622623187267,1040,192.168.2.92,258,1.0,2,{'enterprise.activity.windows.com': 1, 'enterprise-activity-geo.trafficmanager.net': 1}
+1622623188309,0,192.168.2.92,206,1.0,2,{'wpad.vipl.com': 1, 'vipl.com': 1}
+1622623188309,2,192.168.2.92,128,-0.0,1,{'wpad': 1}
+1622623189238,0,192.168.2.92,238,1.0,2,{'_ldap._tcp.dc._msdcs.vipl.com': 1, 'vipl.com': 1}
+1622623211532,0,192.168.2.92,281,1.584962500721156,3,{'loki.delve.office.com': 1, 'loki.trafficmanager.net': 1, 'fast-prod-cluster-loki.westindia.cloudapp.azure.com': 1}
+1622623211534,192,192.168.2.92,329,2.0,4,{'res-1.cdn.office.net': 1, 'res-1.cdn.office.net-c.edgekey.net': 1, 'res-1.cdn.office.net-c.edgekey.net.globalredir.akadns.net': 1, 'e1875.dscg.akamaiedge.net': 1}
+1622623214849,0,192.168.2.92,422,3.0,8,{'substrate.office.com': 1, 'substrate.ha.office.com': 1, 'substrate.ms-acdc.office.com': 1, 'afd-k.office.com': 1, 'outlook-office-com.k-0002.k-msedge.net': 1, 'outlook.ha.office365.com': 1, 'outlook.ms-acdc.office.com': 1, 'BOM-efz.ms-acdc.office.com': 1}
+1622623218574,228,192.168.2.92,274,1.584962500721156,3,{'messaging.office.com': 1, 'omexmessaging.osi.office.net': 1, 'prod.omexmessaginglfb.live.com.akadns.net': 1}
+1622623232849,0,192.168.2.92,346,2.321928094887362,5,{'config.teams.microsoft.com': 1, 'config.teams.trafficmanager.net': 1, 's-0005-teams.config.skype.com': 1, 'config-teams.s-0005.s-msedge.net': 1, 's-0005.s-msedge.net': 1}
+1622623232855,0,192.168.2.92,269,2.0,4,{'teams.microsoft.com': 1, 'teams.office.com': 1, 'teams-office-com.s-0005.s-msedge.net': 1, 's-0005.s-msedge.net': 1}
+1622623234735,0,192.168.2.92,339,1.584962500721156,3,{'ic3.events.data.microsoft.com': 1, 'teams-events-data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622623234736,0,192.168.2.92,292,1.584962500721156,3,{'ic3.events.data.microsoft.com': 1, 'teams-events-data.trafficmanager.net': 1, 'skypedataprdcolwus12.cloudapp.net': 1}
+1622623234736,1,192.168.2.92,292,1.584962500721156,3,{'ic3.events.data.microsoft.com': 1, 'teams-events-data.trafficmanager.net': 1, 'skypedataprdcolwus12.cloudapp.net': 1}
+1622623234736,1,192.168.2.92,339,1.584962500721156,3,{'ic3.events.data.microsoft.com': 1, 'teams-events-data.trafficmanager.net': 1, 'cloudapp.net': 1}
+1622623240048,0,192.168.2.92,228,1.0,2,{'DESKTOP-0Q3I59P.vipl.com': 1, 'vipl.com': 1}
+1622623245904,0,192.168.2.92,284,2.0,4,{'slscr.update.microsoft.com': 1, 'slscr.update.microsoft.com.akadns.net': 1, 'sls.update.microsoft.com.akadns.net': 1, 'sls.apac.update.microsoft.com.akadns.net': 1}
+1622623245904,0,192.168.2.92,300,1.584962500721156,3,{'v10.events.data.microsoft.com': 1, 'global.asimov.events.data.trafficmanager.net': 1, 'skypedataprdcolweu00.cloudapp.net': 1}
+1622623245905,0,192.168.2.92,300,1.584962500721156,3,{'v10.events.data.microsoft.com': 1, 'global.asimov.events.data.trafficmanager.net': 1, 'skypedataprdcolcus00.cloudapp.net': 1}
+1622623250189,0,192.168.2.92,238,1.0,2,{'_ldap._tcp.dc._msdcs.vipl.com': 1, 'vipl.com': 1}
+1622623251303,0,192.168.2.92,243,1.0,2,{'atm-fp-direct.office.com': 1, 'ooc.tm-2.office.com': 1}
+1622623251305,0,192.168.2.92,268,1.584962500721156,3,{'acdc-direct.office.com': 1, 'outlook.ms-acdc.office.com': 1, 'PNQ-efz.ms-acdc.office.com': 1}
+1622623251306,0,192.168.2.92,284,1.584962500721156,3,{'acdc-direct.office.com': 1, 'outlook.ms-acdc.office.com': 1, 'LHR-efz.ms-acdc.office.com': 1}
+1622623252962,0,192.168.2.92,275,2.0,4,{'upload.fp.measure.office.com': 1, 'fpc.msedge.net': 1, '4.perf.msedge.net': 1, 'b-0008.b-msedge.net': 1}
+1622623252963,0,192.168.2.92,206,1.0,2,{'wpad.vipl.com': 1, 'vipl.com': 1}
+1622623252964,0,192.168.2.92,198,-0.0,1,{'clientservices.googleapis.com': 1}
+1622623252965,0,192.168.2.92,198,-0.0,1,{'clientservices.googleapis.com': 1}
+1622623254380,2,192.168.2.92,146,-0.0,1,{'qqdgmhkrwtdxb': 1}
+1622623254381,0,192.168.2.92,222,1.0,2,{'zzwljvabqfjr.vipl.com': 1, 'vipl.com': 1}
+1622623254381,1,192.168.2.92,144,-0.0,1,{'zzwljvabqfjr': 1}
+1622623254381,1,192.168.2.92,222,1.0,2,{'zzwljvabqfjr.vipl.com': 1, 'vipl.com': 1}
+1622623254382,1,192.168.2.92,148,-0.0,1,{'jrmnovhgfrxtyu': 1}
+1622623256385,0,192.168.2.92,168,-0.0,1,{'www.google.com': 1}
+1622623257566,0,192.168.2.92,189,1.0,2,{'ogs.google.com': 1, 'www3.l.google.com': 1}
+1622623257566,0,192.168.2.92,269,1.0,2,{'ogs.google.com': 1, 'www3.l.google.com': 1}
+1622623260298,0,192.168.2.92,192,-0.0,1,{'sec-tws-prod-vip.webex.com': 1}
+1622623276968,0,192.168.2.92,314,2.0,4,{'outlook.office365.com': 1, 'outlook.ha.office365.com': 1, 'outlook.ms-acdc.office.com': 1, 'GOI-efz.ms-acdc.office.com': 1}
+1622623278001,188,192.168.2.92,254,1.0,2,{'_rmsredir._http._tcp.vehere.com': 1, 'vehere.com': 1}
+1622623309589,0,192.168.2.92,238,1.0,2,{'_ldap._tcp.dc._msdcs.vipl.com': 1, 'vipl.com': 1}
+1622623309589,0,192.168.2.92,300,1.0,2,{'_ldap._tcp.Default-First-Site-Name._sites.dc._msdcs.vipl.com': 1, 'vipl.com': 1}
+1622623327614,0,192.168.2.92,219,1.584962500721156,3,{'fpc.msedge.net': 1, '4.perf.msedge.net': 1, 'b-0008.b-msedge.net': 1}
+1622623330204,1,192.168.2.92,128,-0.0,1,{'wpad': 1}
+1622623336374,0,192.168.2.92,238,1.0,2,{'_ldap._tcp.dc._msdcs.vipl.com': 1, 'vipl.com': 1}
+1622623336374,0,192.168.2.92,322,1.0,2,{'_ldap._tcp.2a538de9-cc34-4ef0-bd9d-0b4c18a772a3.domains._msdcs.vipl.com': 1, 'vipl.com': 1}
+1622623336374,1,192.168.2.92,238,1.0,2,{'_ldap._tcp.dc._msdcs.vipl.com': 1, 'vipl.com': 1}
+1622623336375,0,192.168.2.92,422,3.0,8,{'substrate.office.com': 1, 'substrate.ha.office.com': 1, 'substrate.ms-acdc.office.com': 1, 'afd-k.office.com': 1, 'outlook-office-com.k-0002.k-msedge.net': 1, 'outlook.ha.office365.com': 1, 'outlook.ms-acdc.office.com': 1, 'PNQ-efz.ms-acdc.office.com': 1}
+1622623338363,194,192.168.2.92,507,2.807354922057604,7,{'vehereinteractive-my.sharepoint.com': 1, 'vehereinteractive.sharepoint.com': 1, '183-ipv4e.clump.dprodmgd106.aa-rt.sharepoint.com': 1, '195219-ipv4e.farm.dprodmgd106.aa-rt.sharepoint.com': 1, '195219-ipv4e.farm.dprodmgd106.sharepointonline.com.akadns.net': 1, '195219-ipv4.farm.dprodmgd106.aa-rt.sharepoint.com.spo-0004.spo-msedge.net': 1, '195219-ipv4.farm.dprodmgd106.aa-rt.sharepoint.com': 1}
+1622623338364,193,192.168.2.92,423,2.584962500721156,6,{'vehereinteractive-my.sharepoint.com': 1, 'vehereinteractive.sharepoint.com': 1, '183-ipv4e.clump.dprodmgd106.aa-rt.sharepoint.com': 1, '195219-ipv4e.farm.dprodmgd106.aa-rt.sharepoint.com': 1, '195219-ipv4e.farm.dprodmgd106.sharepointonline.com.akadns.net': 1, '195219-ipv4.farm.dprodmgd106.aa-rt.sharepoint.com': 1}
+1622623349272,478,192.168.2.92,423,2.321928094887362,5,{'statics.teams.cdn.office.net': 1, 'teams-staticscdn.trafficmanager.net': 1, 'statics.teams.cdn.office.net-c.edgesuite.net': 1, 'statics.teams.cdn.office.net-c.edgesuite.net.globalredir.akadns.net': 1, 'a1813.dscd.akamai.net': 1}
+1622623349750,1,192.168.2.92,423,2.321928094887362,5,{'statics.teams.cdn.office.net': 1, 'teams-staticscdn.trafficmanager.net': 1, 'statics.teams.cdn.office.net-c.edgesuite.net': 1, 'statics.teams.cdn.office.net-c.edgesuite.net.globalredir.akadns.net': 1, 'a1813.dscd.akamai.net': 1}
+1622623351332,0,192.168.2.92,235,1.584962500721156,3,{'spo-ring.msedge.net': 1, 'spo-ring.spo-9999.spo-msedge.net': 1, 'spo-9999.spo-msedge.net': 1}
+1622623352933,0,192.168.2.92,275,2.0,4,{'upload.fp.measure.office.com': 1, 'fpc.msedge.net': 1, '4.perf.msedge.net': 1, 'b-0008.b-msedge.net': 1}
+1622623352934,0,192.168.2.92,275,2.0,4,{'upload.fp.measure.office.com': 1, 'fpc.msedge.net': 1, '4.perf.msedge.net': 1, 'b-0008.b-msedge.net': 1}
+1622623378411,0,192.168.2.92,235,1.584962500721156,3,{'spo-ring.msedge.net': 1, 'spo-ring.spo-9999.spo-msedge.net': 1, 'spo-9999.spo-msedge.net': 1}
+1622623378411,1,192.168.2.92,235,1.584962500721156,3,{'spo-ring.msedge.net': 1, 'spo-ring.spo-9999.spo-msedge.net': 1, 'spo-9999.spo-msedge.net': 1}
+1622623379282,1,192.168.2.92,255,1.0,2,{'mrodevicemgr.officeapps.live.com': 1, 'prod.mrodevicemgr.live.com.akadns.net': 1}
+1622623379283,0,192.168.2.92,255,1.0,2,{'mrodevicemgr.officeapps.live.com': 1, 'prod.mrodevicemgr.live.com.akadns.net': 1}
+1622623384623,0,192.168.2.92,206,1.0,2,{'wpad.vipl.com': 1, 'vipl.com': 1}
+1622623384623,0,192.168.2.92,206,1.0,2,{'wpad.vipl.com': 1, 'vipl.com': 1}
+1622623384624,0,192.168.2.92,194,-0.0,1,{'safebrowsing.googleapis.com': 1}
+1622623384624,1,192.168.2.92,194,-0.0,1,{'safebrowsing.googleapis.com': 1}
+1622623388293,0,192.168.2.92,269,2.0,4,{'teams.microsoft.com': 1, 'teams.office.com': 1, 'teams-office-com.s-0005.s-msedge.net': 1, 's-0005.s-msedge.net': 1}
+1622623390282,0,192.168.2.92,275,2.0,4,{'upload.fp.measure.office.com': 1, 'fpc.msedge.net': 1, '4.perf.msedge.net': 1, 'b-0008.b-msedge.net': 1}
+1622623390692,0,192.168.2.92,441,2.321928094887362,5,{'login.microsoftonline.com': 1, 'a.privatelink.msidentity.com': 1, 'prda.aadg.msidentity.com': 1, 'www.tm.a.prd.aadg.trafficmanager.net': 1, 'maa.current.a.prd.aadg.trafficmanager.net': 1}
+1622623392399,0,192.168.2.92,330,1.584962500721156,3,{'apac.presence.teams.microsoft.com': 1, 'apac.presence.services.sfb.trafficmanager.net': 1, 'a-ups-presence3-prod-azsc.japanwest.cloudapp.azure.com': 1}
+1622623402232,1,192.168.2.92,249,1.0,2,{'settings-win.data.microsoft.com': 1, 'settingsfd-geo.trafficmanager.net': 1}
+1622623410773,0,192.168.2.92,296,1.584962500721156,3,{'teams.events.data.microsoft.com': 1, 'teams-events-data.trafficmanager.net': 1, 'skypedataprdcolneu02.cloudapp.net': 1}
+1622623410773,0,192.168.2.92,296,1.584962500721156,3,{'teams.events.data.microsoft.com': 1, 'teams-events-data.trafficmanager.net': 1, 'skypedataprdcolwus01.cloudapp.net': 1}
+1622623437525,0,192.168.2.92,300,1.584962500721156,3,{'in.ng.msg.teams.microsoft.com': 1, 'in.ng.msg.teams-msgapi.trafficmanager.net': 1, 'msgapi-prod-wjp-azsc5-1.cloudapp.net': 1}
+1622623441524,0,192.168.2.92,249,1.0,2,{'nexusrules.officeapps.live.com': 1, 'prod.nexusrules.live.com.akadns.net': 1}
+1622623484420,0,192.168.2.92,206,1.0,2,{'wpad.vipl.com': 1, 'vipl.com': 1}
+1622623497038,0,192.168.2.92,295,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcoleus04.cloudapp.net': 1}
+1622623497038,0,192.168.2.92,295,1.584962500721156,3,{'mobile.pipe.aria.microsoft.com': 1, 'mobile.events.data.trafficmanager.net': 1, 'skypedataprdcoleus12.cloudapp.net': 1}
+1622623500245,0,192.168.2.92,293,1.584962500721156,3,{'self.events.data.microsoft.com': 1, 'self-events-data.trafficmanager.net': 1, 'skypedataprdcolcus09.cloudapp.net': 1}
+1622623500249,0,192.168.2.92,300,1.0,2,{'_ldap._tcp.Default-First-Site-Name._sites.dc._msdcs.vipl.com': 1, 'vipl.com': 1}
+1622623500250,0,192.168.2.92,322,1.0,2,{'_ldap._tcp.2a538de9-cc34-4ef0-bd9d-0b4c18a772a3.domains._msdcs.vipl.com': 1, 'vipl.com': 1}
+1622623502925,0,192.168.2.92,300,1.584962500721156,3,{'v10.events.data.microsoft.com': 1, 'global.asimov.events.data.trafficmanager.net': 1, 'skypedataprdcolcus04.cloudapp.net': 1}
+1622624188708,1,192.168.2.92,415,1.584962500721156,3,{'officecdn.microsoft.com.edgesuite.net': 1, 'officecdn.microsoft.com.edgesuite.net.globalredir.akadns.net': 1, 'a1737.dspw65.akamai.net': 1}
+1622624199015,2,192.168.2.92,257,1.0,2,{'tsfe.trafficshaping.dsp.mp.microsoft.com': 1, 'tsfe.trafficmanager.net': 1}
+1622624199018,383,192.168.2.92,325,1.0,2,{'3.au.download.windowsupdate.com': 1, 'au.download.windowsupdate.com.c.footprint.net': 1}
+1622624212572,1,192.168.2.92,344,2.321928094887362,5,{'11.tlu.dl.delivery.mp.microsoft.com': 1, 'tlu-dcat.azureedge.net': 1, 'tlu-dcat.ec.azureedge.net': 1, 'wu.wpc.apr-52dd2.edgecastdns.net': 1, 'cs11.wpc.v0cdn.net': 1}
+1622624255571,1,192.168.2.92,356,2.0,4,{'cp501.prod.do.dsp.mp.microsoft.com': 1, 'cp501.prod.dodsp.mp.microsoft.com.nsatc.net': 1, 'cp501.prod.do.dsp.mp.microsoft.com.edgekey.net': 1, 'e10370.g.akamaiedge.net': 1}
+1622624255572,0,192.168.2.92,356,2.0,4,{'cp501.prod.do.dsp.mp.microsoft.com': 1, 'cp501.prod.dodsp.mp.microsoft.com.nsatc.net': 1, 'cp501.prod.do.dsp.mp.microsoft.com.edgekey.net': 1, 'e10370.g.akamaiedge.net': 1}
+1622624255574,0,192.168.2.92,322,2.0,4,{'emdl.ws.microsoft.com': 1, 'win8-emdlws-main.trafficmanager.net': 1, 'emdl.ws.microsoft.com.edgesuite.net': 1, 'a1158.g.akamai.net': 1}
+1622624255574,1,192.168.2.92,322,2.0,4,{'emdl.ws.microsoft.com': 1, 'win8-emdlws-main.trafficmanager.net': 1, 'emdl.ws.microsoft.com.edgesuite.net': 1, 'a1158.g.akamai.net': 1}
+1622624261365,1,192.168.2.92,344,2.321928094887362,5,{'11.tlu.dl.delivery.mp.microsoft.com': 1, 'tlu-dcat.azureedge.net': 1, 'tlu-dcat.ec.azureedge.net': 1, 'wu.wpc.apr-52dd2.edgecastdns.net': 1, 'cs11.wpc.v0cdn.net': 1}
+1622624261366,1,192.168.2.92,344,2.321928094887362,5,{'11.tlu.dl.delivery.mp.microsoft.com': 1, 'tlu-dcat.azureedge.net': 1, 'tlu-dcat.ec.azureedge.net': 1, 'wu.wpc.apr-52dd2.edgecastdns.net': 1, 'cs11.wpc.v0cdn.net': 1}
+1622624399009,0,192.168.2.92,300,1.0,2,{'_ldap._tcp.Default-First-Site-Name._sites.dc._msdcs.vipl.com': 1, 'vipl.com': 1}
+1622624399009,2,192.168.2.92,300,1.0,2,{'_ldap._tcp.Default-First-Site-Name._sites.dc._msdcs.vipl.com': 1, 'vipl.com': 1}
+1622624501464,0,192.168.2.92,298,2.0,4,{'outlook.office365.com': 1, 'outlook.ha.office365.com': 1, 'outlook.ms-acdc.office.com': 1, 'BOM-efz.ms-acdc.office.com': 1}
+1622624501464,1,192.168.2.92,319,1.0,2,{'outlook.office365.com': 1, 'outlook.ha.office365.com': 1}
+1622624507543,0,192.168.2.92,202,1.0,2,{'clients1.google.com': 1, 'clients.l.google.com': 1}
+1622624507543,0,192.168.2.92,282,1.0,2,{'clients1.google.com': 1, 'clients.l.google.com': 1}
+1622624528536,0,192.168.2.92,329,1.584962500721156,3,{'apac.presence.teams.microsoft.com': 1, 'apac.presence.services.sfb.trafficmanager.net': 1, 'a-ups-presence1-prod-azsc.eastasia.cloudapp.azure.com': 1}
+1622624550624,2402,192.168.2.92,316,1.0,2,{'_ldap._tcp.Default-First-Site-Name._sites.dc._msdcs.PRAVEEN.vipl.com': 1, 'vipl.com': 1}
+1622624553025,1,192.168.2.92,316,1.0,2,{'_ldap._tcp.Default-First-Site-Name._sites.dc._msdcs.PRAVEEN.vipl.com': 1, 'vipl.com': 1}
+1622624553026,0,192.168.2.92,254,1.0,2,{'_ldap._tcp.dc._msdcs.PRAVEEN.vipl.com': 1, 'vipl.com': 1}
+1622624557977,0,192.168.2.92,247,1.584962500721156,3,{'c.salesforce.com': 1, 'c.salesforce.com.edgekey.net': 1, 'e9989.a.akamaiedge.net': 1}
+1622624557978,0,192.168.2.92,216,-0.0,1,{'cdn.evgnet.com': 1}
+1622624557978,3,192.168.2.92,247,1.584962500721156,3,{'c.salesforce.com': 1, 'c.salesforce.com.edgekey.net': 1, 'e9989.a.akamaiedge.net': 1}
+1622624557979,0,192.168.2.92,212,-0.0,1,{'salesforce.us-1.evergage.com': 1}
+1622624557980,0,192.168.2.92,273,1.584962500721156,3,{'www.salesforce.com': 1, 'www.salesforce.com.edgekey.net': 1, 'e63490.dsca.akamaiedge.net': 1}
+1622624557980,188,192.168.2.92,273,1.584962500721156,3,{'www.salesforce.com': 1, 'www.salesforce.com.edgekey.net': 1, 'e63490.dsca.akamaiedge.net': 1}
+1622624557982,185,192.168.2.92,280,1.584962500721156,3,{'appsforoffice.microsoft.com': 1, 'appsforoffice.microsoft.com.edgekey.net': 1, 'e2682.g.akamaiedge.net': 1}
+1622624559516,1,192.168.2.92,204,-0.0,1,{'geolocation.onetrust.com': 1}
+1622624560488,0,192.168.2.92,242,1.584962500721156,3,{'ajax.aspnetcdn.com': 1, 'mscomajax.vo.msecnd.net': 1, 'cs22.wpc.v0cdn.net': 1}
+1622624560488,455,192.168.2.92,242,1.584962500721156,3,{'ajax.aspnetcdn.com': 1, 'mscomajax.vo.msecnd.net': 1, 'cs22.wpc.v0cdn.net': 1}
+1622624562360,0,192.168.2.92,232,1.0,2,{'www.google-analytics.com': 1, 'www-google-analytics.l.google.com': 1}
+1622624563940,1,192.168.2.92,392,2.0,4,{'dpm.demdex.net': 1, 'gslb-2.demdex.net': 1, 'edge-ind1.demdex.net': 1, 'dcs-edge-ind1-1562177235.ap-south-1.elb.amazonaws.com': 1}
+1622624563941,0,192.168.2.92,256,1.0,2,{'stats.g.doubleclick.net': 1, 'stats.l.doubleclick.net': 1}
+1622624563941,1,192.168.2.92,390,2.0,4,{'dpm.demdex.net': 1, 'gslb-2.demdex.net': 1, 'edge-irl1.demdex.net': 1, 'dcs-edge-irl1-876252164.eu-west-1.elb.amazonaws.com': 1}
+1622624563944,0,192.168.2.92,288,1.0,2,{'omtr2.partners.salesforce.com': 1, 'partners.salesforce.com.ssl.d2.sc.omtrdc.net': 1}
+1622624563945,1,192.168.2.92,288,1.0,2,{'omtr2.partners.salesforce.com': 1, 'partners.salesforce.com.ssl.d2.sc.omtrdc.net': 1}
+1622624567086,0,192.168.2.92,442,3.169925001442312,9,{'outlook.office.com': 1, 'substrate.office.com': 1, 'substrate.ha.office.com': 1, 'substrate.ms-acdc.office.com': 1, 'afd-k.office.com': 1, 'outlook-office-com.k-0002.k-msedge.net': 1, 'outlook.ha.office365.com': 1, 'outlook.ms-acdc.office.com': 1, 'PNQ-efz.ms-acdc.office.com': 1}
+1622624585610,0,192.168.2.92,206,1.0,2,{'wpad.vipl.com': 1, 'vipl.com': 1}
+1622624585610,0,192.168.2.92,206,1.0,2,{'wpad.vipl.com': 1, 'vipl.com': 1}
+1622624585618,0,192.168.2.92,208,-0.0,1,{'privacyportal.onetrust.com': 1}
+1622624585618,1,192.168.2.92,208,-0.0,1,{'privacyportal.onetrust.com': 1}
+1622624601266,0,192.168.2.92,300,1.0,2,{'_ldap._tcp.Default-First-Site-Name._sites.dc._msdcs.vipl.com': 1, 'vipl.com': 1}
+1622624601267,0,192.168.2.92,238,1.0,2,{'_ldap._tcp.dc._msdcs.vipl.com': 1, 'vipl.com': 1}
+1622624601267,188,192.168.2.92,322,1.0,2,{'_ldap._tcp.2a538de9-cc34-4ef0-bd9d-0b4c18a772a3.domains._msdcs.vipl.com': 1, 'vipl.com': 1}
+1622624601267,189,192.168.2.92,300,1.0,2,{'_ldap._tcp.Default-First-Site-Name._sites.dc._msdcs.vipl.com': 1, 'vipl.com': 1}
+1622624601711,204,192.168.2.92,176,-0.0,1,{'edgedl.me.gvt1.com': 1}
+1622624601711,204,192.168.2.92,176,-0.0,1,{'edgedl.me.gvt1.com': 1}
+1622624614920,0,192.168.2.92,251,1.584962500721156,3,{'go.microsoft.com': 1, 'go.microsoft.com.edgekey.net': 1, 'e11290.dspg.akamaiedge.net': 1}
+1622624618184,0,192.168.2.92,212,1.0,2,{'ieonline.microsoft.com': 1, 'any.edge.bing.com': 1}
+1622624619404,0,192.168.2.92,251,1.584962500721156,3,{'go.microsoft.com': 1, 'go.microsoft.com.edgekey.net': 1, 'e11290.dspg.akamaiedge.net': 1}
+1622624619405,816,192.168.2.92,251,1.584962500721156,3,{'go.microsoft.com': 1, 'go.microsoft.com.edgekey.net': 1, 'e11290.dspg.akamaiedge.net': 1}
+1622624687502,0,192.168.2.92,382,2.584962500721156,6,{'officecdn.microsoft.com': 1, 'office.c2r.akadns.net': 1, '2-01-3f20-0003.cdx.cedexis.net': 1, 'office-prod.edgekey.net': 1, 'office-prod.edgekey.net.globalredir.akadns.net': 1, 'e1723.dscd.akamaiedge.net': 1}
+1622624687502,1,192.168.2.92,310,2.321928094887362,5,{'officecdn.microsoft.com': 1, 'office.c2r.akadns.net': 1, '2-01-3f20-0003.cdx.cedexis.net': 1, 'C2R.a-0020.a-msedge.net': 1, 'a-0020.a-msedge.net': 1}
+1622624804629,2,192.168.2.92,219,1.0,2,{'r4---sn-cvh7knes.gvt1.com': 1, 'r4.sn-cvh7knes.gvt1.com': 1}
+1622624804630,523,192.168.2.92,219,1.0,2,{'r4---sn-cvh7knes.gvt1.com': 1, 'r4.sn-cvh7knes.gvt1.com': 1}
